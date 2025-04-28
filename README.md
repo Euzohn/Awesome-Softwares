@@ -23,6 +23,7 @@
 | **🛠 功能用途 Features / Usage** | 播放器 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/iina/iina) |
+| **💰 是否免费 License Type** | ![Free](https://img.shields.io/badge/License-Free-brightgreen) |
 | **✨ 亮点 Highlights** | 免费、开源|
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="Software Logo" width="120"/> |
@@ -38,6 +39,7 @@
 | **🛠 功能用途 Features / Usage** | 将文件分享到附近的设备 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
+| **💰 是否免费 License Type** | ![Free](https://img.shields.io/badge/License-Free-brightgreen) |
 | **✨ 亮点 Highlights** | 去中心化、跨平台、免费、开源、安全、易于使用|
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
@@ -53,8 +55,8 @@
 | **🛠 功能用途 Features / Usage** | Dynamic Island Mac |
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub源代码 GitHub Repository** | 无 / None |
+| **💰 是否免费 License Type** | ![Paid](https://img.shields.io/badge/License-Paid-orange) |
 | **✨ 亮点 Highlights** | Dynamic Island Mac 、付费|
 | **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool  #设计 / #Design |
 | **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
-
 
