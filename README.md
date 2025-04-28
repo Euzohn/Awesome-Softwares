@@ -9,11 +9,11 @@
 
 - [🖥 IINA](#IINA)
 - [🖥 LocalSend](#LocalSend)
-- [🖥 DynamicLake Pro](#DynamicLake Pro)、
+- [🖥 DynamicLake Pro](#DynamicLake%20Pro)、
 
 ---
 
-## 🖥 IINA
+## IINA
 
 | 信息项 | Details |
 | :--- | :--- |
