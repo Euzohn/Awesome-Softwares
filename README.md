@@ -19,7 +19,7 @@
 | 信息项 | Details |
 | :--- | :--- |
 | **🌐 官网 Website** | [点击访问 Click to Visit](https://www.iina.io/) |
-| **🖥 适用系统 Operating Systems** |  macOS|
+| **🖥 适用系统 Operating Systems** |  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)|
 | **🛠 功能用途 Features / Usage** | 播放器 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/iina/iina) |
@@ -35,7 +35,7 @@
 | 信息项 | Details |
 | :--- | :--- |
 | **🌐 官网 Website** | [点击访问 Click to Visit](https://localsend.org/) |
-| **🖥 适用系统 Operating Systems** | Windows / macOS / Linux / Android / iOS |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) / ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) / ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) / ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) / ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途 Features / Usage** | 将文件分享到附近的设备 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
@@ -51,7 +51,7 @@
 | 信息项 | Details |
 | :--- | :--- |
 | **🌐 官网 Website** | [点击访问 Click to Visit](https://www.dynamiclake.com/) |
-| **🖥 适用系统 Operating Systems** | macOS |
+| **🖥 适用系统 Operating Systems** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途 Features / Usage** | Dynamic Island Mac |
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub源代码 GitHub Repository** | 无 / None |
