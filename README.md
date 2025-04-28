@@ -1,13 +1,60 @@
-# Softwares
+# 📚 软件列表 Software List
 
-> 记录自己常用的软件官网
+> 本仓库收录常用软件的官网地址、适用系统、功能用途、开源状态、GitHub仓库地址、Logo展示、亮点总结及分类标签。  
+> This repository collects the official websites, supported systems, features, open-source status, GitHub repository links, logos, highlights, and category tags of commonly used software.
 
-[LocalSend](https://localsend.org/)
-https://github.com/localsend/localsend
-#Windows #MacOS #Linux #Android #IOS
-> 将文件分享到附近的设备。
-> 免费、开源、跨平台。
+---
 
-IINA
-https://www.iina.io/
-https://github.com/iina/iina
+## 📖 目录 Table of Contents
+
+- [🖥 IINA](#IINA)
+- [🖥 软件名称2 Software Name 2](#软件名称2-software-name-2)
+- [🖥 软件名称3 Software Name 3](#软件名称3-software-name-3)
+- （按需添加 / Add more as needed）
+
+---
+
+## 🖥 IINA
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.iina.io/) |
+| **🖥 适用系统 Operating Systems** |  macOS|
+| **🛠 功能用途 Features / Usage** | 播放器 |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/iina/iina) |
+| **✨ 亮点 Highlights** | 免费、开源|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="Software Logo" width="120"/> |
+
+---
+
+## 🖥 LocalSend
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://localsend.org/) |
+| **🖥 适用系统 Operating Systems** | Windows / macOS / Linux / Android / iOS |
+| **🛠 功能用途 Features / Usage** | 将文件分享到附近的设备 |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
+| **✨ 亮点 Highlights** | 去中心化、跨平台、免费、开源、安全、易于使用|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
+
+---
+
+## 🖥 DynamicLake Pro
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.dynamiclake.com/) |
+| **🖥 适用系统 Operating Systems** | macOS |
+| **🛠 功能用途 Features / Usage** | Dynamic Island Mac |
+| **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub源代码 GitHub Repository** | 无 / None |
+| **✨ 亮点 Highlights** | Dynamic Island Mac 、付费|
+| **🏷 分类 Tags** |  #效率 / #Productivity |
+| **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
+
+
