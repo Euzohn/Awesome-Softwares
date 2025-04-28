@@ -8,9 +8,8 @@
 ## 📖 目录 Table of Contents
 
 - [🖥 IINA](#IINA)
-- [🖥 软件名称2 Software Name 2](#软件名称2-software-name-2)
-- [🖥 软件名称3 Software Name 3](#软件名称3-software-name-3)
-- （按需添加 / Add more as needed）
+- [🖥 LocalSend](#LocalSend)
+- [🖥 DynamicLake Pro](#DynamicLake Pro)、
 
 ---
 
@@ -54,7 +53,7 @@
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub源代码 GitHub Repository** | 无 / None |
 | **✨ 亮点 Highlights** | Dynamic Island Mac 、付费|
-| **🏷 分类 Tags** |  #效率 / #Productivity |
+| **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool  #设计 / #Design |
 | **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
 
 
