@@ -7,9 +7,10 @@
 
 ## 📖 目录 Table of Contents
 
+
+- [🖥 DynamicLake Pro](#DynamicLake%20Pro)
 - [🖥 IINA](#IINA)
 - [🖥 LocalSend](#LocalSend)
-- [🖥 DynamicLake Pro](#DynamicLake%20Pro)、
 
 ---
 
@@ -28,7 +29,7 @@
 
 ---
 
-## 🖥 LocalSend
+## LocalSend
 
 | 信息项 | Details |
 | :--- | :--- |
@@ -43,7 +44,7 @@
 
 ---
 
-## 🖥 DynamicLake Pro
+## DynamicLake Pro
 
 | 信息项 | Details |
 | :--- | :--- |
