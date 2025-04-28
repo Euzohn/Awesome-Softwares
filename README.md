@@ -10,6 +10,7 @@
 
 - [🖥 DynamicLake Pro](#DynamicLake-Pro)
 - [🖥 IINA](#IINA)
+- [🖥 Keka](#Keka)
 - [🖥 LocalSend](#LocalSend)
 
 ---
@@ -35,7 +36,7 @@
 | 信息项 | Details |
 | :--- | :--- |
 | **🌐 官网 Website** | [点击访问 Click to Visit](https://localsend.org/) |
-| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) / ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) / ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) / ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) / ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)  ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途 Features / Usage** | 将文件分享到附近的设备 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
@@ -60,3 +61,18 @@
 | **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool  #设计 / #Design |
 | **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
 
+---
+
+## Keka
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit/Mac](https://www.keka.io/) [点击访问 Click to Visit/IOS](https://ios.keka.io/) |
+| **🖥 适用系统 Operating Systems** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | 压缩/解压缩文件 |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/aonez/Keka) |
+| **💰 是否免费 License Type** | ![Free](https://img.shields.io/badge/License-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - So simple, so strong</br>- Privacy is very important</br>- Still too big...|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://www.keka.io/img/Keka-Square-512x512.png" alt="Software Logo" width="120"/> |
