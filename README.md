@@ -42,6 +42,7 @@
 | **🛠 功能用途 Features / Usage** | 将文件分享到附近的设备，需要同网络 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/localsend/localsend?style=social) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 去中心化</br>- 跨平台</br>- 免费</br>- 开源</br>- 安全</br>- 易于使用|
 | **🏷 分类 Tags** | #工具 / #Tool |
@@ -59,7 +60,6 @@
 | **🖥 适用系统 Operating Systems** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途 Features / Usage** | 美化刘海，添加更多功能 |
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub源代码 GitHub Repository** | 无 / None |
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-orange) |
 | **✨ 亮点 Highlights** | Dynamic Island Mac 、付费|
 | **🏷 分类 Tags** | #工具 / #Tool  #设计 / #Design |
@@ -76,6 +76,7 @@
 | **🛠 功能用途 Features / Usage** | 压缩/解压缩文件 |
 | **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/aonez/Keka) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/aonez/Keka?style=social) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - So simple, so strong</br>- Privacy is very important</br>- Still too big...|
 | **🏷 分类 Tags** | #工具 / #Tool |
@@ -91,7 +92,6 @@
 | **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  |
 | **🛠 功能用途 Features / Usage** | 文本编辑器，Text Editing 代码高亮 |
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub源代码 GitHub Repository** | 无 / None |
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-orange) 能无限试用|
 | **✨ 亮点 Highlights** | - GPU Rendering </br> - Apple Silicon and Linux ARM64 </br> - Tab Multi-Select </br> - Context-Aware Auto Complete </br> - Refreshed UI </br> - TypeScript, JSX and TSX Support </br> - Superpowered Syntax Definitions </br> - Updated Python API|
 | **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool   |
