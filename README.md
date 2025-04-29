@@ -13,8 +13,10 @@
 - [🖥 iTerm2](#iTerm2)
 - [🖥 Keka](#Keka)
 - [🖥 LocalSend](#LocalSend)
+- [🖥 Modern CSV](#Modern-CSV)
 - [🖥 OBS](#OBS)
 - [🖥 Sublime Text](#Sublime-Text)
+- [🖥 Transnomino](#Transnomino)
 
 
 ## 说明
@@ -162,3 +164,33 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.高性能实时视频/音频捕获和混合。创建由多个来源组成的场景，包括窗口捕获、图像、文本、浏览器窗口、网络摄像头、捕获卡等。</br>- Set up an unlimited number of scenes you can switch between seamlessly via custom transitions.设置无限数量的场景，您可以通过自定义过渡无缝切换。</br>- Intuitive audio mixer with per-source filters such as noise gate, noise suppression, and gain. Take full control with VST plugin support.直观的混音器，带有每个源的滤波器，如噪声门、噪声抑制和增益。通过 VST 插件支持进行完全控制。</br>- Powerful and easy to use configuration options. Add new Sources, duplicate existing ones, and adjust their properties effortlessly.功能强大且易于使用的配置选项。轻松添加新的源，复制现有的源，并调整其属性。</br>- Streamlined Settings panel gives you access to a wide array of configuration options to tweak every aspect of your broadcast or recording.简化的 Settings 面板允许您访问各种配置选项，以调整广播或录制的各个方面。</br>- Modular 'Dock' UI allows you to rearrange the layout exactly as you like. You can even pop out each individual Dock to its own window.模块化的 'Dock' UI 允许您完全按照自己的喜好重新排列布局。您甚至可以将每个单独的 Dock 弹出到其自己的窗口。|
 | **🏷 分类 Tags** |#效率 / #Productivity #工具 / #Tool #音视频处理 / #MediaProcessing|
 | **🖼 Logo** | <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="Software Logo" width="120"/> |
+
+---
+
+## Modern-CSV
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.moderncsv.com/) |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | An Intuitive CSV Editor/Viewer for Windows, Mac, and Linux 直观的 CSV 编辑器/查看器 适用于 Windows、Mac 和 Linux |
+| **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
+| **✨ 亮点 Highlights** | - Edit CSV Files with Ease 轻松编辑 CSV 文件</br>- Find and Arrange Your CSV Data 查找和排列 CSV 数据</br>- Cross-Platform Consistency 跨平台一致性</br>- Privacy Assured  隐私保证</br>- View Large CSV Files Quickly 快速查看大型 CSV 文件</br>- A Fully Customizable CSV Editor 完全可定制的 CSV 编辑器|
+| **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
+| **🖼 Logo** | <img src="https://www.moderncsv.com/wp-content/uploads/2023/02/logo-dark-127.png" alt="Software Logo" width="500"/> |
+
+---
+
+## Transnomino
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.transnomino.com/) |
+| **🖥 适用系统 Operating Systems** |  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  |
+| **🛠 功能用途 Features / Usage** | A batch rename utility for the Mac 适用于 Mac 的批量重命名实用程序 |
+| **🔓 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | Transnomino 提供了一组通用的重命名作，从简单的文本替换到使用正则表达式的高级修改和基于文件属性的文本插入。|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://www.transnomino.com/assets/transnomino-icon.webp" alt="Software Logo" width="120"/> |
