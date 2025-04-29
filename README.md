@@ -64,7 +64,7 @@
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 去中心化 Decentralized</br>- 跨平台 Cross-platform</br>- 免费 Free</br>- 开源 Open Source</br>- 安全 Secure</br>- 易于使用 Easy to Use|
 | **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement|
-| **🖼 Logo** | <img src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/localsend-logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
 
 
 
@@ -81,7 +81,7 @@
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ 亮点 Highlights** | - miniLake  迷你湖</br>- Small things, Big changes 小事，大改动|
 | **🏷 分类 Tags** | #工具 / #Tool  #设计 / #Design |
-| **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -98,7 +98,7 @@
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - So simple, so strong</br>- Privacy is very important</br>- Still too big...|
 | **🏷 分类 Tags** | #工具 / #Tool |
-| **🖼 Logo** | <img src="https://www.keka.io/img/Keka-Square-512x512.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/Keka-Square-512x512.png" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -113,7 +113,7 @@
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-orange) 能无限试用|
 | **✨ 亮点 Highlights** | - GPU Rendering </br> - Apple Silicon and Linux ARM64 </br> - Tab Multi-Select </br> - Context-Aware Auto Complete </br> - Refreshed UI </br> - TypeScript, JSX and TSX Support </br> - Superpowered Syntax Definitions </br> - Updated Python API|
 | **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool #开发工具 / #Development  |
-| **🖼 Logo** | <img src="https://www.sublimehq.com/images/sublime_text.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/sublime_text.png" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -145,7 +145,7 @@
 | **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点 Highlights** | - Search and Browse  搜索和浏览</br>- Type Less, Say More  少打字，多说</br>- Extend and Automate  扩展和自动化</br>- Control Your Music  控制你的音乐</br>- ...|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
-| **🖼 Logo** | <img src="https://www.alfredapp.com/media/logo4@2x.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/alfred-logo4@2x.png" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -164,7 +164,7 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.高性能实时视频/音频捕获和混合。创建由多个来源组成的场景，包括窗口捕获、图像、文本、浏览器窗口、网络摄像头、捕获卡等。</br>- Set up an unlimited number of scenes you can switch between seamlessly via custom transitions.设置无限数量的场景，您可以通过自定义过渡无缝切换。</br>- Intuitive audio mixer with per-source filters such as noise gate, noise suppression, and gain. Take full control with VST plugin support.直观的混音器，带有每个源的滤波器，如噪声门、噪声抑制和增益。通过 VST 插件支持进行完全控制。</br>- Powerful and easy to use configuration options. Add new Sources, duplicate existing ones, and adjust their properties effortlessly.功能强大且易于使用的配置选项。轻松添加新的源，复制现有的源，并调整其属性。</br>- Streamlined Settings panel gives you access to a wide array of configuration options to tweak every aspect of your broadcast or recording.简化的 Settings 面板允许您访问各种配置选项，以调整广播或录制的各个方面。</br>- Modular 'Dock' UI allows you to rearrange the layout exactly as you like. You can even pop out each individual Dock to its own window.模块化的 'Dock' UI 允许您完全按照自己的喜好重新排列布局。您甚至可以将每个单独的 Dock 弹出到其自己的窗口。|
 | **🏷 分类 Tags** |#效率 / #Productivity #工具 / #Tool #音视频处理 / #MediaProcessing|
-| **🖼 Logo** | <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -179,7 +179,7 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点 Highlights** | - Edit CSV Files with Ease 轻松编辑 CSV 文件</br>- Find and Arrange Your CSV Data 查找和排列 CSV 数据</br>- Cross-Platform Consistency 跨平台一致性</br>- Privacy Assured  隐私保证</br>- View Large CSV Files Quickly 快速查看大型 CSV 文件</br>- A Fully Customizable CSV Editor 完全可定制的 CSV 编辑器|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
-| **🖼 Logo** | <img src="https://www.moderncsv.com/wp-content/uploads/2023/02/logo-dark-127.png" alt="Software Logo" width="500"/> |
+| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Software Logo" width="500"/> |
 
 ---
 
@@ -194,7 +194,7 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | Transnomino 提供了一组通用的重命名作，从简单的文本替换到使用正则表达式的高级修改和基于文件属性的文本插入。|
 | **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement #开发工具 / #Development|
-| **🖼 Logo** | <img src="https://www.transnomino.com/assets/transnomino-icon.webp" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/transnomino-icon.webp" alt="Software Logo" width="120"/> |
 
 ---
 
@@ -209,5 +209,5 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ 亮点 Highlights** | - Readable & Writable  可读和可写</br>- Simple, yet Powerful  简单而强大</br>- Accessibility  可及性</br>- Custom Themes  自定义主题|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool |
-| **🖼 Logo** | <img src="https://www.typora.io/img/icon_256x256.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/typora_icon_256x256.png" alt="Software Logo" width="120"/> |
 
