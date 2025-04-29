@@ -17,6 +17,7 @@
 - [🖥 OBS](#OBS)
 - [🖥 Sublime Text](#Sublime-Text)
 - [🖥 Transnomino](#Transnomino)
+- [🖥 Typora](#Typora)
 
 
 ## 说明
@@ -194,3 +195,19 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | Transnomino 提供了一组通用的重命名作，从简单的文本替换到使用正则表达式的高级修改和基于文件属性的文本插入。|
 | **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement #开发工具 / #Development|
 | **🖼 Logo** | <img src="https://www.transnomino.com/assets/transnomino-icon.webp" alt="Software Logo" width="120"/> |
+
+---
+
+## Typora
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.typora.io/) [中文站](https://typoraio.cn/)|
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  |
+| **🛠 功能用途 Features / Usage** |  A minimal Markdown editor and reader. 一款 Markdown 编辑器和阅读器|
+| **🔓 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ 亮点 Highlights** | - Readable & Writable  可读和可写</br>- Simple, yet Powerful  简单而强大</br>- Accessibility  可及性</br>- Custom Themes  自定义主题|
+| **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool |
+| **🖼 Logo** | <img src="https://www.typora.io/img/icon_256x256.png" alt="Software Logo" width="120"/> |
+
