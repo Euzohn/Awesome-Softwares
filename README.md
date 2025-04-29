@@ -13,6 +13,7 @@
 - [🖥 iTerm2](#iTerm2)
 - [🖥 Keka](#Keka)
 - [🖥 LocalSend](#LocalSend)
+- [🖥 OBS](#OBS)
 - [🖥 Sublime Text](#Sublime-Text)
 
 
@@ -128,6 +129,8 @@
 | **🏷 分类 Tags** |#效率 / #Productivity #工具 / #Tool #开发工具 / #Development|
 | **🖼 Logo** | <img src="https://github.com/gnachman/iTerm2/blob/master/images/AppIcon/release.png" alt="Software Logo" width="120"/> |
 
+---
+
 ## Alfred
 
 | 信息项 | Details |
@@ -140,3 +143,22 @@
 | **✨ 亮点 Highlights** | - Search and Browse  搜索和浏览</br>- Type Less, Say More  少打字，多说</br>- Extend and Automate  扩展和自动化</br>- Control Your Music  控制你的音乐</br>- ...|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
 | **🖼 Logo** | <img src="https://www.alfredapp.com/media/logo4@2x.png" alt="Software Logo" width="120"/> |
+
+---
+
+## OBS
+
+OBS-Open Broadcaster Software
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://obsproject.com/) |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  |
+| **🛠 功能用途 Features / Usage** | Free and open source software for video recording and live streaming.Download and start streaming quickly and easily on Windows, Mac or Linux.用于视频录制和直播的免费开源软件。在 Windows、Mac 或 Linux 上快速轻松地下载并开始流式传输。 |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/obsproject/obs-studio) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.高性能实时视频/音频捕获和混合。创建由多个来源组成的场景，包括窗口捕获、图像、文本、浏览器窗口、网络摄像头、捕获卡等。</br>- Set up an unlimited number of scenes you can switch between seamlessly via custom transitions.设置无限数量的场景，您可以通过自定义过渡无缝切换。</br>- Intuitive audio mixer with per-source filters such as noise gate, noise suppression, and gain. Take full control with VST plugin support.直观的混音器，带有每个源的滤波器，如噪声门、噪声抑制和增益。通过 VST 插件支持进行完全控制。</br>- Powerful and easy to use configuration options. Add new Sources, duplicate existing ones, and adjust their properties effortlessly.功能强大且易于使用的配置选项。轻松添加新的源，复制现有的源，并调整其属性。</br>- Streamlined Settings panel gives you access to a wide array of configuration options to tweak every aspect of your broadcast or recording.简化的 Settings 面板允许您访问各种配置选项，以调整广播或录制的各个方面。</br>- Modular 'Dock' UI allows you to rearrange the layout exactly as you like. You can even pop out each individual Dock to its own window.模块化的 'Dock' UI 允许您完全按照自己的喜好重新排列布局。您甚至可以将每个单独的 Dock 弹出到其自己的窗口。|
+| **🏷 分类 Tags** |#效率 / #Productivity #工具 / #Tool #音视频处理 / #MediaProcessing|
+| **🖼 Logo** | <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="Software Logo" width="120"/> |
