@@ -7,7 +7,7 @@
 
 ## 📖 目录 Table of Contents
 
-
+- [🖥 Alfred](#Alfred)
 - [🖥 DynamicLake Pro](#DynamicLake-Pro)
 - [🖥 IINA](#IINA)
 - [🖥 iTerm2](#iTerm2)
@@ -17,8 +17,6 @@
 
 
 ## 说明
-
-### 💰 是否免费（Cost Category）
 
 ### 💰 是否免费（Cost Category）
 
@@ -130,3 +128,15 @@
 | **🏷 分类 Tags** |#效率 / #Productivity #工具 / #Tool #开发工具 / #Development|
 | **🖼 Logo** | <img src="https://github.com/gnachman/iTerm2/blob/master/images/AppIcon/release.png" alt="Software Logo" width="120"/> |
 
+## Alfred
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.alfredapp.com/) |
+| **🖥 适用系统 Operating Systems** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Alfred 是一款屡获殊荣的 macOS 应用程序，它通过热键、关键字、文本扩展等提高您的效率。搜索 Mac 和 Web，并通过自定义作来控制 Mac，从而提高工作效率。 |
+| **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
+| **✨ 亮点 Highlights** | - Search and Browse  搜索和浏览</br>- Type Less, Say More  少打字，多说</br>- Extend and Automate  扩展和自动化</br>- Control Your Music  控制你的音乐</br>- ...|
+| **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
+| **🖼 Logo** | <img src="https://www.alfredapp.com/media/logo4@2x.png" alt="Software Logo" width="120"/> |
