@@ -1,6 +1,6 @@
 # 📚 软件列表 Software List
 
-> 本仓库收录常用软件的官网地址、适用系统、功能用途、开源状态、GitHub仓库地址、Logo展示、亮点总结及分类标签。  
+> 本仓库收录常用软件的官网地址、适用系统、功能用途、开源状态、GitHub仓库地址、Logo展示、亮点总结及分类标签等。  
 > This repository collects the official websites, supported systems, features, open-source status, GitHub repository links, logos, highlights, and category tags of commonly used software.
 
 ---
@@ -44,7 +44,7 @@
 | **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/localsend/localsend) |
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/localsend/localsend?style=social) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点 Highlights** | - 去中心化</br>- 跨平台</br>- 免费</br>- 开源</br>- 安全</br>- 易于使用|
+| **✨ 亮点 Highlights** | - 去中心化 Decentralized</br>- 跨平台 Cross-platform</br>- 免费 Free</br>- 开源 Open Source</br>- 安全 Secure</br>- 易于使用 Easy to Use|
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
 
@@ -96,4 +96,5 @@
 | **✨ 亮点 Highlights** | - GPU Rendering </br> - Apple Silicon and Linux ARM64 </br> - Tab Multi-Select </br> - Context-Aware Auto Complete </br> - Refreshed UI </br> - TypeScript, JSX and TSX Support </br> - Superpowered Syntax Definitions </br> - Updated Python API|
 | **🏷 分类 Tags** |  #效率 / #Productivity #工具 / #Tool   |
 | **🖼 Logo** | <img src="https://www.sublimehq.com/images/sublime_text.png" alt="Software Logo" width="120"/> |
+
 
