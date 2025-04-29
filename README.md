@@ -28,7 +28,7 @@
 |------|------|------|
 | 🟢 **完全免费（Free）** | 所有功能开放，无需注册或付费即可使用全部功能。 | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
-| 🔴 **完全付费（Paid）** | 所有功能需付费使用，无免费版本或试用期。 | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| 🔴 **完全付费（Paid）** | 所有功能需付费使用。 | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
 
 
@@ -63,7 +63,7 @@
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/localsend/localsend?style=social) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 去中心化 Decentralized</br>- 跨平台 Cross-platform</br>- 免费 Free</br>- 开源 Open Source</br>- 安全 Secure</br>- 易于使用 Easy to Use|
-| **🏷 分类 Tags** | #工具 / #Tool |
+| **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement|
 | **🖼 Logo** | <img src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
 
 
@@ -79,9 +79,11 @@
 | **🛠 功能用途 Features / Usage** | 美化刘海，添加更多功能 |
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **💰 是否免费 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
-| **✨ 亮点 Highlights** | Dynamic Island Mac 、付费|
+| **✨ 亮点 Highlights** | - miniLake  迷你湖</br>- Small things, Big changes 小事，大改动|
 | **🏷 分类 Tags** | #工具 / #Tool  #设计 / #Design |
 | **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
+| **🎬 视频 Video** | <iframe width="320" height="240" src="https://framerusercontent.com/assets/6ZZCmCRGCPHpgHFg2LFb067myM.mp4" frameborder="0" allowfullscreen></iframe> |
+
 
 ---
 
