@@ -64,7 +64,7 @@
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 去中心化 Decentralized</br>- 跨平台 Cross-platform</br>- 免费 Free</br>- 开源 Open Source</br>- 安全 Secure</br>- 易于使用 Easy to Use|
 | **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement|
-| **🖼 Logo** | <img src="./images/localsend-logo-512.aU8Z13Dx.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/localsend-logo-512.png" alt="Software Logo" width="120"/> |
 
 
 
