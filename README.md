@@ -82,8 +82,6 @@
 | **✨ 亮点 Highlights** | - miniLake  迷你湖</br>- Small things, Big changes 小事，大改动|
 | **🏷 分类 Tags** | #工具 / #Tool  #设计 / #Design |
 | **🖼 Logo** | <img src="https://cdn.osx.cx/wp-content/uploads/2024/11/DynamicLakePro-ico.png" alt="Software Logo" width="120"/> |
-| **🎬 视频 Video** | <iframe width="320" height="240" src="https://framerusercontent.com/assets/6ZZCmCRGCPHpgHFg2LFb067myM.mp4" frameborder="0" allowfullscreen></iframe> |
-
 
 ---
 
