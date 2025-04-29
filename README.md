@@ -7,17 +7,17 @@
 
 ## 📖 目录 Table of Contents
 
-- [🖥 Alfred](#Alfred)
-- [🖥 DynamicLake Pro](#DynamicLake-Pro)
-- [🖥 IINA](#IINA)
-- [🖥 iTerm2](#iTerm2)
-- [🖥 Keka](#Keka)
-- [🖥 LocalSend](#LocalSend)
-- [🖥 Modern CSV](#Modern-CSV)
-- [🖥 OBS](#OBS)
-- [🖥 Sublime Text](#Sublime-Text)
-- [🖥 Transnomino](#Transnomino)
-- [🖥 Typora](#Typora)
+1. [🖥 Alfred](#Alfred)
+2. [🖥 DynamicLake Pro](#DynamicLake-Pro)
+3. [🖥 IINA](#IINA)
+4. [🖥 iTerm2](#iTerm2)
+5. [🖥 Keka](#Keka)
+6. [🖥 LocalSend](#LocalSend)
+7. [🖥 Modern CSV](#Modern-CSV)
+8. [🖥 OBS](#OBS)
+9. [🖥 Sublime Text](#Sublime-Text)
+10. [🖥 Transnomino](#Transnomino)
+11. [🖥 Typora](#Typora)
 
 
 ## 说明
