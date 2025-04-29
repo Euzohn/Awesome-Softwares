@@ -192,5 +192,5 @@ OBS-Open Broadcaster Software
 | **🔓 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | Transnomino 提供了一组通用的重命名作，从简单的文本替换到使用正则表达式的高级修改和基于文件属性的文本插入。|
-| **🏷 分类 Tags** | #工具 / #Tool |
+| **🏷 分类 Tags** | #工具 / #Tool #文件管理 / #FileManagement #开发工具 / #Development|
 | **🖼 Logo** | <img src="https://www.transnomino.com/assets/transnomino-icon.webp" alt="Software Logo" width="120"/> |
