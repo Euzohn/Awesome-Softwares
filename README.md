@@ -9,15 +9,16 @@
 
 1. [🖥 Alfred](#Alfred)
 2. [🖥 DynamicLake Pro](#DynamicLake-Pro)
-3. [🖥 IINA](#IINA)
-4. [🖥 iTerm2](#iTerm2)
-5. [🖥 Keka](#Keka)
-6. [🖥 LocalSend](#LocalSend)
-7. [🖥 Modern CSV](#Modern-CSV)
-8. [🖥 OBS](#OBS)
-9. [🖥 Sublime Text](#Sublime-Text)
-10. [🖥 Transnomino](#Transnomino)
-11. [🖥 Typora](#Typora)
+3. [🖥 Ice](#Ice)
+4. [🖥 IINA](#IINA)
+5. [🖥 iTerm2](#iTerm2)
+6. [🖥 Keka](#Keka)
+7. [🖥 LocalSend](#LocalSend)
+8. [🖥 Modern CSV](#Modern-CSV)
+9. [🖥 OBS](#OBS)
+10. [🖥 Sublime Text](#Sublime-Text)
+11. [🖥 Transnomino](#Transnomino)
+12. [🖥 Typora](#Typora)
 
 
 ## 说明
@@ -210,4 +211,21 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - Readable & Writable  可读和可写</br>- Simple, yet Powerful  简单而强大</br>- Accessibility  可及性</br>- Custom Themes  自定义主题|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool |
 | **🖼 Logo** | <img src="./images/typora_icon_256x256.png" alt="Software Logo" width="120"/> |
+
+---
+
+## Ice
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://icemenubar.app/) |
+| **🖥 适用系统 Operating Systems** |  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)|
+| **🛠 功能用途 Features / Usage** | Ice is a powerful menu bar management tool. While its primary function is hiding and showing menu bar items, it aims to cover a wide variety of additional features to make it one of the most versatile menu bar tools available. Ice 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为可用的最通用的菜单栏工具之一。|
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/jordanbaird/Ice) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - Show hidden menu bar items below the menu bar 在菜单栏下方显示隐藏的菜单栏项</br>- Drag-and-drop interface to arrange menu bar items 用于排列菜单栏项的拖放界面</br>- Customize the menu bar's appearance 自定义菜单栏的外观</br>- Menu bar item search  菜单栏项搜索</br>- Custom menu bar item spacing 自定义菜单栏项间距</br>- ...and more!  ...以及更多！|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/blob/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Software Logo" width="120"/> |
 
