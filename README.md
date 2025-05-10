@@ -243,4 +243,4 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点 Highlights** | - 超级搜索框</br>- 超级右键</br>- 插件应用 即装即用</br>- 海量插件应用 持续进化|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
-| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Software Logo" width="360"/> |
