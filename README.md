@@ -19,6 +19,7 @@
 10. [🖥 Sublime Text](#Sublime-Text)
 11. [🖥 Transnomino](#Transnomino)
 12. [🖥 Typora](#Typora)
+13. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -229,3 +230,17 @@ OBS-Open Broadcaster Software
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/blob/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Software Logo" width="120"/> |
 
+---
+
+## Utools
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.u-tools.cn) |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  |
+| **🛠 功能用途 Features / Usage** |  uTools 是一种高效工作方式 AI 加持的超级助手，一个入口，无限能力|
+| **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
+| **✨ 亮点 Highlights** | - 超级搜索框</br>- 超级右键</br>- 插件应用 即装即用</br>- 海量插件应用 持续进化|
+| **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
+| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Software Logo" width="120"/> |
