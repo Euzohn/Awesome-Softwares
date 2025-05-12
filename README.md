@@ -16,10 +16,11 @@
 7. [🖥 LocalSend](#LocalSend)
 8. [🖥 Modern CSV](#Modern-CSV)
 9. [🖥 OBS](#OBS)
-10. [🖥 Sublime Text](#Sublime-Text)
-11. [🖥 Transnomino](#Transnomino)
-12. [🖥 Typora](#Typora)
-13. [🖥 Utools](#Utools)
+10. [🖥 QuickRecorder](#QuickRecorder)
+11. [🖥 Sublime Text](#Sublime-Text)
+12. [🖥 Transnomino](#Transnomino)
+13. [🖥 Typora](#Typora)
+14. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -244,3 +245,21 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - 超级搜索框</br>- 超级右键</br>- 插件应用 即装即用</br>- 海量插件应用 持续进化|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool  |
 | **🖼 Logo** | <img src="./images/utool-logo.png" alt="Software Logo" width="360"/> |
+
+---
+
+## QuickRecorder
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://lihaoyun6.github.io/quickrecorder/) |
+| **🖥 适用系统 Operating Systems** |  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)|
+| **🛠 功能用途 Features / Usage** | A lightweight and high-performance screen recorder for macOS 多功能、轻量化、高性能的 macOS 屏幕录制工具|
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/lihaoyun6/QuickRecorder) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/lihaoyun6/QuickRecorder?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - You can use QuickRecorder to record your screens / windows / applications / mobile devices... etc. </br>- QuickRecorder supports driver-free audio loopback recording, mouse highlighting, screen magnifier and many more useful features.</br>- The new "Presenter Overlay" in macOS 14 was fully supported by QuickRecorder, which can overlay the camera in real time on your recording (macOS 12/13 can only use camera floating window)</br>- QuickRecorder is able to record HEVC with Alpha video format, that can contain alpha channel in the output file (currently only iMovie and FCPX support this feature)</br>- 使用 SwiftUI 编写, 体积小巧轻量化. 软件大小仅有不到 10MB, 无任何累赘功能.</br>- 支持窗口录制, App 录制, 录制移动设备等; 支持窗口声音内录, 鼠标高亮, 隐藏桌面文件等功能.</br>- 完整支持 macOS 14 新增的 演讲者前置 特性, 可在实时叠加摄像头画面 (低版本 macOS 可以使用悬浮窗模式).</br>- 支持 HEVC with Alpha 特性, 可在输出文件中包含 Alpha 通道 (目前仅 iMovie 与 FCPX 支持此特性)|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/blob/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="Software Logo" width="120"/> |
+
