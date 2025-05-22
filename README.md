@@ -8,19 +8,20 @@
 ## 📖 目录 Table of Contents
 
 1. [🖥 Alfred](#Alfred)
-2. [🖥 DynamicLake Pro](#DynamicLake-Pro)
-3. [🖥 Ice](#Ice)
-4. [🖥 IINA](#IINA)
-5. [🖥 iTerm2](#iTerm2)
-6. [🖥 Keka](#Keka)
-7. [🖥 LocalSend](#LocalSend)
-8. [🖥 Modern CSV](#Modern-CSV)
-9. [🖥 OBS](#OBS)
-10. [🖥 QuickRecorder](#QuickRecorder)
-11. [🖥 Sublime Text](#Sublime-Text)
-12. [🖥 Transnomino](#Transnomino)
-13. [🖥 Typora](#Typora)
-14. [🖥 Utools](#Utools)
+2. [🖥 BongoCat](#BongoCat)
+3. [🖥 DynamicLake Pro](#DynamicLake-Pro)
+4. [🖥 Ice](#Ice)
+5. [🖥 IINA](#IINA)
+6. [🖥 iTerm2](#iTerm2)
+7. [🖥 Keka](#Keka)
+8. [🖥 LocalSend](#LocalSend)
+9. [🖥 Modern CSV](#Modern-CSV)
+10. [🖥 OBS](#OBS)
+11. [🖥 QuickRecorder](#QuickRecorder)
+12. [🖥 Sublime Text](#Sublime-Text)
+13. [🖥 Transnomino](#Transnomino)
+14. [🖥 Typora](#Typora)
+15. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -262,4 +263,21 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - You can use QuickRecorder to record your screens / windows / applications / mobile devices... etc. </br>- QuickRecorder supports driver-free audio loopback recording, mouse highlighting, screen magnifier and many more useful features.</br>- The new "Presenter Overlay" in macOS 14 was fully supported by QuickRecorder, which can overlay the camera in real time on your recording (macOS 12/13 can only use camera floating window)</br>- QuickRecorder is able to record HEVC with Alpha video format, that can contain alpha channel in the output file (currently only iMovie and FCPX support this feature)</br>- 使用 SwiftUI 编写, 体积小巧轻量化. 软件大小仅有不到 10MB, 无任何累赘功能.</br>- 支持窗口录制, App 录制, 录制移动设备等; 支持窗口声音内录, 鼠标高亮, 隐藏桌面文件等功能.</br>- 完整支持 macOS 14 新增的 演讲者前置 特性, 可在实时叠加摄像头画面 (低版本 macOS 可以使用悬浮窗模式).</br>- 支持 HEVC with Alpha 特性, 可在输出文件中包含 Alpha 通道 (目前仅 iMovie 与 FCPX 支持此特性)|
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/blob/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="Software Logo" width="120"/> |
+
+---
+
+## BongoCat
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://github.com/ayangweb/BongoCat) |
+| **🖥 适用系统 Operating Systems** |  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | 跨平台桌宠BongoCat，为桌面增添乐趣！ |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/ayangweb/BongoCat) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ayangweb/BongoCat?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - 适配 macOS、Windows 和 Linux(x11)。</br>- 根据据键盘或鼠标操作，同步移动鼠标或敲击键盘。</br>- 完全开源，代码公开透明，绝不收集任何用户数据。</br>- 支持离线运行，无需联网，保护用户隐私。|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/blob/master/public/images/logo.png" alt="Software Logo" width="120"/> |
 
