@@ -279,5 +279,5 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 适配 macOS、Windows 和 Linux(x11)。</br>- 根据据键盘或鼠标操作，同步移动鼠标或敲击键盘。</br>- 完全开源，代码公开透明，绝不收集任何用户数据。</br>- 支持离线运行，无需联网，保护用户隐私。|
 | **🏷 分类 Tags** | #工具 / #Tool |
-| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/blob/master/public/images/logo.png" alt="Software Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/blob/master/public/logo.png" alt="Software Logo" width="120"/> |
 
