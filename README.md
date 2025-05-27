@@ -18,10 +18,11 @@
 9. [🖥 Modern CSV](#Modern-CSV)
 10. [🖥 OBS](#OBS)
 11. [🖥 QuickRecorder](#QuickRecorder)
-12. [🖥 Sublime Text](#Sublime-Text)
-13. [🖥 Transnomino](#Transnomino)
-14. [🖥 Typora](#Typora)
-15. [🖥 Utools](#Utools)
+12. [🖥 Stats](#Stats)
+13. [🖥 Sublime Text](#Sublime-Text)
+14. [🖥 Transnomino](#Transnomino)
+15. [🖥 Typora](#Typora)
+16. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -281,3 +282,19 @@ OBS-Open Broadcaster Software
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/blob/master/public/logo.png" alt="Software Logo" width="120"/> |
 
+---
+
+## Stats
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://mac-stats.com/) |
+| **🖥 适用系统 Operating Systems** |  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)|
+| **🛠 功能用途 Features / Usage** | macOS system monitor in your menu bar 菜单栏中的 macOS 系统监视器 |
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/exelban/stats) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/exelban/stats?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - CPU utilization</br>- GPU utilization</br>- Memory usage</br>- Disk utilization</br>- Network usage</br>- Battery level</br>- Fan's control (not maintained)</br>- Sensors information (Temperature/Voltage/Power)</br>- Bluetooth devices</br>- Multiple time zone clock|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Software Logo" width="120"/> |
