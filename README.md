@@ -313,4 +313,4 @@ OBS-Open Broadcaster Software
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点 Highlights** | - 随心定制，个性体验随时享</br>- 确保您能安全浏览网页</br>- 线上处理事务的快捷方式|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool #开发工具 / #Development |
-| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Software Logo" width="360"/> |
+| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Software Logo" width="120"/> |
