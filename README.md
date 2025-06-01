@@ -9,20 +9,21 @@
 
 1. [🖥 Alfred](#Alfred)
 2. [🖥 BongoCat](#BongoCat)
-3. [🖥 DynamicLake Pro](#DynamicLake-Pro)
-4. [🖥 Ice](#Ice)
-5. [🖥 IINA](#IINA)
-6. [🖥 iTerm2](#iTerm2)
-7. [🖥 Keka](#Keka)
-8. [🖥 LocalSend](#LocalSend)
-9. [🖥 Modern CSV](#Modern-CSV)
-10. [🖥 OBS](#OBS)
-11. [🖥 QuickRecorder](#QuickRecorder)
-12. [🖥 Stats](#Stats)
-13. [🖥 Sublime Text](#Sublime-Text)
-14. [🖥 Transnomino](#Transnomino)
-15. [🖥 Typora](#Typora)
-16. [🖥 Utools](#Utools)
+3. [🖥 Chrome](#Chrome)
+4. [🖥 DynamicLake Pro](#DynamicLake-Pro)
+5. [🖥 Ice](#Ice)
+6. [🖥 IINA](#IINA)
+7. [🖥 iTerm2](#iTerm2)
+8. [🖥 Keka](#Keka)
+9. [🖥 LocalSend](#LocalSend)
+10. [🖥 Modern CSV](#Modern-CSV)
+11. [🖥 OBS](#OBS)
+12. [🖥 QuickRecorder](#QuickRecorder)
+13. [🖥 Stats](#Stats)
+14. [🖥 Sublime Text](#Sublime-Text)
+15. [🖥 Transnomino](#Transnomino)
+16. [🖥 Typora](#Typora)
+17. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -298,3 +299,18 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - CPU utilization</br>- GPU utilization</br>- Memory usage</br>- Disk utilization</br>- Network usage</br>- Battery level</br>- Fan's control (not maintained)</br>- Sensors information (Temperature/Voltage/Power)</br>- Bluetooth devices</br>- Multiple time zone clock|
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Software Logo" width="120"/> |
+
+---
+
+## Chrome
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.google.com/chrome) |
+| **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)  ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** |  Google开发的浏览器 专为您而打造的浏览器|
+| **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - 随心定制，个性体验随时享</br>- 确保您能安全浏览网页</br>- 线上处理事务的快捷方式|
+| **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool #开发工具 / #Development |
+| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Software Logo" width="360"/> |
