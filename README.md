@@ -306,11 +306,11 @@ OBS-Open Broadcaster Software
 
 | 信息项 | Details |
 | :--- | :--- |
-| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.google.com/chrome) |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.google.com/chrome) [中国CN](https://www.google.cn/chrome/)|
 | **🖥 适用系统 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)  ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途 Features / Usage** |  Google开发的浏览器 专为您而打造的浏览器|
+| **🛠 功能用途 Features / Usage** |  The browser built to be yours 专为您而打造的浏览器|
 | **🔒 是否开源 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点 Highlights** | - 随心定制，个性体验随时享</br>- 确保您能安全浏览网页</br>- 线上处理事务的快捷方式|
+| **✨ 亮点 Highlights** | - Make it yours and take it with you 随心定制，个性体验随时享</br>- Stay safe while you browse 确保您能安全浏览网页</br>- The fast way to do things online 线上处理事务的快捷方式|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool #开发工具 / #Development |
 | **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Software Logo" width="120"/> |
