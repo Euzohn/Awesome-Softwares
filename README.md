@@ -19,11 +19,12 @@
 10. [🖥 Modern CSV](#Modern-CSV)
 11. [🖥 OBS](#OBS)
 12. [🖥 QuickRecorder](#QuickRecorder)
-13. [🖥 Stats](#Stats)
-14. [🖥 Sublime Text](#Sublime-Text)
-15. [🖥 Transnomino](#Transnomino)
-16. [🖥 Typora](#Typora)
-17. [🖥 Utools](#Utools)
+13. [🖥 RunCat365](#RunCat365)
+14. [🖥 Stats](#Stats)
+15. [🖥 Sublime Text](#Sublime-Text)
+16. [🖥 Transnomino](#Transnomino)
+17. [🖥 Typora](#Typora)
+18. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -314,3 +315,20 @@ OBS-Open Broadcaster Software
 | **✨ 亮点 Highlights** | - Make it yours and take it with you 随心定制，个性体验随时享</br>- Stay safe while you browse 确保您能安全浏览网页</br>- The fast way to do things online 线上处理事务的快捷方式|
 | **🏷 分类 Tags** | #效率 / #Productivity #工具 / #Tool #开发工具 / #Development |
 | **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Software Logo" width="120"/> |
+
+---
+
+## RunCat365
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://kyome22.github.io/RunCat365/) |
+| **🖥 适用系统 Operating Systems** |  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)|
+| **🛠 功能用途 Features / Usage** | A cute running cat animation on your Windows Taskbar. The cat tells you the CPU usage of the device by running speed.|
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/Kyome22/RunCat365) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Kyome22/RunCat365?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - |
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/Kyome22/RunCat365/blob/main/WapForStore/PackageIcon.png" alt="Software Logo" width="120"/> |
