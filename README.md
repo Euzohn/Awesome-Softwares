@@ -21,11 +21,12 @@
 12. [🖥 OBS](#OBS)
 13. [🖥 QuickRecorder](#QuickRecorder)
 14. [🖥 RunCat365](#RunCat365)
-15. [🖥 Stats](#Stats)
-16. [🖥 Sublime Text](#Sublime-Text)
-17. [🖥 Transnomino](#Transnomino)
-18. [🖥 Typora](#Typora)
-19. [🖥 Utools](#Utools)
+15. [🖥 Snippai](#Snippai)
+16. [🖥 Stats](#Stats)
+17. [🖥 Sublime Text](#Sublime-Text)
+18. [🖥 Transnomino](#Transnomino)
+19. [🖥 Typora](#Typora)
+20. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -351,4 +352,20 @@ OBS-Open Broadcaster Software
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://imageoptim.com/icon@2x.png" alt="Software Logo" width="120"/> |
 
+---
+
+## Snippai
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://www.snippai.de/) |
+| **🖥 适用系统 Operating Systems** |  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | Snippai: AI-Powered Snipping Tool </br>Snippai：AI 加持的智能截图工具 - 截要点，解万难！|
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/xyTom/snippai) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/xyTom/snippai?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - Formula Recognition 公式识别</br>- Text Extraction 文字提取</br>- Table Conversion 表格转换</br>- Image Analysis 图像分析</br>- Problem Solving 问题求解</br>- Code Understanding 代码理解</br>- Color Detection 色彩提取</br>- Language Translation 语言翻译</br>- And More... 更多精彩功能|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/xyTom/snippai/blob/develop/src/renderer/assets/logo.png" alt="Software Logo" width="120"/> |
 
