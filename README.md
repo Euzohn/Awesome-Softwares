@@ -19,14 +19,15 @@
 10. [🖥 LocalSend](#LocalSend)
 11. [🖥 Modern CSV](#Modern-CSV)
 12. [🖥 OBS](#OBS)
-13. [🖥 QuickRecorder](#QuickRecorder)
-14. [🖥 RunCat365](#RunCat365)
-15. [🖥 Snippai](#Snippai)
-16. [🖥 Stats](#Stats)
-17. [🖥 Sublime Text](#Sublime-Text)
-18. [🖥 Transnomino](#Transnomino)
-19. [🖥 Typora](#Typora)
-20. [🖥 Utools](#Utools)
+13. [🖥 Popcorn Time](#Popcorn-Time)
+14. [🖥 QuickRecorder](#QuickRecorder)
+15. [🖥 RunCat365](#RunCat365)
+16. [🖥 Snippai](#Snippai)
+17. [🖥 Stats](#Stats)
+18. [🖥 Sublime Text](#Sublime-Text)
+19. [🖥 Transnomino](#Transnomino)
+20. [🖥 Typora](#Typora)
+21. [🖥 Utools](#Utools)
 
 
 ## 说明
@@ -369,3 +370,19 @@ OBS-Open Broadcaster Software
 | **🏷 分类 Tags** | #工具 / #Tool |
 | **🖼 Logo** | <img src="https://github.com/xyTom/snippai/blob/develop/src/renderer/assets/logo.png" alt="Software Logo" width="120"/> |
 
+---
+
+## Popcorn-Time
+
+| 信息项 | Details |
+| :--- | :--- |
+| **🌐 官网 Website** | [点击访问 Click to Visit](https://popcorntime.app/) |
+| **🖥 适用系统 Operating Systems** |  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途 Features / Usage** | Watch Movies, TV Shows and more...Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.|
+| **🔓 是否开源 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub源代码 GitHub Repository** | [GitHub链接 / GitHub Link](https://github.com/popcorntime/popcorntime) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/popcorntime/popcorntime?style=social) |
+| **💰 是否免费 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点 Highlights** | - Cross-Platform</br>- Beautiful Interface</br>- Extensive Catalogs</br>- Recommendations</br>- Offline Viewing</br>- Subtitles and Multi-Language|
+| **🏷 分类 Tags** | #工具 / #Tool |
+| **🖼 Logo** | <img src="https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Software Logo" width="120"/> |
