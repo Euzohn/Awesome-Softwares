@@ -1,6 +1,6 @@
 # 📚 软件列表
 
-🔗 [中文版本](README.zh.md) | [English Version](README.en.md)
+🔗 [中文版本](README.zh.md) | [English Version](README.md)
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 

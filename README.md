@@ -1,6 +1,6 @@
 # 📚 Software List
 
-🔗 [中文版本](README.zh.md) | [English Version](README.en.md)
+🔗 [中文版本](README.zh.md) | [English Version](README.md)
 
 > This repository collects and organizes information about commonly used software, including official websites, supported platforms, primary purposes, open-source status, GitHub repository links, key features, and category tags. It is intended to serve as a clear and easy-to-reference software index.
 
