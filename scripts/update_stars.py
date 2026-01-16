@@ -9,7 +9,7 @@ import yaml
 from pathlib import Path
 import time
 
-DATA_FILE = Path(__file__).parent.parent / "data" / "software.yaml"
+DATA_FILE = Path(__file__).parent.parent / "data" / "software.json"
 GITHUB_API = "https://api.github.com/repos/{}"
 
 
@@ -33,14 +33,19 @@ def get_stars(owner: str, repo: str) -> int | None:
 
 
 def update_stars():
-    """更新所有仓库的 Stars"""
+    """更新所有仓库的 Stars（统一写入 JSON）"""
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
+        # 若文件为 JSON，使用 yaml.safe_load 也可解析，但建议明确使用 json
+    # 改为显式 JSON 读写
+    import json
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
     updated_count = 0
     skipped_count = 0
 
-    for software in data["software_list"]:
+    for software in data.get("software_list", []):
         github = software.get("github")
         if github and "/" in github:
             print(f"📡 Fetching stars for {github}...", end=" ")
@@ -58,9 +63,9 @@ def update_stars():
                 skipped_count += 1
             time.sleep(1)  # 避免 API 限制
 
-    # 写回文件
+    # 写回 JSON 文件
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        yaml.dump(data, f, allow_unicode=True, sort_keys=False)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
     print(f"\n🎉 Updated {updated_count} repos, skipped {skipped_count}")
 

@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-16
+> 📅 Last Updated: 2026-01-17
 
 ## 📖 Table of Contents
 
@@ -369,6 +369,21 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Formula recognition<br>- Text extraction<br>- Table conversion<br>- Image analysis<br>- Problem solving<br>- Code understanding<br>- Color extraction<br>- Language translation |
 | **🏷 Tags** | #Screenshot Tool #Cross-platform #AI #Freeware #Open Source
+
+## Better Shot
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://bettershot.site/icon.png" alt="Better Shot Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://bettershot.site/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Free and open-source macOS screenshot tool. Capture, edit, annotate, OCR, and export fast with privacy-first, native performance. |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/KartikLabhshetwar/better-shot) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/KartikLabhshetwar/better-shot?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Region/Window/Fullscreen capture with global shortcuts<br>- Powerful editor: backgrounds, gradients, blur, shadows, border radius<br>- Annotation tools: shapes, arrows, text, numbered labels<br>- Offline OCR with bundled Tesseract.js language data<br>- Privacy-first: all local, no uploads, no data collection<br>- Native performance: Rust + Tauri, minimal resource usage<br>- Fast export to directory or clipboard |
+| **🏷 Tags** | #Screenshot Tool #macOS #Open Source #Freeware
 
 
 <a id="browsers"></a>

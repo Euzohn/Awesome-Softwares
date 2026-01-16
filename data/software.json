@@ -850,6 +850,51 @@
         "Available in 11 languages"
       ],
       "logo": "https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg"
+    },
+    {
+      "name": "Better Shot",
+      "description": "macOS 免费开源截图工具，集捕获、编辑、标注、OCR 与快速导出于一体，注重隐私与性能",
+      "description_en": "Free and open-source macOS screenshot tool. Capture, edit, annotate, OCR, and export fast with privacy-first, native performance.",
+      "website": "https://bettershot.site/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "截图工具",
+      "open_source": true,
+      "free": true,
+      "github": "KartikLabhshetwar/better-shot",
+      "stars": 854,
+      "tags": [
+        "截图工具",
+        "macOS",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Screenshot Tool",
+        "macOS",
+        "Open Source",
+        "Freeware"
+      ],
+      "highlights": [
+        "区域/窗口/全屏三种捕获模式，支持全局快捷键",
+        "内置强大编辑器：背景、渐变、模糊、阴影、圆角",
+        "标注工具：形状、箭头、文本、编号标签",
+        "离线 OCR 文本识别（内置 Tesseract.js 语言数据）",
+        "隐私优先：全部本地处理，不上传不收集数据",
+        "原生性能：Rust + Tauri，资源占用低",
+        "快速导出到目录或剪贴板"
+      ],
+      "highlights_en": [
+        "Region/Window/Fullscreen capture with global shortcuts",
+        "Powerful editor: backgrounds, gradients, blur, shadows, border radius",
+        "Annotation tools: shapes, arrows, text, numbered labels",
+        "Offline OCR with bundled Tesseract.js language data",
+        "Privacy-first: all local, no uploads, no data collection",
+        "Native performance: Rust + Tauri, minimal resource usage",
+        "Fast export to directory or clipboard"
+      ],
+      "logo": "https://bettershot.site/icon.png"
     }
   ],
   "categories": [
