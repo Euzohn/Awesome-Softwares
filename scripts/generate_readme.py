@@ -186,7 +186,7 @@ def generate_readme_zh(data: dict) -> str:
         icon = cat["icon"]
         software_list = software_by_category.get(cat_id, [])
 
-        readme += f"\n## {icon} {cat_id}\n\n"
+        readme += f"\n## {icon} {cat_id} {{# {cat_id.lower().replace(' ', '-')} }}\n\n"
 
         for software in software_list:
             readme += generate_software_section(software, is_chinese=True)
@@ -246,7 +246,7 @@ def generate_readme_en(data: dict) -> str:
         original_cat_id = cat["id"]
         software_list = software_by_category.get(original_cat_id, [])
 
-        readme += f"\n## {icon} {cat_id}\n\n"
+        readme += f"\n## {icon} {cat_id} {{# {cat_id.lower().replace(' ', '-')} }}\n\n"
 
         for software in software_list:
             readme += generate_software_section(software, is_chinese=False)

@@ -38,7 +38,7 @@
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
 
-## 🎬 Players
+## 🎬 Players {# players }
 
 ## IINA
 
@@ -71,7 +71,7 @@
 | **🏷 Tags** | #Player #Cross-platform #Freeware #Open Source
 
 
-## 📡 File Transfer
+## 📡 File Transfer {# file-transfer }
 
 ## LocalSend
 
@@ -89,7 +89,7 @@
 | **🏷 Tags** | #File Transfer #Cross-platform #Freeware #Open Source
 
 
-## 📁 File Management
+## 📁 File Management {# file-management }
 
 ## Keka
 
@@ -137,7 +137,7 @@
 | **🏷 Tags** | #File Management #Windows #Open Source #Freeware
 
 
-## 💻 Development Tools
+## 💻 Development Tools {# development-tools }
 
 ## Sublime-Text
 
@@ -170,7 +170,7 @@
 | **🏷 Tags** | #Development #Terminal #macOS #Productivity
 
 
-## ⚡ Productivity
+## ⚡ Productivity {# productivity }
 
 ## Alfred
 
@@ -203,7 +203,7 @@
 | **🏷 Tags** | #Productivity #Cross-platform #AI
 
 
-## 🎥 Media Processing
+## 🎥 Media Processing {# media-processing }
 
 ## OBS
 
@@ -236,7 +236,7 @@
 | **🏷 Tags** | #Media Processing #macOS
 
 
-## 📊 Data Analysis
+## 📊 Data Analysis {# data-analysis }
 
 ## Modern-CSV
 
@@ -254,7 +254,7 @@
 | **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
 
 
-## 📝 Markdown
+## 📝 Markdown {# markdown }
 
 ## Typora
 
@@ -272,7 +272,7 @@
 | **🏷 Tags** | #Markdown #Cross-platform
 
 
-## ⚙️ System Tools
+## ⚙️ System Tools {# system-tools }
 
 ## Ice
 
@@ -305,7 +305,7 @@
 | **🏷 Tags** | #System Tools #macOS
 
 
-## 🎨 Design Tools
+## 🎨 Design Tools {# design-tools }
 
 ## DynamicLake-Pro
 
@@ -323,7 +323,7 @@
 | **🏷 Tags** | #Design Tools #macOS
 
 
-## 🖼️ Image Processing
+## 🖼️ Image Processing {# image-processing }
 
 ## ImageOptim
 
@@ -341,7 +341,7 @@
 | **🏷 Tags** | #Image Processing #macOS
 
 
-## 📸 Screenshot Tools
+## 📸 Screenshot Tools {# screenshot-tools }
 
 ## Snippai
 
@@ -359,7 +359,7 @@
 | **🏷 Tags** | #Screenshot Tool #Cross-platform #AI #Freeware #Open Source
 
 
-## 🌐 Browsers
+## 🌐 Browsers {# browsers }
 
 ## Chrome
 
@@ -377,7 +377,7 @@
 | **🏷 Tags** | #Browser #Cross-platform #Freeware
 
 
-## 🎮 Fun Tools
+## 🎮 Fun Tools {# fun-tools }
 
 ## BongoCat
 
