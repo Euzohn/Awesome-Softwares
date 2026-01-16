@@ -38,7 +38,8 @@
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
 
-## 🎬 Players {# players }
+<a id="players"></a>
+## 🎬 Players
 
 ## IINA
 
@@ -71,7 +72,8 @@
 | **🏷 Tags** | #Player #Cross-platform #Freeware #Open Source
 
 
-## 📡 File Transfer {# file-transfer }
+<a id="file-transfer"></a>
+## 📡 File Transfer
 
 ## LocalSend
 
@@ -89,7 +91,8 @@
 | **🏷 Tags** | #File Transfer #Cross-platform #Freeware #Open Source
 
 
-## 📁 File Management {# file-management }
+<a id="file-management"></a>
+## 📁 File Management
 
 ## Keka
 
@@ -137,7 +140,8 @@
 | **🏷 Tags** | #File Management #Windows #Open Source #Freeware
 
 
-## 💻 Development Tools {# development-tools }
+<a id="development-tools"></a>
+## 💻 Development Tools
 
 ## Sublime-Text
 
@@ -170,7 +174,8 @@
 | **🏷 Tags** | #Development #Terminal #macOS #Productivity
 
 
-## ⚡ Productivity {# productivity }
+<a id="productivity"></a>
+## ⚡ Productivity
 
 ## Alfred
 
@@ -203,7 +208,8 @@
 | **🏷 Tags** | #Productivity #Cross-platform #AI
 
 
-## 🎥 Media Processing {# media-processing }
+<a id="media-processing"></a>
+## 🎥 Media Processing
 
 ## OBS
 
@@ -236,7 +242,8 @@
 | **🏷 Tags** | #Media Processing #macOS
 
 
-## 📊 Data Analysis {# data-analysis }
+<a id="data-analysis"></a>
+## 📊 Data Analysis
 
 ## Modern-CSV
 
@@ -254,7 +261,8 @@
 | **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
 
 
-## 📝 Markdown {# markdown }
+<a id="markdown"></a>
+## 📝 Markdown
 
 ## Typora
 
@@ -272,7 +280,8 @@
 | **🏷 Tags** | #Markdown #Cross-platform
 
 
-## ⚙️ System Tools {# system-tools }
+<a id="system-tools"></a>
+## ⚙️ System Tools
 
 ## Ice
 
@@ -305,7 +314,8 @@
 | **🏷 Tags** | #System Tools #macOS
 
 
-## 🎨 Design Tools {# design-tools }
+<a id="design-tools"></a>
+## 🎨 Design Tools
 
 ## DynamicLake-Pro
 
@@ -323,7 +333,8 @@
 | **🏷 Tags** | #Design Tools #macOS
 
 
-## 🖼️ Image Processing {# image-processing }
+<a id="image-processing"></a>
+## 🖼️ Image Processing
 
 ## ImageOptim
 
@@ -341,7 +352,8 @@
 | **🏷 Tags** | #Image Processing #macOS
 
 
-## 📸 Screenshot Tools {# screenshot-tools }
+<a id="screenshot-tools"></a>
+## 📸 Screenshot Tools
 
 ## Snippai
 
@@ -359,7 +371,8 @@
 | **🏷 Tags** | #Screenshot Tool #Cross-platform #AI #Freeware #Open Source
 
 
-## 🌐 Browsers {# browsers }
+<a id="browsers"></a>
+## 🌐 Browsers
 
 ## Chrome
 
@@ -377,7 +390,8 @@
 | **🏷 Tags** | #Browser #Cross-platform #Freeware
 
 
-## 🎮 Fun Tools {# fun-tools }
+<a id="fun-tools"></a>
+## 🎮 Fun Tools
 
 ## BongoCat
 
