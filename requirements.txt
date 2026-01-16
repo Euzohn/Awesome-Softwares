@@ -1,0 +1,5 @@
+# Awesome Softwares - Python Dependencies
+# Optional: For enhanced functionality
+
+requests>=2.31.0  # For GitHub API calls (update_stars.py)
+PyYAML>=6.0       # Alternative JSON/YAML parser (optional)

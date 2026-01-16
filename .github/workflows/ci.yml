@@ -1,0 +1,88 @@
+name: Awesome Softwares CI
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/software.json'
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日 00:00 执行
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validate JSON
+        run: |
+          python3 -c "import json; json.load(open('data/software.json'))"
+          echo "✅ JSON validation passed"
+
+  generate-readme:
+    runs-on: ubuntu-latest
+    needs: validate
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate README
+        run: |
+          python3 scripts/generate_readme.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README.zh.md
+          git diff --stat
+          if [ -n "$(git diff --name-only)" ]; then
+            git commit -m "docs: Auto-generate README $(date +%Y-%m-%d)"
+            git push
+            echo "✅ README updated"
+          else
+            echo "ℹ️  No changes to commit"
+          fi
+
+  update-stars:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update Stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/update_stars.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: Update GitHub stars $(date +%Y-%m-%d)"
+          title: "Update GitHub Stars - $(date +%Y-%m-%d)"
+          body: |
+            This PR updates the GitHub stars count for all software.
+
+            Updated by GitHub Actions
+          branch: update-stars
+          delete-branch: true

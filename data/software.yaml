@@ -1,0 +1,610 @@
+# Awesome Softwares - 软件数据配置文件
+# 所有软件信息都应在此文件中维护
+# 通过 scripts/generate_readme.py 自动生成 README 文档
+
+software_list:
+  # ========================================
+  # 播放器
+  # ========================================
+
+  - name: IINA
+    description: 面向 macOS 的现代化视频播放器
+    website: https://www.iina.io/
+    platforms:
+      - macOS
+    category: 播放器
+    open_source: true
+    free: true
+    github: iina/iina
+    stars: 32000
+    tags:
+      - 播放器
+      - macOS
+      - 开发工具
+    highlights:
+      - 免费且开源
+      - 基于 mpv 内核，播放性能出色
+      - 原生 macOS 设计，符合系统交互习惯
+
+  - name: Popcorn-Time
+    description: 观看电影、电视剧等，汇聚海量内容
+    website: https://popcorntime.app/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 播放器
+    open_source: true
+    free: true
+    github: popcorntime/popcorntime
+    stars: 12000
+    tags:
+      - 播放器
+      - 跨平台
+      - 免费软件
+    highlights:
+      - 跨平台
+      - 美观界面
+      - 海量内容库
+      - 推荐功能
+      - 离线观看
+      - 支持字幕与多语言
+
+  # ========================================
+  # 文件传输
+  # ========================================
+
+  - name: LocalSend
+    description: 局域网内快速分享文件的跨平台工具
+    website: https://localsend.org/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+      - Android
+      - iOS
+    category: 文件传输
+    open_source: true
+    free: true
+    github: localsend/localsend
+    stars: 45000
+    tags:
+      - 文件传输
+      - 跨平台
+      - 免费软件
+      - 开源软件
+    highlights:
+      - 去中心化，本地直连传输
+      - 真正跨平台，覆盖桌面与移动设备
+      - 免费且开源，隐私友好
+      - 局域网传输，无需外部服务器
+
+  # ========================================
+  # 文件管理
+  # ========================================
+
+  - name: Keka
+    description: 文件压缩与解压缩工具
+    website: https://www.keka.io/
+    platforms:
+      - macOS
+      - iOS
+    category: 文件管理
+    open_source: true
+    free: true
+    github: aonez/Keka
+    stars: 8000
+    tags:
+      - 文件管理
+      - 压缩
+      - macOS
+      - iOS
+    highlights:
+      - 界面极简，但功能强大
+      - 注重隐私与本地数据安全
+      - 专注压缩本身，不引入多余功能
+
+  - name: Transnomino
+    description: Mac 批量重命名工具
+    website: https://www.transnomino.com/
+    platforms:
+      - macOS
+    category: 文件管理
+    open_source: false
+    free: true
+    github: null
+    stars: null
+    tags:
+      - 文件管理
+      - macOS
+      - 开发工具
+    highlights:
+      - 简单文本替换
+      - 高级正则表达式修改
+      - 基于文件属性的文本插入
+
+  # ========================================
+  # 开发工具
+  # ========================================
+
+  - name: Sublime-Text
+    description: 文本编辑器，支持代码高亮、智能补全
+    website: https://www.sublimetext.com/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 开发工具
+    open_source: false
+    free: false
+    price: "$99"
+    github: null
+    stars: null
+    tags:
+      - 开发工具
+      - 文本编辑
+      - 跨平台
+    highlights:
+      - GPU 加速渲染
+      - 支持 Apple Silicon 与 Linux ARM64
+      - 标签多选功能
+      - 智能上下文感知自动补全
+      - 全新界面设计
+      - 支持 TypeScript、JSX 和 TSX
+
+  - name: iTerm2
+    description: macOS 终端工具，支持多标签、多窗格
+    website: https://iterm2.com/
+    platforms:
+      - macOS
+    category: 开发工具
+    open_source: true
+    free: true
+    github: gnachman/iTerm2
+    stars: 15000
+    tags:
+      - 开发工具
+      - 终端
+      - macOS
+      - 效率工具
+    highlights:
+      - 拆分窗格（Split Panes）
+      - 热键窗口（Hotkey Window）
+      - 内置搜索
+      - 自动补全
+      - 复制模式
+      - 高度可自定义
+
+  # ========================================
+  # 效率工具
+  # ========================================
+
+  - name: Alfred
+    description: macOS 效率神器，搜索、快捷键、文本扩展
+    website: https://www.alfredapp.com/
+    platforms:
+      - macOS
+    category: 效率工具
+    open_source: false
+    free: false
+    price: "£32"
+    github: null
+    stars: null
+    tags:
+      - 效率工具
+      - macOS
+    highlights:
+      - 搜索和浏览（Search and Browse）
+      - 少打字，多操作（Type Less, Say More）
+      - 功能扩展与自动化（Extend and Automate）
+      - 控制音乐（Control Your Music）
+      - 高度可自定义，提高效率
+
+  - name: Utools
+    description: AI 助力超级助手，插件化工具平台
+    website: https://www.u-tools.cn
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 效率工具
+    open_source: false
+    free: true
+    github: null
+    stars: null
+    tags:
+      - 效率工具
+      - 跨平台
+      - 人工智能
+    highlights:
+      - 超级搜索框
+      - 超级右键
+      - 插件应用即装即用
+      - 海量插件应用，持续进化
+
+  # ========================================
+  # 音视频处理
+  # ========================================
+
+  - name: OBS
+    description: 免费开源的视频录制和直播软件
+    website: https://obsproject.com/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 音视频处理
+    open_source: true
+    free: true
+    github: obsproject/obs-studio
+    stars: 65000
+    tags:
+      - 音视频处理
+      - 直播
+      - 跨平台
+      - 开发工具
+    highlights:
+      - 高性能实时视频/音频捕获和混合
+      - 无限数量的场景切换
+      - 直观的音频混音器
+      - 功能强大且易于使用的配置选项
+      - 模块化 Dock 界面
+
+  - name: QuickRecorder
+    description: 轻量化高性能 macOS 屏幕录制工具
+    website: https://lihaoyun6.github.io/quickrecorder/
+    platforms:
+      - macOS
+    category: 音视频处理
+    open_source: true
+    free: true
+    github: lihaoyun6/QuickRecorder
+    stars: 5000
+    tags:
+      - 音视频处理
+      - macOS
+    highlights:
+      - 支持录制屏幕、窗口、应用和移动设备
+      - 无驱动音频回录、鼠标高亮、屏幕放大镜
+      - 完整支持 macOS 14 "演讲者前置"
+      - 支持 HEVC with Alpha 视频格式
+      - 软件体积小于 10MB
+
+  # ========================================
+  # 数据分析
+  # ========================================
+
+  - name: Modern-CSV
+    description: 直观的 CSV 编辑器/查看器
+    website: https://www.moderncsv.com/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 数据分析
+    open_source: false
+    free: true
+    github: null
+    stars: null
+    tags:
+      - 数据分析
+      - CSV编辑
+      - 跨平台
+    highlights:
+      - 轻松编辑 CSV 文件
+      - 查找和排列 CSV 数据
+      - 跨平台一致性
+      - 隐私保证
+      - 快速查看大型 CSV 文件
+      - 完全可定制的 CSV 编辑器
+
+  # ========================================
+  # Markdown
+  # ========================================
+
+  - name: Typora
+    description: 简洁的 Markdown 编辑器和阅读器
+    website: https://typoraio.cn/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: Markdown
+    open_source: false
+    free: false
+    price: "$14.99"
+    github: null
+    stars: null
+    tags:
+      - Markdown
+      - 跨平台
+    highlights:
+      - 可读可写，支持实时预览
+      - 简单而功能强大
+      - 高可及性
+      - 支持自定义主题
+
+  # ========================================
+  # 系统工具
+  # ========================================
+
+  - name: Ice
+    description: macOS 菜单栏管理工具
+    website: https://icemenubar.app/
+    platforms:
+      - macOS
+    category: 系统工具
+    open_source: true
+    free: true
+    github: jordanbaird/Ice
+    stars: 3000
+    tags:
+      - 系统工具
+      - macOS
+    highlights:
+      - 在菜单栏下方显示隐藏的菜单栏项
+      - 拖放界面排列菜单栏项
+      - 自定义菜单栏外观
+      - 菜单栏项搜索
+      - 自定义菜单栏项间距
+
+  - name: Stats
+    description: 菜单栏中的 macOS 系统监视器
+    website: https://mac-stats.com/
+    platforms:
+      - macOS
+    category: 系统工具
+    open_source: true
+    free: true
+    github: exelban/stats
+    stars: 12000
+    tags:
+      - 系统工具
+      - macOS
+    highlights:
+      - CPU 使用率
+      - GPU 使用率
+      - 内存使用
+      - 磁盘使用
+      - 网络使用
+      - 电池电量
+      - 传感器信息
+
+  # ========================================
+  # 设计工具
+  # ========================================
+
+  - name: DynamicLake-Pro
+    description: macOS 刘海美化与功能增强工具
+    website: https://www.dynamiclake.com/
+    platforms:
+      - macOS
+    category: 设计工具
+    open_source: false
+    free: false
+    price: "$9.99"
+    github: null
+    stars: null
+    tags:
+      - 设计工具
+      - macOS
+    highlights:
+      - miniLake「迷你湖」，以紧凑形式展示关键信息
+      - 通过细节级改动，显著提升整体使用体验
+
+  # ========================================
+  # 图像处理
+  # ========================================
+
+  - name: ImageOptim
+    description: 图片无损压缩工具
+    website: https://imageoptim.com/mac
+    platforms:
+      - macOS
+    category: 图像处理
+    open_source: true
+    free: true
+    github: ImageOptim/ImageOptim
+    stars: 8500
+    tags:
+      - 图像处理
+      - macOS
+    highlights:
+      - 减小图片文件大小
+      - 移除不可见垃圾
+      - 完全免费且开源
+
+  # ========================================
+  # 截图工具
+  # ========================================
+
+  - name: Snippai
+    description: AI 加持的智能截图工具
+    website: https://www.snippai.de/
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 截图工具
+    open_source: true
+    free: true
+    github: xyTom/snippai
+    stars: 2000
+    tags:
+      - 截图工具
+      - 跨平台
+      - 人工智能
+      - 免费软件
+      - 开源软件
+    highlights:
+      - 公式识别
+      - 文字提取
+      - 表格转换
+      - 图像分析
+      - 问题求解
+      - 代码理解
+      - 色彩提取
+      - 语言翻译
+
+  # ========================================
+  # 浏览器
+  # ========================================
+
+  - name: Chrome
+    description: Google 浏览器，专为您而打造
+    website: https://www.google.com/chrome
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+      - Android
+      - iOS
+    category: 浏览器
+    open_source: false
+    free: true
+    github: null
+    stars: null
+    tags:
+      - 浏览器
+      - 跨平台
+      - 免费软件
+    highlights:
+      - 随心定制，个性体验随时享
+      - 确保您能安全浏览网页
+      - 线上处理事务的快捷方式
+
+  # ========================================
+  # 趣味工具
+  # ========================================
+
+  - name: BongoCat
+    description: 跨平台桌宠，为桌面增添乐趣
+    website: https://github.com/ayangweb/BongoCat
+    platforms:
+      - Windows
+      - macOS
+      - Linux
+    category: 趣味工具
+    open_source: true
+    free: true
+    github: ayangweb/BongoCat
+    stars: 6000
+    tags:
+      - 趣味工具
+      - 跨平台
+      - 开源软件
+    highlights:
+      - 适配 macOS、Windows 和 Linux(x11)
+      - 根据键盘或鼠标操作同步移动
+      - 完全开源，绝不收集用户数据
+      - 支持离线运行
+
+  - name: RunCat365
+    description: Windows 任务栏上的跑步猫动画，显示 CPU 使用率
+    website: https://kyome22.github.io/RunCat365/
+    platforms:
+      - Windows
+    category: 趣味工具
+    open_source: true
+    free: true
+    github: Kyome22/RunCat365
+    stars: 4500
+    tags:
+      - 趣味工具
+      - Windows
+    highlights:
+      - 可爱动画
+      - 直观显示 CPU 使用率
+
+
+# ========================================
+# 分类配置
+# ========================================
+categories:
+  - id: 播放器
+    icon: 🎬
+    description: 视频和音频播放软件
+  - id: 文件传输
+    icon: 📡
+    description: 文件分享和传输工具
+  - id: 文件管理
+    icon: 📁
+    description: 文件压缩、重命名等管理工具
+  - id: 开发工具
+    icon: 💻
+    description: 程序员必备的开发软件
+  - id: 效率工具
+    icon: ⚡
+    description: 提升工作效率的神器
+  - id: 音视频处理
+    icon: 🎥
+    description: 视频录制、直播、剪辑软件
+  - id: 数据分析
+    icon: 📊
+    description: 数据处理和分析工具
+  - id: Markdown
+    icon: 📝
+    description: Markdown 编辑器和阅读器
+  - id: 系统工具
+    icon: ⚙️
+    description: 系统优化和管理工具
+  - id: 设计工具
+    icon: 🎨
+    description: 设计和美化工具
+  - id: 图像处理
+    icon: 🖼️
+    description: 图片编辑和压缩工具
+  - id: 截图工具
+    icon: 📸
+    description: 截图和OCR工具
+  - id: 浏览器
+    icon: 🌐
+    description: 网页浏览器
+  - id: 趣味工具
+    icon: 🎮
+    description: 桌面宠物和娱乐工具
+
+
+# ========================================
+# 平台配置
+# ========================================
+platforms:
+  - id: macOS
+    icon: 🍎
+    color: 000000
+  - id: Windows
+    icon: 🪟
+    color: 0078D6
+  - id: Linux
+    icon: 🐧
+    color: FCC624
+  - id: Android
+    icon: 🤖
+    color: 3DDC84
+  - id: iOS
+    icon: 📱
+    color: 000000
+
+
+# ========================================
+# 标签配置
+# ========================================
+tags:
+  - id: 免费软件
+    color: brightgreen
+    icon: 🆓
+  - id: 开源软件
+    color: brightgreen
+    icon: 🔓
+  - id: 付费软件
+    color: red
+    icon: 💰
+  - id: 跨平台
+    color: 9cf
+    icon: 🌍
+  - id: macOS专用
+    color: 000000
+    icon: 🍎
+  - id: Windows专用
+    color: 0078D6
+    icon: 🪟
