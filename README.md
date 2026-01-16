@@ -44,6 +44,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="IINA Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.iina.io/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | A modern video player for macOS |
@@ -58,6 +59,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Popcorn-Time Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://popcorntime.app/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Watch movies and TV shows with a vast content library |
@@ -75,6 +77,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/localsend-logo-512.png" alt="LocalSend Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://localsend.org/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Cross-platform tool for quick file sharing within local network |
@@ -92,6 +95,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/Keka-Square-512x512.png" alt="Keka Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.keka.io/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | File compression and decompression tool |
@@ -106,6 +110,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/transnomino-icon.webp" alt="Transnomino Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.transnomino.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Batch file rename tool for Mac |
@@ -120,6 +125,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/main/images/application-icon.png" alt="File-Converter Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://file-converter.io/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Simple file converter and compressor, accessible via Windows Explorer context menu |
@@ -137,6 +143,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/sublime_text.png" alt="Sublime-Text Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.sublimetext.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Text editor with syntax highlighting and smart auto-completion |
@@ -151,6 +158,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png" alt="iTerm2 Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://iterm2.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS terminal with multi-tab and split pane support |
@@ -168,6 +176,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/alfred-logo4@2x.png" alt="Alfred Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.alfredapp.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS productivity app for search, shortcuts, and text expansion |
@@ -182,6 +191,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Utools Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.u-tools.cn) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | AI-powered universal tool platform with plugins |
@@ -199,6 +209,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="OBS Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://obsproject.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Free open source video recording and streaming software |
@@ -213,6 +224,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://lihaoyun6.github.io/quickrecorder/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Lightweight high-performance macOS screen recorder |
@@ -230,6 +242,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Modern-CSV Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.moderncsv.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Intuitive CSV editor and viewer |
@@ -247,6 +260,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/typora_icon_256x256.png" alt="Typora Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://typoraio.cn/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Clean Markdown editor and reader with live preview |
@@ -264,6 +278,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://icemenubar.app/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS menu bar management tool |
@@ -278,6 +293,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://mac-stats.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS system monitor in menu bar |
@@ -295,6 +311,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="DynamicLake-Pro Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.dynamiclake.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS notch beautification and enhancement tool |
@@ -312,6 +329,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://imageoptim.com/icon@2x.png" alt="ImageOptim Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://imageoptim.com/mac) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Lossless image compression tool |
@@ -329,6 +347,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png" alt="Snippai Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.snippai.de/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | AI-powered smart screenshot tool |
@@ -346,6 +365,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Chrome Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.google.com/chrome) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Google Chrome - The browser built for you |
@@ -363,6 +383,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/raw/master/public/logo.png" alt="BongoCat Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://github.com/ayangweb/BongoCat) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Cross-platform desktop pet for fun |
@@ -377,6 +398,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png" alt="RunCat365 Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://kyome22.github.io/RunCat365/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Running cat animation on Windows taskbar showing CPU usage |

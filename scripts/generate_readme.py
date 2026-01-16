@@ -28,6 +28,31 @@ PLATFORM_BADGES = {
     "iOS": ("iOS", "000000", "apple", "white"),
 }
 
+LOGO_MAP = {
+    "IINA": "https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png",
+    "Alfred": "./images/alfred-logo4@2x.png",
+    "Chrome": "./images/chrome-logo-m100.svg",
+    "DynamicLake-Pro": "./images/DynamicLakePro-ico.png",
+    "Keka": "./images/Keka-Square-512x512.png",
+    "LocalSend": "./images/localsend-logo-512.png",
+    "Modern-CSV": "./images/moderncsv-logo-dark-127.png",
+    "OBS": "./images/obs_new_icon_small-r.png",
+    "Sublime-Text": "./images/sublime_text.png",
+    "Transnomino": "./images/transnomino-icon.webp",
+    "Typora": "./images/typora_icon_256x256.png",
+    "Utools": "./images/utool-logo.png",
+    "Popcorn-Time": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png",
+    "iTerm2": "https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png",
+    "QuickRecorder": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+    "Ice": "https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+    "Stats": "https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+    "ImageOptim": "https://imageoptim.com/icon@2x.png",
+    "Snippai": "https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png",
+    "BongoCat": "https://github.com/ayangweb/BongoCat/raw/master/public/logo.png",
+    "RunCat365": "https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png",
+    "File-Converter": "https://github.com/Tichau/FileConverter/raw/main/images/application-icon.png",
+}
+
 
 def get_cost_badge(free: bool, freemium: bool) -> str:
     key = (free, freemium)
@@ -63,6 +88,11 @@ def generate_stars_badge(github: str | None) -> str:
     return "N/A"
 
 
+def generate_logo_path(name: str) -> str:
+    """Generate logo image path based on software name"""
+    return LOGO_MAP.get(name, f"./images/{name.lower().replace(' ', '')}-logo.png")
+
+
 def generate_software_section(software: dict, is_chinese: bool) -> str:
     name = software["name"]
     website = software["website"]
@@ -86,6 +116,7 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     platform_badges = get_platform_badges(platforms)
     github_link = generate_github_link(github)
     stars_badge = generate_stars_badge(github)
+    logo_path = generate_logo_path(name)
 
     tag_str = " ".join([f"#{tag}" for tag in tags])
     highlights_list = "<br>".join([f"- {h}" for h in highlights])
@@ -96,6 +127,7 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="{logo_path}" alt="{name} Logo" width="120"/> |
 | **🌐 官网** | [点击访问]({website}) |
 | **🖥 适用系统** | {platform_badges} |
 | **🛠 功能用途** | {description} |
@@ -112,6 +144,7 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="{logo_path}" alt="{name} Logo" width="120"/> |
 | **🌐 Website** | [Visit]({website}) |
 | **🖥 Platforms** | {platform_badges} |
 | **🛠 Description** | {description} |
