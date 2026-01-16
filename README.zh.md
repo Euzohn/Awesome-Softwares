@@ -125,7 +125,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/main/images/application-icon.png" alt="File-Converter Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://file-converter.io/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 简单易用的文件转换和压缩工具，通过 Windows 资源管理器右键菜单使用 |

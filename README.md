@@ -125,7 +125,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/main/images/application-icon.png" alt="File-Converter Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://file-converter.io/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Simple file converter and compressor, accessible via Windows Explorer context menu |

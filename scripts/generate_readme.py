@@ -50,7 +50,7 @@ LOGO_MAP = {
     "Snippai": "https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png",
     "BongoCat": "https://github.com/ayangweb/BongoCat/raw/master/public/logo.png",
     "RunCat365": "https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png",
-    "File-Converter": "https://github.com/Tichau/FileConverter/raw/main/images/application-icon.png",
+    "File-Converter": "https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg",
 }
 
 
