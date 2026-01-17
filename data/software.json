@@ -600,6 +600,51 @@
        "logo": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png"
      },
      {
+       "name": "Logseq",
+       "description": "隐私优先的开源知识库，支持 Markdown 和双向链接",
+       "description_en": "Privacy-first, open-source knowledge base with Markdown and bi-directional links",
+       "website": "https://logseq.com/",
+       "platforms": ["Web", "Windows", "macOS", "Linux", "Android", "iOS"],
+       "category": "Markdown",
+       "open_source": true,
+       "free": true,
+       "github": "logseq/logseq",
+       "stars": 30000,
+       "tags": [
+         "Markdown",
+         "知识管理",
+         "笔记",
+         "开源软件",
+         "隐私",
+         "双向链接"
+       ],
+       "tags_en": [
+         "Markdown",
+         "Knowledge Management",
+         "Note-taking",
+         "Open Source",
+         "Privacy",
+         "Bi-directional Links"
+       ],
+       "highlights": [
+         "本地优先，隐私保护",
+         "支持 Markdown 和双向链接",
+         "强大的查询和搜索功能",
+         "插件扩展和主题自定义",
+         "跨平台支持，包括 Web 版本",
+         "开源，确保数据所有权"
+       ],
+       "highlights_en": [
+         "Local-first, privacy-focused",
+         "Markdown and bi-directional linking support",
+         "Powerful query and search capabilities",
+         "Plugin extensibility and custom themes",
+         "Cross-platform including web version",
+         "Open source, ensuring data ownership"
+       ],
+       "logo": "https://logseq.com/static/img/logo.png"
+     },
+     {
       "name": "Ice",
       "description": "macOS 菜单栏管理工具",
       "description_en": "macOS menu bar management tool",

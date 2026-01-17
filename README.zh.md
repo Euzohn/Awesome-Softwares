@@ -309,6 +309,21 @@
 | **✨ 亮点** | - 支持多媒体笔记、数学表达式和图表<br>- 跨平台同步，支持 E2EE 加密<br>- Web Clipper 扩展，保存网页为笔记<br>- 插件和主题自定义<br>- 终端应用可用<br>- 开源，确保数据所有权 |
 | **🏷 分类** | #Markdown #笔记 #跨平台 #开源软件 #同步 #隐私
 
+## Logseq
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://logseq.com/static/img/logo.png" alt="Logseq Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://logseq.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 隐私优先的开源知识库，支持 Markdown 和双向链接 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/logseq/logseq) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 本地优先，隐私保护<br>- 支持 Markdown 和双向链接<br>- 强大的查询和搜索功能<br>- 插件扩展和主题自定义<br>- 跨平台支持，包括 Web 版本<br>- 开源，确保数据所有权 |
+| **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
+
 
 <a id="系统工具"></a>
 ## ⚙️ 系统工具
