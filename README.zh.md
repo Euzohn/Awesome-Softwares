@@ -536,7 +536,7 @@
 | **📦 GitHub 源代码** | [GitHub Link](https://github.com/ayangweb/BongoCat) |
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ayangweb/BongoCat?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 适配 macOS、Windows 和 Linux(x11)<br>- 根据键盘或鼠标操作同步移动<br>- 完全开源，绝不收集用户数据<br>- 支持离线运行 |
+| **✨ 亮点** | - 适配 macOS、Windows 和 Linux<br>- 根据键盘或鼠标操作同步移动<br>- 完全开源，绝不收集用户数据<br>- 支持离线运行 |
 | **🏷 分类** | #趣味工具 #跨平台 #开源软件
 
 <a id="runcat365"></a>

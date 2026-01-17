@@ -1022,7 +1022,7 @@
         "Open Source"
       ],
       "highlights": [
-        "适配 macOS、Windows 和 Linux(x11)",
+        "适配 macOS、Windows 和 Linux",
         "根据键盘或鼠标操作同步移动",
         "完全开源，绝不收集用户数据",
         "支持离线运行"
