@@ -105,6 +105,21 @@
 | **✨ Highlights** | - Decentralized, direct local transfer<br>- Truly cross-platform covering desktop and mobile<br>- Free and open source, privacy-friendly<br>- Local network transfer, no external servers |
 | **🏷 Tags** | #File Transfer #Cross-platform #Freeware #Open Source
 
+## Motrix
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/agalwood/Motrix/raw/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://motrix.app/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Open source download manager supporting HTTP, BT, magnet links and more protocols |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/agalwood/Motrix) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/agalwood/Motrix?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Multi-protocol support: HTTP, HTTPS, FTP, BT, magnet links<br>- Multi-threaded downloads for speed<br>- User-friendly interface with drag-and-drop and batch downloads<br>- Open source and ad-free<br>- Cross-platform compatibility |
+| **🏷 Tags** | #Download Manager #BT #Magnet Links #Cross-platform #Open Source
+
 
 <a id="file-management"></a>
 ## 📁 File Management

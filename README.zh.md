@@ -105,6 +105,21 @@
 | **✨ 亮点** | - 去中心化，本地直连传输<br>- 真正跨平台，覆盖桌面与移动设备<br>- 免费且开源，隐私友好<br>- 局域网传输，无需外部服务器 |
 | **🏷 分类** | #文件传输 #跨平台 #免费软件 #开源软件
 
+## Motrix
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/agalwood/Motrix/raw/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://motrix.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 开源下载管理器，支持 HTTP、BT、磁力链接等多协议下载 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/agalwood/Motrix) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/agalwood/Motrix?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多协议下载：HTTP、HTTPS、FTP、BT、磁力链接<br>- 多线程下载，提升速度<br>- 界面友好，支持拖拽和批量下载<br>- 开源免费，无广告<br>- 跨平台兼容 |
+| **🏷 分类** | #下载管理器 #BT #磁力链接 #跨平台 #开源软件
+
 
 <a id="文件管理"></a>
 ## 📁 文件管理

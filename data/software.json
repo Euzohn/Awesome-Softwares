@@ -166,10 +166,51 @@
         "Free and open source, privacy-friendly",
         "Local network transfer, no external servers"
       ],
-      "logo": "./images/localsend-logo-512.png"
-    },
-    {
-      "name": "Keka",
+       "logo": "./images/localsend-logo-512.png"
+     },
+     {
+       "name": "Motrix",
+       "description": "开源下载管理器，支持 HTTP、BT、磁力链接等多协议下载",
+       "description_en": "Open source download manager supporting HTTP, BT, magnet links and more protocols",
+       "website": "https://motrix.app/",
+       "platforms": ["Windows", "macOS", "Linux"],
+       "category": "文件传输",
+       "open_source": true,
+       "free": true,
+       "github": "agalwood/Motrix",
+       "stars": 45000,
+       "tags": [
+         "下载管理器",
+         "BT",
+         "磁力链接",
+         "跨平台",
+         "开源软件"
+       ],
+       "tags_en": [
+         "Download Manager",
+         "BT",
+         "Magnet Links",
+         "Cross-platform",
+         "Open Source"
+       ],
+       "highlights": [
+         "支持多协议下载：HTTP、HTTPS、FTP、BT、磁力链接",
+         "多线程下载，提升速度",
+         "界面友好，支持拖拽和批量下载",
+         "开源免费，无广告",
+         "跨平台兼容"
+       ],
+       "highlights_en": [
+         "Multi-protocol support: HTTP, HTTPS, FTP, BT, magnet links",
+         "Multi-threaded downloads for speed",
+         "User-friendly interface with drag-and-drop and batch downloads",
+         "Open source and ad-free",
+         "Cross-platform compatibility"
+       ],
+       "logo": "https://github.com/agalwood/Motrix/raw/master/static/512x512.png"
+     },
+     {
+       "name": "Keka",
       "description": "文件压缩与解压缩工具",
       "description_en": "File compression and decompression tool",
       "website": "https://www.keka.io/",
