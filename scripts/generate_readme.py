@@ -188,7 +188,7 @@ def generate_readme_zh(data: dict) -> str:
 
 ## 软件列表
 
-""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in software_list]) + "\n\n"
+""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in sorted(software_list, key=lambda x: x['name'].lower())]) + "\n\n"
 
     for cat in categories:
         cat_id = cat["id"]
@@ -255,7 +255,7 @@ def generate_readme_en(data: dict) -> str:
 
 ## Software List
 
-""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in software_list]) + "\n\n"
+""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in sorted(software_list, key=lambda x: x['name'].lower())]) + "\n\n"
 
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])
