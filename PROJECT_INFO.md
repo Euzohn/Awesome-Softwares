@@ -8,8 +8,11 @@
 awesome-softwares/
 ├── 📄 README.md              # 软件列表（英文版）
 ├── 📄 README.zh.md           # 软件列表（中文版）
+├── 📄 README_backup.md       # 旧版 README 备份
 ├── 📄 PROJECT_INFO.md        # 项目结构说明（本文档）
 ├── 📄 CONTRIBUTING.md        # 贡献指南
+├── 📄 add_software_workflow.md # 添加软件工作流说明
+├── 📄 LICENSE                # MIT 许可证
 ├── 📄 requirements.txt       # Python 依赖
 │
 ├── 📁 data/
@@ -19,28 +22,20 @@ awesome-softwares/
 ├── 📁 scripts/
 │   ├── generate_readme.py    # 自动生成 README 文档
 │   ├── add_software.py       # 添加新软件工具
-│   └── update_stars.py       # 更新 GitHub Stars
+│   ├── update_stars.py       # 更新 GitHub Stars
+│   └── validate_schema.py    # 验证 JSON 数据结构
 │
 ├── 📁 .github/workflows/
 │   └── ci.yml                # GitHub Actions CI/CD
 │
 ├── 📁 images/                # 软件 Logo 图片
-│   ├── alfred-logo4@2x.png
-│   ├── chrome-logo-m100.svg
-│   ├── DynamicLakePro-ico.png
-│   ├── iina-icon-256.png
-│   ├── keka-logo.png
-│   ├── localsend-logo-512.png
-│   ├── moderncsv-logo.png
-│   ├── obs-icon.png
-│   ├── sublime-text.png
-│   ├── transnomino-icon.webp
-│   ├── typora-icon.png
-│   └── utool-logo.png
+│   ├── (各种 logo 文件...)
+│   └── images.md             # 图片说明文档
 │
 └── 📁 docs/                  # 额外文档
     ├── tags.md               # 标签分类说明
-    └── cost.md               # 费用说明
+    ├── cost.md               # 费用说明
+    └── tmp.md                # 临时文档
 ```
 
 ## 🔄 数据流
