@@ -48,6 +48,7 @@
 - [Keka](#keka)
 - [LocalSend](#localsend)
 - [Logseq](#logseq)
+- [MarkText](#marktext)
 - [Modern-CSV](#modern-csv)
 - [Motrix](#motrix)
 - [mpv](#mpv)
@@ -346,6 +347,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 本地优先，隐私保护<br>- 支持 Markdown 和双向链接<br>- 强大的查询和搜索功能<br>- 插件扩展和主题自定义<br>- 跨平台支持，包括 Web 版本<br>- 开源，确保数据所有权 |
 | **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
+
+<a id="marktext"></a>
+## MarkText
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.marktext.me/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 简单优雅的开源 Markdown 编辑器，支持实时预览 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/marktext/marktext) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/marktext/marktext?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 实时预览和干净界面<br>- 支持 CommonMark、GFM 和 Pandoc<br>- 数学表达式、front matter 和表情符号<br>- 输出 HTML 和 PDF 文件<br>- 多种主题和编辑模式<br>- 粘贴图片直接从剪贴板 |
+| **🏷 分类** | #Markdown #编辑器 #实时预览
 
 
 <a id="生产力"></a>

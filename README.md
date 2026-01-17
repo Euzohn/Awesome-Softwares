@@ -48,6 +48,7 @@
 - [Keka](#keka)
 - [LocalSend](#localsend)
 - [Logseq](#logseq)
+- [MarkText](#marktext)
 - [Modern-CSV](#modern-csv)
 - [Motrix](#motrix)
 - [mpv](#mpv)
@@ -346,6 +347,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Local-first, privacy-focused<br>- Markdown and bi-directional linking support<br>- Powerful query and search capabilities<br>- Plugin extensibility and custom themes<br>- Cross-platform including web version<br>- Open source, ensuring data ownership |
 | **🏷 Tags** | #Markdown #Knowledge Management #Note-taking #Open Source #Privacy #Bi-directional Links
+
+<a id="marktext"></a>
+## MarkText
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.marktext.me/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Simple and elegant open-source Markdown editor with real-time preview |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/marktext/marktext) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/marktext/marktext?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Realtime preview and clean interface<br>- Support CommonMark, GFM and Pandoc<br>- Math expressions, front matter and emojis<br>- Output HTML and PDF files<br>- Various themes and editing modes<br>- Paste images directly from clipboard |
+| **🏷 Tags** | #Markdown #Editor #Real-time Preview
 
 
 <a id="productivity"></a>

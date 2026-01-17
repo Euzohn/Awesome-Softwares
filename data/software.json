@@ -768,6 +768,45 @@
        "logo": "https://github.com/logseq/logseq/blob/master/icons/icon-256.webp"
      },
      {
+       "name": "MarkText",
+       "description": "简单优雅的开源 Markdown 编辑器，支持实时预览",
+       "description_en": "Simple and elegant open-source Markdown editor with real-time preview",
+       "website": "https://www.marktext.me/",
+       "platforms": ["Windows", "macOS", "Linux"],
+       "category": "开发工具",
+       "open_source": true,
+       "free": true,
+       "github": "marktext/marktext",
+       "stars": 53300,
+       "tags": [
+         "Markdown",
+         "编辑器",
+         "实时预览"
+       ],
+       "tags_en": [
+         "Markdown",
+         "Editor",
+         "Real-time Preview"
+       ],
+       "highlights": [
+         "实时预览和干净界面",
+         "支持 CommonMark、GFM 和 Pandoc",
+         "数学表达式、front matter 和表情符号",
+         "输出 HTML 和 PDF 文件",
+         "多种主题和编辑模式",
+         "粘贴图片直接从剪贴板"
+       ],
+       "highlights_en": [
+         "Realtime preview and clean interface",
+         "Support CommonMark, GFM and Pandoc",
+         "Math expressions, front matter and emojis",
+         "Output HTML and PDF files",
+         "Various themes and editing modes",
+         "Paste images directly from clipboard"
+       ],
+       "logo": "https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png"
+     },
+     {
       "name": "Ice",
       "description": "macOS 菜单栏管理工具",
       "description_en": "macOS menu bar management tool",
