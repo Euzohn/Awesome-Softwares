@@ -175,11 +175,6 @@ def generate_readme_zh(data: dict) -> str:
     for cat, icon in category_titles.items():
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
-        if cat in software_by_category:
-            for software in software_by_category[cat]:
-                software_name = software["name"]
-                software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
-                readme += f"    - [{software_name}](#{software_anchor})\n"
 
     readme += """
 ## 说明
@@ -242,11 +237,6 @@ def generate_readme_en(data: dict) -> str:
     for cat, icon in category_titles.items():
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
-        if cat in software_by_category:
-            for software in software_by_category[cat]:
-                software_name = software["name"]
-                software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
-                readme += f"    - [{software_name}](#{software_anchor})\n"
 
     readme += """
 ## Overview
