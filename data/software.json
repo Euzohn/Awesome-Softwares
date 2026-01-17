@@ -1192,6 +1192,45 @@
         "Fast export to directory or clipboard"
       ],
       "logo": "https://bettershot.site/icon.png"
+    },
+    {
+      "name": "ShareX",
+      "description": "一款免费开源的屏幕截图和文件分享工具",
+      "description_en": "ShareX is a free and open-source screen capture and file sharing tool",
+      "website": "https://getsharex.com/",
+      "platforms": [
+        "Windows"
+      ],
+      "category": "设计与图像处理",
+      "open_source": true,
+      "free": true,
+      "github": "ShareX/ShareX",
+      "stars": 35200,
+      "tags": [
+        "截图工具",
+        "Windows",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Screenshot",
+        "Windows",
+        "OpenSource",
+        "Free"
+      ],
+      "highlights": [
+        "屏幕截图和录制",
+        "文件上传到多个目的地",
+        "OCR 文本识别",
+        "GIF 录制"
+      ],
+      "highlights_en": [
+        "Screen capture and recording",
+        "File upload to multiple destinations",
+        "OCR text recognition",
+        "GIF recording"
+      ],
+      "logo": "https://getsharex.com/img/ShareX_Logo.png"
     }
   ],
    "categories": [

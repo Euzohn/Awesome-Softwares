@@ -32,40 +32,41 @@
 | ------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- |
 | 🟢 **完全免费（Free）**         | 所有功能开放，无需注册或付费即可使用全部功能。       | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen)    |
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
-| 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
+| 🔴 **完全付费（Paid）** | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
 ## 软件列表
 
-- [Alfred](#alfred)
-- [Audacity](#audacity)
-- [Better Shot](#better-shot)
-- [BongoCat](#bongocat)
-- [Chrome](#chrome)
-- [DynamicLake-Pro](#dynamiclake-pro)
-- [File-Converter](#file-converter)
-- [Ice](#ice)
-- [IINA](#iina)
-- [ImageOptim](#imageoptim)
-- [iTerm2](#iterm2)
-- [Joplin](#joplin)
-- [Keka](#keka)
-- [LocalSend](#localsend)
-- [Logseq](#logseq)
-- [MarkText](#marktext)
-- [Modern-CSV](#modern-csv)
-- [Motrix](#motrix)
-- [mpv](#mpv)
-- [OBS](#obs)
-- [Popcorn-Time](#popcorn-time)
-- [QuickRecorder](#quickrecorder)
-- [RunCat365](#runcat365)
-- [RustDesk](#rustdesk)
-- [Snippai](#snippai)
-- [Stats](#stats)
-- [Sublime-Text](#sublime-text)
-- [Transnomino](#transnomino)
-- [Typora](#typora)
-- [Utools](#utools)
+1. [Alfred](#alfred)
+2. [Audacity](#audacity)
+3. [Better Shot](#better-shot)
+4. [BongoCat](#bongocat)
+5. [Chrome](#chrome)
+6. [DynamicLake-Pro](#dynamiclake-pro)
+7. [File-Converter](#file-converter)
+8. [Ice](#ice)
+9. [IINA](#iina)
+10. [ImageOptim](#imageoptim)
+11. [iTerm2](#iterm2)
+12. [Joplin](#joplin)
+13. [Keka](#keka)
+14. [LocalSend](#localsend)
+15. [Logseq](#logseq)
+16. [MarkText](#marktext)
+17. [Modern-CSV](#modern-csv)
+18. [Motrix](#motrix)
+19. [mpv](#mpv)
+20. [OBS](#obs)
+21. [Popcorn-Time](#popcorn-time)
+22. [QuickRecorder](#quickrecorder)
+23. [RunCat365](#runcat365)
+24. [RustDesk](#rustdesk)
+25. [ShareX](#sharex)
+26. [Snippai](#snippai)
+27. [Stats](#stats)
+28. [Sublime-Text](#sublime-text)
+29. [Transnomino](#transnomino)
+30. [Typora](#typora)
+31. [Utools](#utools)
 
 
 <a id="多媒体与音视频"></a>
@@ -530,6 +531,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 区域/窗口/全屏三种捕获模式，支持全局快捷键<br>- 内置强大编辑器：背景、渐变、模糊、阴影、圆角<br>- 标注工具：形状、箭头、文本、编号标签<br>- 离线 OCR 文本识别<br>- 隐私优先：全部本地处理，不上传不收集数据<br>- 原生性能：Rust + Tauri，资源占用低<br>- 快速导出到目录或剪贴板 |
 | **🏷 分类** | #截图工具 #macOS #开源软件 #免费软件
+
+<a id="sharex"></a>
+## ShareX
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://getsharex.com/img/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://getsharex.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 一款免费开源的屏幕截图和文件分享工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/ShareX/ShareX) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 屏幕截图和录制<br>- 文件上传到多个目的地<br>- OCR 文本识别<br>- GIF 录制 |
+| **🏷 分类** | #截图工具 #Windows #开源软件 #免费软件
 
 
 <a id="远程协作与通讯"></a>

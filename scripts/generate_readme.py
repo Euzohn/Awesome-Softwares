@@ -185,11 +185,11 @@ def generate_readme_zh(data: dict) -> str:
 | ------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- |
 | 🟢 **完全免费（Free）**         | 所有功能开放，无需注册或付费即可使用全部功能。       | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen)    |
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
-| 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
+| 🔴 **完全付费（Paid）** | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
 ## 软件列表
 
-""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in sorted(software_list, key=lambda x: x['name'].lower())]) + "\n\n"
+""" + "\n".join([f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for i, s in enumerate(sorted(software_list, key=lambda x: x['name'].lower()))]) + "\n\n"
 
     for cat in categories:
         cat_id = cat["id"]
@@ -251,7 +251,7 @@ def generate_readme_en(data: dict) -> str:
 
 ## Software List
 
-""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in sorted(software_list, key=lambda x: x['name'].lower())]) + "\n\n"
+""" + "\n".join([f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for i, s in enumerate(sorted(software_list, key=lambda x: x['name'].lower()))]) + "\n\n"
 
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])

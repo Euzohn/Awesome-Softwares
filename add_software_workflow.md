@@ -23,7 +23,7 @@ This document outlines the process for adding new software to the Awesome Softwa
    - Cost model (`free`, `freemium`, `paid` flags)
    - Key features/highlights (English: `highlights_en`, Chinese: `highlights`)
    - Tags (English: `tags_en`, Chinese: `tags`)
-   - Category assignment (`category`: match from PROJECT_INFO.md categories)
+    - Category assignment (`category`: must select from the existing categories in `data/software.json` under the "categories" array. Check PROJECT_INFO.md for available categories and their descriptions.)
    - Logo path (`logo`: relative path in `images/`)
 
 3. **Data Update**: Add the collected information to `data/software.json` following the existing JSON structure. Ensure proper categorization and all required fields are populated. **Important: Only add new entries; do not modify or delete existing software entries to avoid data loss.**

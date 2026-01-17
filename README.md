@@ -36,36 +36,37 @@
 
 ## Software List
 
-- [Alfred](#alfred)
-- [Audacity](#audacity)
-- [Better Shot](#better-shot)
-- [BongoCat](#bongocat)
-- [Chrome](#chrome)
-- [DynamicLake-Pro](#dynamiclake-pro)
-- [File-Converter](#file-converter)
-- [Ice](#ice)
-- [IINA](#iina)
-- [ImageOptim](#imageoptim)
-- [iTerm2](#iterm2)
-- [Joplin](#joplin)
-- [Keka](#keka)
-- [LocalSend](#localsend)
-- [Logseq](#logseq)
-- [MarkText](#marktext)
-- [Modern-CSV](#modern-csv)
-- [Motrix](#motrix)
-- [mpv](#mpv)
-- [OBS](#obs)
-- [Popcorn-Time](#popcorn-time)
-- [QuickRecorder](#quickrecorder)
-- [RunCat365](#runcat365)
-- [RustDesk](#rustdesk)
-- [Snippai](#snippai)
-- [Stats](#stats)
-- [Sublime-Text](#sublime-text)
-- [Transnomino](#transnomino)
-- [Typora](#typora)
-- [Utools](#utools)
+1. [Alfred](#alfred)
+2. [Audacity](#audacity)
+3. [Better Shot](#better-shot)
+4. [BongoCat](#bongocat)
+5. [Chrome](#chrome)
+6. [DynamicLake-Pro](#dynamiclake-pro)
+7. [File-Converter](#file-converter)
+8. [Ice](#ice)
+9. [IINA](#iina)
+10. [ImageOptim](#imageoptim)
+11. [iTerm2](#iterm2)
+12. [Joplin](#joplin)
+13. [Keka](#keka)
+14. [LocalSend](#localsend)
+15. [Logseq](#logseq)
+16. [MarkText](#marktext)
+17. [Modern-CSV](#modern-csv)
+18. [Motrix](#motrix)
+19. [mpv](#mpv)
+20. [OBS](#obs)
+21. [Popcorn-Time](#popcorn-time)
+22. [QuickRecorder](#quickrecorder)
+23. [RunCat365](#runcat365)
+24. [RustDesk](#rustdesk)
+25. [ShareX](#sharex)
+26. [Snippai](#snippai)
+27. [Stats](#stats)
+28. [Sublime-Text](#sublime-text)
+29. [Transnomino](#transnomino)
+30. [Typora](#typora)
+31. [Utools](#utools)
 
 
 <a id="multimedia-&-av"></a>
@@ -530,6 +531,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Region/Window/Fullscreen capture with global shortcuts<br>- Powerful editor: backgrounds, gradients, blur, shadows, border radius<br>- Annotation tools: shapes, arrows, text, numbered labels<br>- Offline OCR with bundled Tesseract.js language data<br>- Privacy-first: all local, no uploads, no data collection<br>- Native performance: Rust + Tauri, minimal resource usage<br>- Fast export to directory or clipboard |
 | **🏷 Tags** | #Screenshot Tool #macOS #Open Source #Freeware
+
+<a id="sharex"></a>
+## ShareX
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://getsharex.com/img/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://getsharex.com/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | ShareX is a free and open-source screen capture and file sharing tool |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/ShareX/ShareX) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Screen capture and recording<br>- File upload to multiple destinations<br>- OCR text recognition<br>- GIF recording |
+| **🏷 Tags** | #Screenshot #Windows #OpenSource #Free
 
 
 <a id="remote-&-communication"></a>
