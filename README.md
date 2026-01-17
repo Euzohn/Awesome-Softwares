@@ -241,7 +241,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://rustdesk.com/static/img/logo.png" alt="RustDesk Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://rustdesk.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Open source remote desktop software with self-hosted server, privacy-focused |
@@ -249,7 +249,7 @@
 | **📦 GitHub Repository** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Self-hosted server, no third-party dependency<br>- End-to-end encryption for privacy<br>- No configuration required, works out of the box<br>- File transfer and chat support<br>- Cross-platform compatibility |
+| **✨ Highlights** | - Self-hosted server, no third-party dependency<br>- End-to-end encryption for privacy<br>- No configuration required, works out of box<br>- File transfer and chat support<br>- Cross-platform compatibility |
 | **🏷 Tags** | #Remote Desktop #Cross-platform #Open Source #Privacy #Self-hosted
 
 
@@ -358,7 +358,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://logseq.com/static/img/logo.png" alt="Logseq Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://logseq.com/) |
 | **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |

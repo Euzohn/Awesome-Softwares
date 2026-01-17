@@ -473,11 +473,11 @@
        "highlights_en": [
          "Self-hosted server, no third-party dependency",
          "End-to-end encryption for privacy",
-         "No configuration required, works out of the box",
+         "No configuration required, works out of box",
          "File transfer and chat support",
          "Cross-platform compatibility"
        ],
-       "logo": "https://rustdesk.com/static/img/logo.png"
+       "logo": "https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg"
      },
      {
        "name": "OBS",
@@ -765,7 +765,7 @@
          "Cross-platform including web version",
          "Open source, ensuring data ownership"
        ],
-       "logo": "https://logseq.com/static/img/logo.png"
+       "logo": "https://github.com/logseq/logseq/blob/master/icons/icon-256.webp"
      },
      {
       "name": "Ice",
