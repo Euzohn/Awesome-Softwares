@@ -14,7 +14,7 @@ import sys
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "software.json"
 
-VALID_PLATFORMS = {"macOS", "Windows", "Linux", "Android", "iOS"}
+VALID_PLATFORMS = {"macOS", "Windows", "Linux", "Android", "iOS", "Web"}
 # Allow broader URL characters including @, :, ~ and others commonly seen
 URL_RE = re.compile(r"^https?://[^\s]+$", re.IGNORECASE)
 GITHUB_RE = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
