@@ -139,6 +139,9 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     return section
 
 
+
+
+
 def generate_readme_zh(data: dict) -> str:
     software_list = data["software_list"]
     categories = data.get("categories", [])
@@ -151,8 +154,6 @@ def generate_readme_zh(data: dict) -> str:
         software_by_category[cat].append(software)
 
     category_titles = {c["id"]: c["icon"] for c in categories}
-
-    software_links = []
 
     readme = f"""# 📚 软件列表
 
@@ -174,6 +175,11 @@ def generate_readme_zh(data: dict) -> str:
     for cat, icon in category_titles.items():
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
+        if cat in software_by_category:
+            for software in software_by_category[cat]:
+                software_name = software["name"]
+                software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
+                readme += f"    - [{software_name}](#{software_anchor})\n"
 
     readme += """
 ## 说明
