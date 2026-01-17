@@ -168,6 +168,7 @@ def generate_readme_zh(data: dict) -> str:
   - [📖 目录](#-目录)
   - [说明](#说明)
     - [💰 是否免费](#-是否免费)
+  - [软件列表](#软件列表)
 """
 
     for cat, icon in category_titles.items():
@@ -185,7 +186,9 @@ def generate_readme_zh(data: dict) -> str:
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
 
-"""
+## 软件列表
+
+""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in software_list]) + "\n\n"
 
     for cat in categories:
         cat_id = cat["id"]
@@ -227,6 +230,7 @@ def generate_readme_en(data: dict) -> str:
   - [📖 Table of Contents](#-table-of-contents)
   - [Overview](#overview)
     - [💰 Cost](#-cost)
+  - [Software List](#software-list)
 """
 
     for cat, icon in category_titles.items():
@@ -249,7 +253,9 @@ def generate_readme_en(data: dict) -> str:
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
-"""
+## Software List
+
+""" + "\n".join([f"- [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for s in software_list]) + "\n\n"
 
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])

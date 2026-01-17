@@ -12,6 +12,7 @@
   - [📖 Table of Contents](#-table-of-contents)
   - [Overview](#overview)
     - [💰 Cost](#-cost)
+  - [Software List](#software-list)
   - [🎥 Multimedia](#multimedia)
   - [📁 File Management](#file-management)
   - [💻 Development](#development)
@@ -29,6 +30,38 @@
 | 🟢 **Free** | All features are open, no registration or payment required. | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+
+## Software List
+
+- [IINA](#iina)
+- [Popcorn-Time](#popcorn-time)
+- [mpv](#mpv)
+- [LocalSend](#localsend)
+- [Motrix](#motrix)
+- [Keka](#keka)
+- [Transnomino](#transnomino)
+- [Sublime-Text](#sublime-text)
+- [iTerm2](#iterm2)
+- [Alfred](#alfred)
+- [Utools](#utools)
+- [RustDesk](#rustdesk)
+- [OBS](#obs)
+- [QuickRecorder](#quickrecorder)
+- [Audacity](#audacity)
+- [Modern-CSV](#modern-csv)
+- [Typora](#typora)
+- [Joplin](#joplin)
+- [Logseq](#logseq)
+- [Ice](#ice)
+- [Stats](#stats)
+- [DynamicLake-Pro](#dynamiclake-pro)
+- [ImageOptim](#imageoptim)
+- [Snippai](#snippai)
+- [Chrome](#chrome)
+- [BongoCat](#bongocat)
+- [RunCat365](#runcat365)
+- [File-Converter](#file-converter)
+- [Better Shot](#better-shot)
 
 
 <a id="multimedia"></a>

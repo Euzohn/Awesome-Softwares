@@ -12,6 +12,7 @@
   - [📖 目录](#-目录)
   - [说明](#说明)
     - [💰 是否免费](#-是否免费)
+  - [软件列表](#软件列表)
   - [🎥 多媒体](#多媒体)
   - [📁 文件管理](#文件管理)
   - [💻 开发工具](#开发工具)
@@ -29,6 +30,38 @@
 | 🟢 **完全免费（Free）**         | 所有功能开放，无需注册或付费即可使用全部功能。       | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen)    |
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
+
+## 软件列表
+
+- [IINA](#iina)
+- [Popcorn-Time](#popcorn-time)
+- [mpv](#mpv)
+- [LocalSend](#localsend)
+- [Motrix](#motrix)
+- [Keka](#keka)
+- [Transnomino](#transnomino)
+- [Sublime-Text](#sublime-text)
+- [iTerm2](#iterm2)
+- [Alfred](#alfred)
+- [Utools](#utools)
+- [RustDesk](#rustdesk)
+- [OBS](#obs)
+- [QuickRecorder](#quickrecorder)
+- [Audacity](#audacity)
+- [Modern-CSV](#modern-csv)
+- [Typora](#typora)
+- [Joplin](#joplin)
+- [Logseq](#logseq)
+- [Ice](#ice)
+- [Stats](#stats)
+- [DynamicLake-Pro](#dynamiclake-pro)
+- [ImageOptim](#imageoptim)
+- [Snippai](#snippai)
+- [Chrome](#chrome)
+- [BongoCat](#bongocat)
+- [RunCat365](#runcat365)
+- [File-Converter](#file-converter)
+- [Better Shot](#better-shot)
 
 
 <a id="多媒体"></a>
