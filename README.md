@@ -360,7 +360,7 @@
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🖼 Logo** | <img src="https://logseq.com/static/img/logo.png" alt="Logseq Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://logseq.com/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
 | **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub Repository** | [GitHub Link](https://github.com/logseq/logseq) |

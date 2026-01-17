@@ -26,6 +26,7 @@ PLATFORM_BADGES = {
     "Linux": ("Linux", "FCC624", "linux", "black"),
     "Android": ("Android", "3DDC84", "android", "white"),
     "iOS": ("iOS", "000000", "apple", "white"),
+    "Web": ("Web", "4285F4", "chrome", "white"),
 }
 
 
