@@ -97,9 +97,11 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     tag_str = " ".join([f"#{tag}" for tag in tags])
     highlights_list = "<br>".join([f"- {h}" for h in highlights])
     highlights_label = "✨ 亮点" if is_chinese else "✨ Highlights"
+    anchor = name.lower().replace(" ", "-").replace("_", "-")
 
     if is_chinese:
-        section = f"""## {name}
+        section = f"""<a id="{anchor}"></a>
+## {name}
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,7 +118,8 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
 
 """
     else:
-        section = f"""## {name}
+        section = f"""<a id="{anchor}"></a>
+## {name}
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -149,6 +152,8 @@ def generate_readme_zh(data: dict) -> str:
 
     category_titles = {c["id"]: c["icon"] for c in categories}
 
+    software_links = []
+
     readme = f"""# 📚 软件列表
 
 🔗 [中文版本](README.zh.md) | [English Version](README.md)
@@ -180,7 +185,9 @@ def generate_readme_zh(data: dict) -> str:
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
 
-"""
+## 软件列表
+
+""" + "\n".join(software_links) + "\n\n"
 
     for cat in categories:
         cat_id = cat["id"]
@@ -190,6 +197,9 @@ def generate_readme_zh(data: dict) -> str:
         readme += f"\n<a id=\"{cat_id.lower().replace(' ', '-')}\"></a>\n## {icon} {cat_id}\n\n"
 
         for software in software_list:
+            software_name = software["name"]
+            software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
+            software_links.append(f"- [{software_name}](#{software_anchor})")
             readme += generate_software_section(software, is_chinese=True)
 
     return readme
@@ -207,6 +217,8 @@ def generate_readme_en(data: dict) -> str:
         software_by_category[cat].append(software)
 
     category_titles = {c.get("id_en", c["id"]): c["icon"] for c in categories}
+
+    software_links = []
 
     readme = f"""# 📚 Awesome Softwares
 
@@ -239,8 +251,11 @@ def generate_readme_en(data: dict) -> str:
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
-"""
+## Software List
 
+""" + "\n".join(software_links) + "\n\n"
+
+    software_links = []
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])
         icon = cat["icon"]
@@ -250,6 +265,9 @@ def generate_readme_en(data: dict) -> str:
         readme += f"\n<a id=\"{cat_id.lower().replace(' ', '-')}\"></a>\n## {icon} {cat_id}\n\n"
 
         for software in software_list:
+            software_name = software["name"]
+            software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
+            software_links.append(f"- [{software_name}](#{software_anchor})")
             readme += generate_software_section(software, is_chinese=False)
 
     return readme

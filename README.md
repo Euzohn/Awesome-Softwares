@@ -37,10 +37,15 @@
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
+## Software List
+
+
+
 
 <a id="players"></a>
 ## 🎬 Players
 
+<a id="iina"></a>
 ## IINA
 
 | Item | Details |
@@ -56,6 +61,7 @@
 | **✨ Highlights** | - Free and open source<br>- Excellent playback performance based on mpv<br>- Native macOS design with system-standard interaction |
 | **🏷 Tags** | #Player #macOS #Development
 
+<a id="popcorn-time"></a>
 ## Popcorn-Time
 
 | Item | Details |
@@ -71,6 +77,7 @@
 | **✨ Highlights** | - Cross-platform<br>- Beautiful interface<br>- Massive content library<br>- Recommendations<br>- Offline viewing<br>- Subtitle and multilingual support |
 | **🏷 Tags** | #Player #Cross-platform #Freeware #Open Source
 
+<a id="mpv"></a>
 ## mpv
 
 | Item | Details |
@@ -90,6 +97,7 @@
 <a id="file-transfer"></a>
 ## 📡 File Transfer
 
+<a id="localsend"></a>
 ## LocalSend
 
 | Item | Details |
@@ -105,6 +113,7 @@
 | **✨ Highlights** | - Decentralized, direct local transfer<br>- Truly cross-platform covering desktop and mobile<br>- Free and open source, privacy-friendly<br>- Local network transfer, no external servers |
 | **🏷 Tags** | #File Transfer #Cross-platform #Freeware #Open Source
 
+<a id="motrix"></a>
 ## Motrix
 
 | Item | Details |
@@ -124,6 +133,7 @@
 <a id="file-management"></a>
 ## 📁 File Management
 
+<a id="keka"></a>
 ## Keka
 
 | Item | Details |
@@ -139,6 +149,7 @@
 | **✨ Highlights** | - Minimalist interface with powerful features<br>- Privacy-focused with local data security<br>- Focused on compression without bloat |
 | **🏷 Tags** | #File Management #Compression #macOS #iOS
 
+<a id="transnomino"></a>
 ## Transnomino
 
 | Item | Details |
@@ -154,6 +165,7 @@
 | **✨ Highlights** | - Simple text replacement<br>- Advanced regex modification<br>- Text insertion based on file attributes |
 | **🏷 Tags** | #File Management #macOS #Development
 
+<a id="file-converter"></a>
 ## File-Converter
 
 | Item | Details |
@@ -173,6 +185,7 @@
 <a id="development-tools"></a>
 ## 💻 Development Tools
 
+<a id="sublime-text"></a>
 ## Sublime-Text
 
 | Item | Details |
@@ -188,6 +201,7 @@
 | **✨ Highlights** | - GPU-accelerated rendering<br>- Apple Silicon and Linux ARM64 support<br>- Multiple selection with tabs<br>- Smart context-aware auto-completion<br>- New modern UI design<br>- TypeScript, JSX and TSX support |
 | **🏷 Tags** | #Development #Text Editor #Cross-platform
 
+<a id="iterm2"></a>
 ## iTerm2
 
 | Item | Details |
@@ -207,6 +221,7 @@
 <a id="productivity"></a>
 ## ⚡ Productivity
 
+<a id="alfred"></a>
 ## Alfred
 
 | Item | Details |
@@ -222,6 +237,7 @@
 | **✨ Highlights** | - Search and browse<br>- Type less, say more<br>- Extend and automate<br>- Control your music<br>- Highly customizable for efficiency |
 | **🏷 Tags** | #Productivity #macOS
 
+<a id="utools"></a>
 ## Utools
 
 | Item | Details |
@@ -237,6 +253,7 @@
 | **✨ Highlights** | - Universal search bar<br>- Powerful right-click menu<br>- Plugin-based apps<br>- Extensive plugin ecosystem |
 | **🏷 Tags** | #Productivity #Cross-platform #AI
 
+<a id="rustdesk"></a>
 ## RustDesk
 
 | Item | Details |
@@ -256,6 +273,7 @@
 <a id="media-processing"></a>
 ## 🎥 Media Processing
 
+<a id="obs"></a>
 ## OBS
 
 | Item | Details |
@@ -271,6 +289,7 @@
 | **✨ Highlights** | - High-performance real-time video/audio capture and mixing<br>- Unlimited scene switching<br>- Intuitive audio mixer<br>- Powerful yet easy-to-use configuration<br>- Modular dock interface |
 | **🏷 Tags** | #Media Processing #Streaming #Cross-platform #Development
 
+<a id="quickrecorder"></a>
 ## QuickRecorder
 
 | Item | Details |
@@ -286,6 +305,7 @@
 | **✨ Highlights** | - Screen, window, app and mobile device recording<br>- Audio capture, mouse highlight, screen magnifier<br>- Full macOS 14 Speaker前置 support<br>- HEVC with Alpha video format support<br>- Under 10MB in size |
 | **🏷 Tags** | #Media Processing #macOS
 
+<a id="audacity"></a>
 ## Audacity
 
 | Item | Details |
@@ -305,6 +325,7 @@
 <a id="data-analysis"></a>
 ## 📊 Data Analysis
 
+<a id="modern-csv"></a>
 ## Modern-CSV
 
 | Item | Details |
@@ -324,6 +345,7 @@
 <a id="markdown"></a>
 ## 📝 Markdown
 
+<a id="typora"></a>
 ## Typora
 
 | Item | Details |
@@ -339,6 +361,7 @@
 | **✨ Highlights** | - Read and write with live preview<br>- Simple yet powerful<br>- Highly accessible<br>- Custom theme support |
 | **🏷 Tags** | #Markdown #Cross-platform
 
+<a id="joplin"></a>
 ## Joplin
 
 | Item | Details |
@@ -354,6 +377,7 @@
 | **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
 | **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
 
+<a id="logseq"></a>
 ## Logseq
 
 | Item | Details |
@@ -373,6 +397,7 @@
 <a id="system-tools"></a>
 ## ⚙️ System Tools
 
+<a id="ice"></a>
 ## Ice
 
 | Item | Details |
@@ -388,6 +413,7 @@
 | **✨ Highlights** | - Show hidden menu bar items below the bar<br>- Drag-and-drop menu bar arrangement<br>- Customizable menu bar appearance<br>- Menu bar item search<br>- Customizable menu bar item spacing |
 | **🏷 Tags** | #System Tools #macOS
 
+<a id="stats"></a>
 ## Stats
 
 | Item | Details |
@@ -403,6 +429,7 @@
 | **✨ Highlights** | - CPU usage<br>- GPU usage<br>- Memory usage<br>- Disk usage<br>- Network usage<br>- Battery level<br>- Sensor information |
 | **🏷 Tags** | #System Tools #macOS
 
+<a id="dynamiclake-pro"></a>
 ## DynamicLake-Pro
 
 | Item | Details |
@@ -426,6 +453,7 @@
 <a id="image-processing"></a>
 ## 🖼️ Image Processing
 
+<a id="imageoptim"></a>
 ## ImageOptim
 
 | Item | Details |
@@ -445,6 +473,7 @@
 <a id="screenshot-tools"></a>
 ## 📸 Screenshot Tools
 
+<a id="snippai"></a>
 ## Snippai
 
 | Item | Details |
@@ -460,6 +489,7 @@
 | **✨ Highlights** | - Formula recognition<br>- Text extraction<br>- Table conversion<br>- Image analysis<br>- Problem solving<br>- Code understanding<br>- Color extraction<br>- Language translation |
 | **🏷 Tags** | #Screenshot Tool #Cross-platform #AI #Freeware #Open Source
 
+<a id="better-shot"></a>
 ## Better Shot
 
 | Item | Details |
@@ -479,6 +509,7 @@
 <a id="browsers"></a>
 ## 🌐 Browsers
 
+<a id="chrome"></a>
 ## Chrome
 
 | Item | Details |
@@ -498,6 +529,7 @@
 <a id="fun-tools"></a>
 ## 🎮 Fun Tools
 
+<a id="bongocat"></a>
 ## BongoCat
 
 | Item | Details |
@@ -513,6 +545,7 @@
 | **✨ Highlights** | - macOS, Windows and Linux(x11) support<br>- Syncs with keyboard/mouse actions<br>- Completely open source, no data collection<br>- Works offline |
 | **🏷 Tags** | #Fun Tools #Cross-platform #Open Source
 
+<a id="runcat365"></a>
 ## RunCat365
 
 | Item | Details |
