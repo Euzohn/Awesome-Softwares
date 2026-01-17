@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-17
+> 📅 Last Updated: 2026-01-18
 
 ## 📖 Table of Contents
 
@@ -70,6 +70,21 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Cross-platform<br>- Beautiful interface<br>- Massive content library<br>- Recommendations<br>- Offline viewing<br>- Subtitle and multilingual support |
 | **🏷 Tags** | #Player #Cross-platform #Freeware #Open Source
+
+## mpv
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://mpv.io/images/mpv-logo-128-0baae5aa.png" alt="mpv Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://mpv.io/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | A free, open-source, cross-platform command-line media player. Supports most common media formats and subtitles, offers advanced video output and powerful scripting extensibility. |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/mpv-player/mpv) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Free and open source, lightweight and performant<br>- Supports virtually all common video, audio, and subtitle formats<br>- High quality OpenGL/Vulkan/D3D11 video rendering (color management, HDR, frame interpolation, scaling)<br>- Hardware decoding support, low latency, excellent picture quality<br>- Powerful scripting and embeddable C API<br>- Tiny and cross-platform (Windows, macOS, Linux) |
+| **🏷 Tags** | #Player #Cross-platform #Open Source #Command-line #Advanced Video Output #Hardware Decoding
 
 
 <a id="file-transfer"></a>
@@ -313,10 +328,6 @@
 | **✨ Highlights** | - CPU usage<br>- GPU usage<br>- Memory usage<br>- Disk usage<br>- Network usage<br>- Battery level<br>- Sensor information |
 | **🏷 Tags** | #System Tools #macOS
 
-
-<a id="design-tools"></a>
-## 🎨 Design Tools
-
 ## DynamicLake-Pro
 
 | Item | Details |
@@ -331,6 +342,10 @@
 | **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ Highlights** | - miniLake - compact key information display<br>- Significant UX improvement through detailed changes |
 | **🏷 Tags** | #Design Tools #macOS
+
+
+<a id="design-tools"></a>
+## 🎨 Design Tools
 
 
 <a id="image-processing"></a>

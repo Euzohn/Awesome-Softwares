@@ -78,10 +78,55 @@
         "Offline viewing",
         "Subtitle and multilingual support"
       ],
-      "logo": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
-    },
-    {
-      "name": "LocalSend",
+     "logo": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
+     },
+     {
+       "name": "mpv",
+       "description": "自由、开源、跨平台的高性能命令行媒体播放器，支持几乎所有常见媒体格式和字幕类型，拥有高级视频输出与强大脚本扩展。",
+       "description_en": "A free, open-source, cross-platform command-line media player. Supports most common media formats and subtitles, offers advanced video output and powerful scripting extensibility.",
+       "website": "https://mpv.io/",
+       "platforms": ["Windows", "macOS", "Linux"],
+       "category": "播放器",
+       "open_source": true,
+       "free": true,
+       "github": "mpv-player/mpv",
+       "stars": 33600,
+       "tags": [
+         "播放器",
+         "跨平台",
+         "开源软件",
+         "命令行",
+         "高级视频输出",
+         "硬件解码"
+       ],
+       "tags_en": [
+         "Player",
+         "Cross-platform",
+         "Open Source",
+         "Command-line",
+         "Advanced Video Output",
+         "Hardware Decoding"
+       ],
+       "highlights": [
+         "免费开源，内核纯净、性能极致",
+         "几乎支持全部主流视频、音频与字幕格式",
+         "高级 OpenGL/Vulkan/D3D11 视频渲染，支持色彩管理/HDR/插帧/高质量缩放等",
+         "支持硬件解码、极低延迟、极佳画面",
+         "超强脚本能力和 C API 可嵌入其它应用",
+         "小巧精悍，跨三大桌面平台"
+       ],
+       "highlights_en": [
+         "Free and open source, lightweight and performant",
+         "Supports virtually all common video, audio, and subtitle formats",
+         "High quality OpenGL/Vulkan/D3D11 video rendering (color management, HDR, frame interpolation, scaling)",
+         "Hardware decoding support, low latency, excellent picture quality",
+         "Powerful scripting and embeddable C API",
+         "Tiny and cross-platform (Windows, macOS, Linux)"
+       ],
+       "logo": "https://mpv.io/images/mpv-logo-128-0baae5aa.png"
+     },
+     {
+       "name": "LocalSend",
       "description": "局域网内快速分享文件的跨平台工具",
       "description_en": "Cross-platform tool for quick file sharing within local network",
       "website": "https://localsend.org/",
@@ -595,7 +640,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "设计工具",
+      "category": "系统工具",
       "open_source": false,
       "free": false,
       "price": "$9.99",

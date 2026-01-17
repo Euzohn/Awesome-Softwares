@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-17
+> 📅 最后更新: 2026-01-18
 
 ## 📖 目录
 
@@ -70,6 +70,21 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 跨平台<br>- 美观界面<br>- 海量内容库<br>- 推荐功能<br>- 离线观看<br>- 支持字幕与多语言 |
 | **🏷 分类** | #播放器 #跨平台 #免费软件 #开源软件
+
+## mpv
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://mpv.io/images/mpv-logo-128-0baae5aa.png" alt="mpv Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://mpv.io/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 自由、开源、跨平台的高性能命令行媒体播放器，支持几乎所有常见媒体格式和字幕类型，拥有高级视频输出与强大脚本扩展。 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/mpv-player/mpv) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 免费开源，内核纯净、性能极致<br>- 几乎支持全部主流视频、音频与字幕格式<br>- 高级 OpenGL/Vulkan/D3D11 视频渲染，支持色彩管理/HDR/插帧/高质量缩放等<br>- 支持硬件解码、极低延迟、极佳画面<br>- 超强脚本能力和 C API 可嵌入其它应用<br>- 小巧精悍，跨三大桌面平台 |
+| **🏷 分类** | #播放器 #跨平台 #开源软件 #命令行 #高级视频输出 #硬件解码
 
 
 <a id="文件传输"></a>
@@ -313,10 +328,6 @@
 | **✨ 亮点** | - CPU 使用率<br>- GPU 使用率<br>- 内存使用<br>- 磁盘使用<br>- 网络使用<br>- 电池电量<br>- 传感器信息 |
 | **🏷 分类** | #系统工具 #macOS
 
-
-<a id="设计工具"></a>
-## 🎨 设计工具
-
 ## DynamicLake-Pro
 
 | 信息项 | 详情 |
@@ -331,6 +342,10 @@
 | **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ 亮点** | - miniLake「迷你湖」，以紧凑形式展示关键信息<br>- 通过细节级改动，显著提升整体使用体验 |
 | **🏷 分类** | #设计工具 #macOS
+
+
+<a id="设计工具"></a>
+## 🎨 设计工具
 
 
 <a id="图像处理"></a>
