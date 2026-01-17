@@ -256,6 +256,21 @@
 | **✨ Highlights** | - Screen, window, app and mobile device recording<br>- Audio capture, mouse highlight, screen magnifier<br>- Full macOS 14 Speaker前置 support<br>- HEVC with Alpha video format support<br>- Under 10MB in size |
 | **🏷 Tags** | #Media Processing #macOS
 
+## Audacity
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.audacityteam.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Free, open source, cross-platform audio editor for recording and editing |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/audacity/audacity) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Multi-track audio editing and recording<br>- Import/export multiple audio formats<br>- Rich effects and plugin support<br>- Spectrogram view and audio analysis<br>- Free and open source, cross-platform |
+| **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
+
 
 <a id="data-analysis"></a>
 ## 📊 Data Analysis

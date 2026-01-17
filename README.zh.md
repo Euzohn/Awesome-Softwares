@@ -256,6 +256,21 @@
 | **✨ 亮点** | - 支持录制屏幕、窗口、应用和移动设备<br>- 无驱动音频回录、鼠标高亮、屏幕放大镜<br>- 完整支持 macOS 14 "演讲者前置"<br>- 支持 HEVC with Alpha 视频格式<br>- 软件体积小于 10MB |
 | **🏷 分类** | #音视频处理 #macOS
 
+## Audacity
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.audacityteam.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 免费开源的音频编辑器，支持录音、编辑和混音 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/audacity/audacity) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
+| **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
+
 
 <a id="数据分析"></a>
 ## 📊 数据分析

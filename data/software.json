@@ -475,10 +475,51 @@
         "HEVC with Alpha video format support",
         "Under 10MB in size"
       ],
-      "logo": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
-    },
-    {
-      "name": "Modern-CSV",
+       "logo": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
+     },
+     {
+       "name": "Audacity",
+       "description": "免费开源的音频编辑器，支持录音、编辑和混音",
+       "description_en": "Free, open source, cross-platform audio editor for recording and editing",
+       "website": "https://www.audacityteam.org/",
+       "platforms": ["Windows", "macOS", "Linux"],
+       "category": "音视频处理",
+       "open_source": true,
+       "free": true,
+       "github": "audacity/audacity",
+       "stars": 16300,
+       "tags": [
+         "音频编辑",
+         "录音",
+         "跨平台",
+         "开源软件",
+         "混音"
+       ],
+       "tags_en": [
+         "Audio Editing",
+         "Recording",
+         "Cross-platform",
+         "Open Source",
+         "Mixing"
+       ],
+       "highlights": [
+         "多轨音频编辑和录音",
+         "支持多种音频格式导入导出",
+         "丰富的效果和插件支持",
+         "频谱分析和音频可视化",
+         "免费开源，跨平台"
+       ],
+       "highlights_en": [
+         "Multi-track audio editing and recording",
+         "Import/export multiple audio formats",
+         "Rich effects and plugin support",
+         "Spectrogram view and audio analysis",
+         "Free and open source, cross-platform"
+       ],
+       "logo": "https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png"
+     },
+     {
+       "name": "Modern-CSV",
       "description": "直观的 CSV 编辑器/查看器",
       "description_en": "Intuitive CSV editor and viewer",
       "website": "https://www.moderncsv.com/",
