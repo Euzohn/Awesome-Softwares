@@ -727,7 +727,7 @@
        "description": "隐私优先的开源知识库，支持 Markdown 和双向链接",
        "description_en": "Privacy-first, open-source knowledge base with Markdown and bi-directional links",
        "website": "https://logseq.com/",
-       "platforms": ["Web", "Windows", "macOS", "Linux", "Android", "iOS"],
+       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
        "category": "Markdown",
        "open_source": true,
        "free": true,
