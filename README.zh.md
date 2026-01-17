@@ -12,20 +12,13 @@
   - [📖 目录](#-目录)
   - [说明](#说明)
     - [💰 是否免费](#-是否免费)
-  - [🎬 播放器](#播放器)
-  - [📡 文件传输](#文件传输)
+  - [🎥 多媒体](#多媒体)
   - [📁 文件管理](#文件管理)
   - [💻 开发工具](#开发工具)
-  - [⚡ 效率工具](#效率工具)
-  - [🎥 音视频处理](#音视频处理)
-  - [📊 数据分析](#数据分析)
-  - [📝 Markdown](#markdown)
-  - [⚙️ 系统工具](#系统工具)
-  - [🎨 设计工具](#设计工具)
-  - [🖼️ 图像处理](#图像处理)
-  - [📸 截图工具](#截图工具)
+  - [⚡ 生产力](#生产力)
+  - [🎨 创意](#创意)
   - [🌐 浏览器](#浏览器)
-  - [🎮 趣味工具](#趣味工具)
+  - [🎮 娱乐](#娱乐)
 
 ## 说明
 
@@ -37,13 +30,9 @@
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
 
-## 软件列表
 
-
-
-
-<a id="播放器"></a>
-## 🎬 播放器
+<a id="多媒体"></a>
+## 🎥 多媒体
 
 <a id="iina"></a>
 ## IINA
@@ -93,9 +82,57 @@
 | **✨ 亮点** | - 免费开源，内核纯净、性能极致<br>- 几乎支持全部主流视频、音频与字幕格式<br>- 高级 OpenGL/Vulkan/D3D11 视频渲染，支持色彩管理/HDR/插帧/高质量缩放等<br>- 支持硬件解码、极低延迟、极佳画面<br>- 超强脚本能力和 C API 可嵌入其它应用<br>- 小巧精悍，跨三大桌面平台 |
 | **🏷 分类** | #播放器 #跨平台 #开源软件 #命令行 #高级视频输出 #硬件解码
 
+<a id="obs"></a>
+## OBS
 
-<a id="文件传输"></a>
-## 📡 文件传输
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="OBS Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://obsproject.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 免费开源的视频录制和直播软件 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/obsproject/obs-studio) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 高性能实时视频/音频捕获和混合<br>- 无限数量的场景切换<br>- 直观的音频混音器<br>- 功能强大且易于使用的配置选项<br>- 模块化 Dock 界面 |
+| **🏷 分类** | #音视频处理 #直播 #跨平台 #开发工具
+
+<a id="quickrecorder"></a>
+## QuickRecorder
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://lihaoyun6.github.io/quickrecorder/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 轻量化高性能 macOS 屏幕录制工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/lihaoyun6/QuickRecorder) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/lihaoyun6/QuickRecorder?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持录制屏幕、窗口、应用和移动设备<br>- 无驱动音频回录、鼠标高亮、屏幕放大镜<br>- 完整支持 macOS 14 "演讲者前置"<br>- 支持 HEVC with Alpha 视频格式<br>- 软件体积小于 10MB |
+| **🏷 分类** | #音视频处理 #macOS
+
+<a id="audacity"></a>
+## Audacity
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.audacityteam.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 免费开源的音频编辑器，支持录音、编辑和混音 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/audacity/audacity) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
+| **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
+
+
+<a id="文件管理"></a>
+## 📁 文件管理
 
 <a id="localsend"></a>
 ## LocalSend
@@ -128,10 +165,6 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 支持多协议下载：HTTP、HTTPS、FTP、BT、磁力链接<br>- 多线程下载，提升速度<br>- 界面友好，支持拖拽和批量下载<br>- 开源免费，无广告<br>- 跨平台兼容 |
 | **🏷 分类** | #下载管理器 #BT #磁力链接 #跨平台 #开源软件
-
-
-<a id="文件管理"></a>
-## 📁 文件管理
 
 <a id="keka"></a>
 ## Keka
@@ -217,114 +250,6 @@
 | **✨ 亮点** | - 拆分窗格（Split Panes）<br>- 热键窗口（Hotkey Window）<br>- 内置搜索<br>- 自动补全<br>- 复制模式<br>- 高度可自定义 |
 | **🏷 分类** | #开发工具 #终端 #macOS #效率工具
 
-
-<a id="效率工具"></a>
-## ⚡ 效率工具
-
-<a id="alfred"></a>
-## Alfred
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/alfred-logo4@2x.png" alt="Alfred Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.alfredapp.com/) |
-| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | macOS 效率神器，搜索、快捷键、文本扩展 |
-| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub 源代码** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
-| **✨ 亮点** | - 搜索和浏览（Search and Browse）<br>- 少打字，多操作（Type Less, Say More）<br>- 功能扩展与自动化（Extend and Automate）<br>- 控制音乐（Control Your Music）<br>- 高度可自定义，提高效率 |
-| **🏷 分类** | #效率工具 #macOS
-
-<a id="utools"></a>
-## Utools
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Utools Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.u-tools.cn) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | AI 助力超级助手，插件化工具平台 |
-| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub 源代码** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
-| **🏷 分类** | #效率工具 #跨平台 #人工智能
-
-<a id="rustdesk"></a>
-## RustDesk
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://rustdesk.com/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 自建服务器，无需第三方<br>- 端到端加密，确保隐私<br>- 无需配置，开箱即用<br>- 支持文件传输和聊天<br>- 跨平台兼容 |
-| **🏷 分类** | #远程桌面 #跨平台 #开源软件 #隐私 #自建服务器
-
-
-<a id="音视频处理"></a>
-## 🎥 音视频处理
-
-<a id="obs"></a>
-## OBS
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="OBS Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://obsproject.com/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | 免费开源的视频录制和直播软件 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/obsproject/obs-studio) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 高性能实时视频/音频捕获和混合<br>- 无限数量的场景切换<br>- 直观的音频混音器<br>- 功能强大且易于使用的配置选项<br>- 模块化 Dock 界面 |
-| **🏷 分类** | #音视频处理 #直播 #跨平台 #开发工具
-
-<a id="quickrecorder"></a>
-## QuickRecorder
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://lihaoyun6.github.io/quickrecorder/) |
-| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 轻量化高性能 macOS 屏幕录制工具 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/lihaoyun6/QuickRecorder) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/lihaoyun6/QuickRecorder?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 支持录制屏幕、窗口、应用和移动设备<br>- 无驱动音频回录、鼠标高亮、屏幕放大镜<br>- 完整支持 macOS 14 "演讲者前置"<br>- 支持 HEVC with Alpha 视频格式<br>- 软件体积小于 10MB |
-| **🏷 分类** | #音视频处理 #macOS
-
-<a id="audacity"></a>
-## Audacity
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.audacityteam.org/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | 免费开源的音频编辑器，支持录音、编辑和混音 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/audacity/audacity) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
-| **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
-
-
-<a id="数据分析"></a>
-## 📊 数据分析
-
 <a id="modern-csv"></a>
 ## Modern-CSV
 
@@ -340,10 +265,6 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 轻松编辑 CSV 文件<br>- 查找和排列 CSV 数据<br>- 跨平台一致性<br>- 隐私保证<br>- 快速查看大型 CSV 文件<br>- 完全可定制的 CSV 编辑器 |
 | **🏷 分类** | #数据分析 #CSV编辑 #跨平台
-
-
-<a id="markdown"></a>
-## 📝 Markdown
 
 <a id="typora"></a>
 ## Typora
@@ -394,8 +315,56 @@
 | **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
 
 
-<a id="系统工具"></a>
-## ⚙️ 系统工具
+<a id="生产力"></a>
+## ⚡ 生产力
+
+<a id="alfred"></a>
+## Alfred
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/alfred-logo4@2x.png" alt="Alfred Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.alfredapp.com/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | macOS 效率神器，搜索、快捷键、文本扩展 |
+| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub 源代码** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ 亮点** | - 搜索和浏览（Search and Browse）<br>- 少打字，多操作（Type Less, Say More）<br>- 功能扩展与自动化（Extend and Automate）<br>- 控制音乐（Control Your Music）<br>- 高度可自定义，提高效率 |
+| **🏷 分类** | #效率工具 #macOS
+
+<a id="utools"></a>
+## Utools
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Utools Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.u-tools.cn) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | AI 助力超级助手，插件化工具平台 |
+| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub 源代码** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
+| **🏷 分类** | #效率工具 #跨平台 #人工智能
+
+<a id="rustdesk"></a>
+## RustDesk
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://rustdesk.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 自建服务器，无需第三方<br>- 端到端加密，确保隐私<br>- 无需配置，开箱即用<br>- 支持文件传输和聊天<br>- 跨平台兼容 |
+| **🏷 分类** | #远程桌面 #跨平台 #开源软件 #隐私 #自建服务器
 
 <a id="ice"></a>
 ## Ice
@@ -446,12 +415,8 @@
 | **🏷 分类** | #设计工具 #macOS
 
 
-<a id="设计工具"></a>
-## 🎨 设计工具
-
-
-<a id="图像处理"></a>
-## 🖼️ 图像处理
+<a id="创意"></a>
+## 🎨 创意
 
 <a id="imageoptim"></a>
 ## ImageOptim
@@ -468,10 +433,6 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 减小图片文件大小<br>- 移除不可见垃圾<br>- 完全免费且开源 |
 | **🏷 分类** | #图像处理 #macOS
-
-
-<a id="截图工具"></a>
-## 📸 截图工具
 
 <a id="snippai"></a>
 ## Snippai
@@ -526,8 +487,8 @@
 | **🏷 分类** | #浏览器 #跨平台 #免费软件
 
 
-<a id="趣味工具"></a>
-## 🎮 趣味工具
+<a id="娱乐"></a>
+## 🎮 娱乐
 
 <a id="bongocat"></a>
 ## BongoCat

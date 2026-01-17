@@ -12,20 +12,13 @@
   - [📖 Table of Contents](#-table-of-contents)
   - [Overview](#overview)
     - [💰 Cost](#-cost)
-  - [🎬 Players](#players)
-  - [📡 File Transfer](#file-transfer)
+  - [🎥 Multimedia](#multimedia)
   - [📁 File Management](#file-management)
-  - [💻 Development Tools](#development-tools)
+  - [💻 Development](#development)
   - [⚡ Productivity](#productivity)
-  - [🎥 Media Processing](#media-processing)
-  - [📊 Data Analysis](#data-analysis)
-  - [📝 Markdown](#markdown)
-  - [⚙️ System Tools](#system-tools)
-  - [🎨 Design Tools](#design-tools)
-  - [🖼️ Image Processing](#image-processing)
-  - [📸 Screenshot Tools](#screenshot-tools)
+  - [🎨 Creative](#creative)
   - [🌐 Browsers](#browsers)
-  - [🎮 Fun Tools](#fun-tools)
+  - [🎮 Fun](#fun)
 
 ## Overview
 
@@ -37,13 +30,9 @@
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
-## Software List
 
-
-
-
-<a id="players"></a>
-## 🎬 Players
+<a id="multimedia"></a>
+## 🎥 Multimedia
 
 <a id="iina"></a>
 ## IINA
@@ -93,9 +82,57 @@
 | **✨ Highlights** | - Free and open source, lightweight and performant<br>- Supports virtually all common video, audio, and subtitle formats<br>- High quality OpenGL/Vulkan/D3D11 video rendering (color management, HDR, frame interpolation, scaling)<br>- Hardware decoding support, low latency, excellent picture quality<br>- Powerful scripting and embeddable C API<br>- Tiny and cross-platform (Windows, macOS, Linux) |
 | **🏷 Tags** | #Player #Cross-platform #Open Source #Command-line #Advanced Video Output #Hardware Decoding
 
+<a id="obs"></a>
+## OBS
 
-<a id="file-transfer"></a>
-## 📡 File Transfer
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="OBS Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://obsproject.com/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Free open source video recording and streaming software |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/obsproject/obs-studio) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - High-performance real-time video/audio capture and mixing<br>- Unlimited scene switching<br>- Intuitive audio mixer<br>- Powerful yet easy-to-use configuration<br>- Modular dock interface |
+| **🏷 Tags** | #Media Processing #Streaming #Cross-platform #Development
+
+<a id="quickrecorder"></a>
+## QuickRecorder
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://lihaoyun6.github.io/quickrecorder/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Lightweight high-performance macOS screen recorder |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/lihaoyun6/QuickRecorder) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/lihaoyun6/QuickRecorder?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Screen, window, app and mobile device recording<br>- Audio capture, mouse highlight, screen magnifier<br>- Full macOS 14 Speaker前置 support<br>- HEVC with Alpha video format support<br>- Under 10MB in size |
+| **🏷 Tags** | #Media Processing #macOS
+
+<a id="audacity"></a>
+## Audacity
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.audacityteam.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Free, open source, cross-platform audio editor for recording and editing |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/audacity/audacity) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Multi-track audio editing and recording<br>- Import/export multiple audio formats<br>- Rich effects and plugin support<br>- Spectrogram view and audio analysis<br>- Free and open source, cross-platform |
+| **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
+
+
+<a id="file-management"></a>
+## 📁 File Management
 
 <a id="localsend"></a>
 ## LocalSend
@@ -128,10 +165,6 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Multi-protocol support: HTTP, HTTPS, FTP, BT, magnet links<br>- Multi-threaded downloads for speed<br>- User-friendly interface with drag-and-drop and batch downloads<br>- Open source and ad-free<br>- Cross-platform compatibility |
 | **🏷 Tags** | #Download Manager #BT #Magnet Links #Cross-platform #Open Source
-
-
-<a id="file-management"></a>
-## 📁 File Management
 
 <a id="keka"></a>
 ## Keka
@@ -182,8 +215,8 @@
 | **🏷 Tags** | #File Management #Windows #Open Source #Freeware
 
 
-<a id="development-tools"></a>
-## 💻 Development Tools
+<a id="development"></a>
+## 💻 Development
 
 <a id="sublime-text"></a>
 ## Sublime-Text
@@ -216,6 +249,70 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Split panes<br>- Hotkey window<br>- Built-in search<br>- Auto-completion<br>- Copy mode<br>- Highly customizable |
 | **🏷 Tags** | #Development #Terminal #macOS #Productivity
+
+<a id="modern-csv"></a>
+## Modern-CSV
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Modern-CSV Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.moderncsv.com/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Intuitive CSV editor and viewer |
+| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub Repository** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Easy CSV file editing<br>- Find and arrange CSV data<br>- Cross-platform consistency<br>- Privacy guaranteed<br>- Fast viewing of large CSV files<br>- Fully customizable CSV editor |
+| **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
+
+<a id="typora"></a>
+## Typora
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/typora_icon_256x256.png" alt="Typora Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://typoraio.cn/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Clean Markdown editor and reader with live preview |
+| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub Repository** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ Highlights** | - Read and write with live preview<br>- Simple yet powerful<br>- Highly accessible<br>- Custom theme support |
+| **🏷 Tags** | #Markdown #Cross-platform
+
+<a id="joplin"></a>
+## Joplin
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://joplinapp.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Open source note-taking app with Markdown support, cross-platform sync, privacy-focused |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/laurent22/joplin) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
+| **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
+
+<a id="logseq"></a>
+## Logseq
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://logseq.com/) |
+| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/logseq/logseq) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Local-first, privacy-focused<br>- Markdown and bi-directional linking support<br>- Powerful query and search capabilities<br>- Plugin extensibility and custom themes<br>- Cross-platform including web version<br>- Open source, ensuring data ownership |
+| **🏷 Tags** | #Markdown #Knowledge Management #Note-taking #Open Source #Privacy #Bi-directional Links
 
 
 <a id="productivity"></a>
@@ -269,134 +366,6 @@
 | **✨ Highlights** | - Self-hosted server, no third-party dependency<br>- End-to-end encryption for privacy<br>- No configuration required, works out of box<br>- File transfer and chat support<br>- Cross-platform compatibility |
 | **🏷 Tags** | #Remote Desktop #Cross-platform #Open Source #Privacy #Self-hosted
 
-
-<a id="media-processing"></a>
-## 🎥 Media Processing
-
-<a id="obs"></a>
-## OBS
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/obs_new_icon_small-r.png" alt="OBS Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://obsproject.com/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 Description** | Free open source video recording and streaming software |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/obsproject/obs-studio) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - High-performance real-time video/audio capture and mixing<br>- Unlimited scene switching<br>- Intuitive audio mixer<br>- Powerful yet easy-to-use configuration<br>- Modular dock interface |
-| **🏷 Tags** | #Media Processing #Streaming #Cross-platform #Development
-
-<a id="quickrecorder"></a>
-## QuickRecorder
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://lihaoyun6.github.io/quickrecorder/) |
-| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Lightweight high-performance macOS screen recorder |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/lihaoyun6/QuickRecorder) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/lihaoyun6/QuickRecorder?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Screen, window, app and mobile device recording<br>- Audio capture, mouse highlight, screen magnifier<br>- Full macOS 14 Speaker前置 support<br>- HEVC with Alpha video format support<br>- Under 10MB in size |
-| **🏷 Tags** | #Media Processing #macOS
-
-<a id="audacity"></a>
-## Audacity
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://www.audacityteam.org/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 Description** | Free, open source, cross-platform audio editor for recording and editing |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/audacity/audacity) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Multi-track audio editing and recording<br>- Import/export multiple audio formats<br>- Rich effects and plugin support<br>- Spectrogram view and audio analysis<br>- Free and open source, cross-platform |
-| **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
-
-
-<a id="data-analysis"></a>
-## 📊 Data Analysis
-
-<a id="modern-csv"></a>
-## Modern-CSV
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Modern-CSV Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://www.moderncsv.com/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 Description** | Intuitive CSV editor and viewer |
-| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub Repository** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Easy CSV file editing<br>- Find and arrange CSV data<br>- Cross-platform consistency<br>- Privacy guaranteed<br>- Fast viewing of large CSV files<br>- Fully customizable CSV editor |
-| **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
-
-
-<a id="markdown"></a>
-## 📝 Markdown
-
-<a id="typora"></a>
-## Typora
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/typora_icon_256x256.png" alt="Typora Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://typoraio.cn/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 Description** | Clean Markdown editor and reader with live preview |
-| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub Repository** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
-| **✨ Highlights** | - Read and write with live preview<br>- Simple yet powerful<br>- Highly accessible<br>- Custom theme support |
-| **🏷 Tags** | #Markdown #Cross-platform
-
-<a id="joplin"></a>
-## Joplin
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://joplinapp.org/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Open source note-taking app with Markdown support, cross-platform sync, privacy-focused |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/laurent22/joplin) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
-| **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
-
-<a id="logseq"></a>
-## Logseq
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://logseq.com/) |
-| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/logseq/logseq) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Local-first, privacy-focused<br>- Markdown and bi-directional linking support<br>- Powerful query and search capabilities<br>- Plugin extensibility and custom themes<br>- Cross-platform including web version<br>- Open source, ensuring data ownership |
-| **🏷 Tags** | #Markdown #Knowledge Management #Note-taking #Open Source #Privacy #Bi-directional Links
-
-
-<a id="system-tools"></a>
-## ⚙️ System Tools
-
 <a id="ice"></a>
 ## Ice
 
@@ -446,12 +415,8 @@
 | **🏷 Tags** | #Design Tools #macOS
 
 
-<a id="design-tools"></a>
-## 🎨 Design Tools
-
-
-<a id="image-processing"></a>
-## 🖼️ Image Processing
+<a id="creative"></a>
+## 🎨 Creative
 
 <a id="imageoptim"></a>
 ## ImageOptim
@@ -468,10 +433,6 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Reduce image file size<br>- Remove invisible junk<br>- Completely free and open source |
 | **🏷 Tags** | #Image Processing #macOS
-
-
-<a id="screenshot-tools"></a>
-## 📸 Screenshot Tools
 
 <a id="snippai"></a>
 ## Snippai
@@ -526,8 +487,8 @@
 | **🏷 Tags** | #Browser #Cross-platform #Freeware
 
 
-<a id="fun-tools"></a>
-## 🎮 Fun Tools
+<a id="fun"></a>
+## 🎮 Fun
 
 <a id="bongocat"></a>
 ## BongoCat

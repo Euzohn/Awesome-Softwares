@@ -185,9 +185,7 @@ def generate_readme_zh(data: dict) -> str:
 | 🟠 **部分功能付费（Freemium）** | 提供基本功能的免费版本，高级功能需订阅或一次性付费。 | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **完全付费（Paid）**         | 所有功能需付费使用。                                 | ![Paid](https://img.shields.io/badge/Cost-Paid-red)            |
 
-## 软件列表
-
-""" + "\n".join(software_links) + "\n\n"
+"""
 
     for cat in categories:
         cat_id = cat["id"]
@@ -197,9 +195,6 @@ def generate_readme_zh(data: dict) -> str:
         readme += f"\n<a id=\"{cat_id.lower().replace(' ', '-')}\"></a>\n## {icon} {cat_id}\n\n"
 
         for software in software_list:
-            software_name = software["name"]
-            software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
-            software_links.append(f"- [{software_name}](#{software_anchor})")
             readme += generate_software_section(software, is_chinese=True)
 
     return readme
@@ -217,8 +212,6 @@ def generate_readme_en(data: dict) -> str:
         software_by_category[cat].append(software)
 
     category_titles = {c.get("id_en", c["id"]): c["icon"] for c in categories}
-
-    software_links = []
 
     readme = f"""# 📚 Awesome Softwares
 
@@ -239,6 +232,11 @@ def generate_readme_en(data: dict) -> str:
     for cat, icon in category_titles.items():
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
+        if cat in software_by_category:
+            for software in software_by_category[cat]:
+                software_name = software["name"]
+                software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
+                readme += f"    - [{software_name}](#{software_anchor})\n"
 
     readme += """
 ## Overview
@@ -251,11 +249,8 @@ def generate_readme_en(data: dict) -> str:
 | 🟠 **Freemium** | Free basic version, premium features require subscription. | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | 🔴 **Paid** | All features require payment. | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 
-## Software List
+"""
 
-""" + "\n".join(software_links) + "\n\n"
-
-    software_links = []
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])
         icon = cat["icon"]
@@ -265,9 +260,6 @@ def generate_readme_en(data: dict) -> str:
         readme += f"\n<a id=\"{cat_id.lower().replace(' ', '-')}\"></a>\n## {icon} {cat_id}\n\n"
 
         for software in software_list:
-            software_name = software["name"]
-            software_anchor = software_name.lower().replace(" ", "-").replace("_", "-")
-            software_links.append(f"- [{software_name}](#{software_anchor})")
             readme += generate_software_section(software, is_chinese=False)
 
     return readme
