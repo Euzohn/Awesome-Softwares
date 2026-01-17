@@ -1321,6 +1321,45 @@
         "Library management"
       ],
       "logo": "https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png"
+    },
+    {
+      "name": "Ulauncher",
+      "description": "功能丰富的 Linux 应用程序启动器",
+      "description_en": "Feature rich application Launcher for Linux",
+      "website": "https://ulauncher.io/",
+      "platforms": [
+        "Linux"
+      ],
+      "category": "系统工具与优化",
+      "open_source": true,
+      "free": true,
+      "github": "Ulauncher/Ulauncher",
+      "stars": 4300,
+      "tags": [
+        "启动器",
+        "Linux",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Launcher",
+        "Linux",
+        "OpenSource",
+        "Free"
+      ],
+      "highlights": [
+        "模糊搜索",
+        "自定义主题",
+        "快捷方式和扩展",
+        "快速目录浏览"
+      ],
+      "highlights_en": [
+        "Fuzzy search",
+        "Custom color themes",
+        "Shortcuts & extensions",
+        "Fast directory browser"
+      ],
+      "logo": "https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg"
     }
   ],
    "categories": [

@@ -12,7 +12,7 @@ This document outlines the process for adding new software to the Awesome Softwa
 
 ## Workflow Steps
 
-1. **User Input**: Provide the software's GitHub repository URL, official website URL, and logo link (optional). If logo not provided, place in `images/` directory following naming convention `{software-name}-logo.png`.
+1. **User Input**: Provide the software's GitHub repository URL, official website URL, and logo link (optional). If logo not provided, prioritize finding the logo from the GitHub repository (e.g., in `icons/` or `assets/` directories). If not found there, search the official website or other sources. Once found, download and save the logo to the `images/` directory following the naming convention `{software-name}-logo.png`.
 
 2. **Information Retrieval**: Use web search and web fetch tools to gather comprehensive software details including:
    - Software name

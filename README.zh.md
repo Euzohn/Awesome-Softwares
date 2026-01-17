@@ -68,7 +68,8 @@
 30. [Sublime-Text](#sublime-text)
 31. [Transnomino](#transnomino)
 32. [Typora](#typora)
-33. [Utools](#utools)
+33. [Ulauncher](#ulauncher)
+34. [Utools](#utools)
 
 
 <a id="多媒体与音视频"></a>
@@ -341,6 +342,22 @@
 | **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ 亮点** | - miniLake「迷你湖」，以紧凑形式展示关键信息<br>- 通过细节级改动，显著提升整体使用体验 |
 | **🏷 分类** | #设计工具 #macOS
+
+<a id="ulauncher"></a>
+## Ulauncher
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://ulauncher.io/) |
+| **🖥 适用系统** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 功能丰富的 Linux 应用程序启动器 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/Ulauncher/Ulauncher) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 模糊搜索<br>- 自定义主题<br>- 快捷方式和扩展<br>- 快速目录浏览 |
+| **🏷 分类** | #启动器 #Linux #开源软件 #免费软件
 
 
 <a id="开发与编程"></a>

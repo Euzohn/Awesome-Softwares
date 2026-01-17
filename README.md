@@ -68,7 +68,8 @@
 30. [Sublime-Text](#sublime-text)
 31. [Transnomino](#transnomino)
 32. [Typora](#typora)
-33. [Utools](#utools)
+33. [Ulauncher](#ulauncher)
+34. [Utools](#utools)
 
 
 <a id="multimedia-&-av"></a>
@@ -341,6 +342,22 @@
 | **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
 | **✨ Highlights** | - miniLake - compact key information display<br>- Significant UX improvement through detailed changes |
 | **🏷 Tags** | #Design Tools #macOS
+
+<a id="ulauncher"></a>
+## Ulauncher
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://ulauncher.io/) |
+| **🖥 Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Feature rich application Launcher for Linux |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/Ulauncher/Ulauncher) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Fuzzy search<br>- Custom color themes<br>- Shortcuts & extensions<br>- Fast directory browser |
+| **🏷 Tags** | #Launcher #Linux #OpenSource #Free
 
 
 <a id="development-&-programming"></a>
