@@ -1231,6 +1231,96 @@
         "GIF recording"
       ],
       "logo": "https://getsharex.com/img/ShareX_Logo.png"
+    },
+    {
+      "name": "FlameShot",
+      "description": "强大而简单的开源截图软件",
+      "description_en": "Powerful yet simple to use screenshot software",
+      "website": "https://flameshot.org/",
+      "platforms": [
+        "Linux",
+        "Windows",
+        "macOS"
+      ],
+      "category": "设计与图像处理",
+      "open_source": true,
+      "free": true,
+      "github": "flameshot-org/flameshot",
+      "stars": 28700,
+      "tags": [
+        "截图工具",
+        "Linux",
+        "Windows",
+        "macOS",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Screenshot",
+        "Linux",
+        "Windows",
+        "macOS",
+        "OpenSource",
+        "Free"
+      ],
+      "highlights": [
+        "可自定义界面",
+        "应用内截图编辑",
+        "DBus 接口",
+        "上传到 Imgur"
+      ],
+      "highlights_en": [
+        "Customizable appearance",
+        "In-app screenshot editing",
+        "DBus interface",
+        "Upload to Imgur"
+      ],
+      "logo": "https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg"
+    },
+    {
+      "name": "Calibre",
+      "description": "一款强大的电子书管理和转换工具",
+      "description_en": "The official source code repository for the calibre ebook manager",
+      "website": "https://calibre-ebook.com/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "github": "kovidgoyal/calibre",
+      "stars": 23400,
+      "tags": [
+        "电子书",
+        "Windows",
+        "macOS",
+        "Linux",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "E-book",
+        "Windows",
+        "macOS",
+        "Linux",
+        "OpenSource",
+        "Free"
+      ],
+      "highlights": [
+        "电子书管理",
+        "格式转换",
+        "阅读器",
+        "库管理"
+      ],
+      "highlights_en": [
+        "E-book management",
+        "Format conversion",
+        "Reader",
+        "Library management"
+      ],
+      "logo": "https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png"
     }
   ],
    "categories": [

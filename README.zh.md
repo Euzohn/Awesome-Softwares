@@ -40,33 +40,35 @@
 2. [Audacity](#audacity)
 3. [Better Shot](#better-shot)
 4. [BongoCat](#bongocat)
-5. [Chrome](#chrome)
-6. [DynamicLake-Pro](#dynamiclake-pro)
-7. [File-Converter](#file-converter)
-8. [Ice](#ice)
-9. [IINA](#iina)
-10. [ImageOptim](#imageoptim)
-11. [iTerm2](#iterm2)
-12. [Joplin](#joplin)
-13. [Keka](#keka)
-14. [LocalSend](#localsend)
-15. [Logseq](#logseq)
-16. [MarkText](#marktext)
-17. [Modern-CSV](#modern-csv)
-18. [Motrix](#motrix)
-19. [mpv](#mpv)
-20. [OBS](#obs)
-21. [Popcorn-Time](#popcorn-time)
-22. [QuickRecorder](#quickrecorder)
-23. [RunCat365](#runcat365)
-24. [RustDesk](#rustdesk)
-25. [ShareX](#sharex)
-26. [Snippai](#snippai)
-27. [Stats](#stats)
-28. [Sublime-Text](#sublime-text)
-29. [Transnomino](#transnomino)
-30. [Typora](#typora)
-31. [Utools](#utools)
+5. [Calibre](#calibre)
+6. [Chrome](#chrome)
+7. [DynamicLake-Pro](#dynamiclake-pro)
+8. [File-Converter](#file-converter)
+9. [FlameShot](#flameshot)
+10. [Ice](#ice)
+11. [IINA](#iina)
+12. [ImageOptim](#imageoptim)
+13. [iTerm2](#iterm2)
+14. [Joplin](#joplin)
+15. [Keka](#keka)
+16. [LocalSend](#localsend)
+17. [Logseq](#logseq)
+18. [MarkText](#marktext)
+19. [Modern-CSV](#modern-csv)
+20. [Motrix](#motrix)
+21. [mpv](#mpv)
+22. [OBS](#obs)
+23. [Popcorn-Time](#popcorn-time)
+24. [QuickRecorder](#quickrecorder)
+25. [RunCat365](#runcat365)
+26. [RustDesk](#rustdesk)
+27. [ShareX](#sharex)
+28. [Snippai](#snippai)
+29. [Stats](#stats)
+30. [Sublime-Text](#sublime-text)
+31. [Transnomino](#transnomino)
+32. [Typora](#typora)
+33. [Utools](#utools)
 
 
 <a id="多媒体与音视频"></a>
@@ -167,6 +169,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
 | **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
+
+<a id="calibre"></a>
+## Calibre
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://calibre-ebook.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 一款强大的电子书管理和转换工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/kovidgoyal/calibre) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/kovidgoyal/calibre?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 电子书管理<br>- 格式转换<br>- 阅读器<br>- 库管理 |
+| **🏷 分类** | #电子书 #Windows #macOS #Linux #开源软件 #免费软件
 
 
 <a id="文件管理与传输"></a>
@@ -547,6 +565,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 屏幕截图和录制<br>- 文件上传到多个目的地<br>- OCR 文本识别<br>- GIF 录制 |
 | **🏷 分类** | #截图工具 #Windows #开源软件 #免费软件
+
+<a id="flameshot"></a>
+## FlameShot
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://flameshot.org/) |
+| **🖥 适用系统** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 强大而简单的开源截图软件 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/flameshot-org/flameshot) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/flameshot-org/flameshot?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 可自定义界面<br>- 应用内截图编辑<br>- DBus 接口<br>- 上传到 Imgur |
+| **🏷 分类** | #截图工具 #Linux #Windows #macOS #开源软件 #免费软件
 
 
 <a id="远程协作与通讯"></a>

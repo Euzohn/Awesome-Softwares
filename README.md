@@ -40,33 +40,35 @@
 2. [Audacity](#audacity)
 3. [Better Shot](#better-shot)
 4. [BongoCat](#bongocat)
-5. [Chrome](#chrome)
-6. [DynamicLake-Pro](#dynamiclake-pro)
-7. [File-Converter](#file-converter)
-8. [Ice](#ice)
-9. [IINA](#iina)
-10. [ImageOptim](#imageoptim)
-11. [iTerm2](#iterm2)
-12. [Joplin](#joplin)
-13. [Keka](#keka)
-14. [LocalSend](#localsend)
-15. [Logseq](#logseq)
-16. [MarkText](#marktext)
-17. [Modern-CSV](#modern-csv)
-18. [Motrix](#motrix)
-19. [mpv](#mpv)
-20. [OBS](#obs)
-21. [Popcorn-Time](#popcorn-time)
-22. [QuickRecorder](#quickrecorder)
-23. [RunCat365](#runcat365)
-24. [RustDesk](#rustdesk)
-25. [ShareX](#sharex)
-26. [Snippai](#snippai)
-27. [Stats](#stats)
-28. [Sublime-Text](#sublime-text)
-29. [Transnomino](#transnomino)
-30. [Typora](#typora)
-31. [Utools](#utools)
+5. [Calibre](#calibre)
+6. [Chrome](#chrome)
+7. [DynamicLake-Pro](#dynamiclake-pro)
+8. [File-Converter](#file-converter)
+9. [FlameShot](#flameshot)
+10. [Ice](#ice)
+11. [IINA](#iina)
+12. [ImageOptim](#imageoptim)
+13. [iTerm2](#iterm2)
+14. [Joplin](#joplin)
+15. [Keka](#keka)
+16. [LocalSend](#localsend)
+17. [Logseq](#logseq)
+18. [MarkText](#marktext)
+19. [Modern-CSV](#modern-csv)
+20. [Motrix](#motrix)
+21. [mpv](#mpv)
+22. [OBS](#obs)
+23. [Popcorn-Time](#popcorn-time)
+24. [QuickRecorder](#quickrecorder)
+25. [RunCat365](#runcat365)
+26. [RustDesk](#rustdesk)
+27. [ShareX](#sharex)
+28. [Snippai](#snippai)
+29. [Stats](#stats)
+30. [Sublime-Text](#sublime-text)
+31. [Transnomino](#transnomino)
+32. [Typora](#typora)
+33. [Utools](#utools)
 
 
 <a id="multimedia-&-av"></a>
@@ -167,6 +169,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Multi-track audio editing and recording<br>- Import/export multiple audio formats<br>- Rich effects and plugin support<br>- Spectrogram view and audio analysis<br>- Free and open source, cross-platform |
 | **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
+
+<a id="calibre"></a>
+## Calibre
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://calibre-ebook.com/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | The official source code repository for the calibre ebook manager |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/kovidgoyal/calibre) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/kovidgoyal/calibre?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - E-book management<br>- Format conversion<br>- Reader<br>- Library management |
+| **🏷 Tags** | #E-book #Windows #macOS #Linux #OpenSource #Free
 
 
 <a id="file-management-&-transfer"></a>
@@ -547,6 +565,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Screen capture and recording<br>- File upload to multiple destinations<br>- OCR text recognition<br>- GIF recording |
 | **🏷 Tags** | #Screenshot #Windows #OpenSource #Free
+
+<a id="flameshot"></a>
+## FlameShot
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://flameshot.org/) |
+| **🖥 Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Powerful yet simple to use screenshot software |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/flameshot-org/flameshot) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/flameshot-org/flameshot?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Customizable appearance<br>- In-app screenshot editing<br>- DBus interface<br>- Upload to Imgur |
+| **🏷 Tags** | #Screenshot #Linux #Windows #macOS #OpenSource #Free
 
 
 <a id="remote-&-communication"></a>
