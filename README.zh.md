@@ -222,6 +222,21 @@
 | **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
 | **🏷 分类** | #效率工具 #跨平台 #人工智能
 
+## RustDesk
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://rustdesk.com/static/img/logo.png" alt="RustDesk Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://rustdesk.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 自建服务器，无需第三方<br>- 端到端加密，确保隐私<br>- 无需配置，开箱即用<br>- 支持文件传输和聊天<br>- 跨平台兼容 |
+| **🏷 分类** | #远程桌面 #跨平台 #开源软件 #隐私 #自建服务器
+
 
 <a id="音视频处理"></a>
 ## 🎥 音视频处理

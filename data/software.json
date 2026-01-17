@@ -395,10 +395,51 @@
         "Plugin-based apps",
         "Extensive plugin ecosystem"
       ],
-      "logo": "./images/utool-logo.png"
-    },
-    {
-      "name": "OBS",
+       "logo": "./images/utool-logo.png"
+     },
+     {
+       "name": "RustDesk",
+       "description": "开源远程桌面软件，支持自建服务器，隐私保护",
+       "description_en": "Open source remote desktop software with self-hosted server, privacy-focused",
+       "website": "https://rustdesk.com/",
+       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+       "category": "效率工具",
+       "open_source": true,
+       "free": true,
+       "github": "rustdesk/rustdesk",
+       "stars": 106000,
+       "tags": [
+         "远程桌面",
+         "跨平台",
+         "开源软件",
+         "隐私",
+         "自建服务器"
+       ],
+       "tags_en": [
+         "Remote Desktop",
+         "Cross-platform",
+         "Open Source",
+         "Privacy",
+         "Self-hosted"
+       ],
+       "highlights": [
+         "自建服务器，无需第三方",
+         "端到端加密，确保隐私",
+         "无需配置，开箱即用",
+         "支持文件传输和聊天",
+         "跨平台兼容"
+       ],
+       "highlights_en": [
+         "Self-hosted server, no third-party dependency",
+         "End-to-end encryption for privacy",
+         "No configuration required, works out of the box",
+         "File transfer and chat support",
+         "Cross-platform compatibility"
+       ],
+       "logo": "https://rustdesk.com/static/img/logo.png"
+     },
+     {
+       "name": "OBS",
       "description": "免费开源的视频录制和直播软件",
       "description_en": "Free open source video recording and streaming software",
       "website": "https://obsproject.com/",
