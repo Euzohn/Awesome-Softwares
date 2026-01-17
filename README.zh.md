@@ -13,13 +13,16 @@
   - [说明](#说明)
     - [💰 是否免费](#-是否免费)
   - [软件列表](#软件列表)
-  - [🎥 多媒体](#多媒体)
-  - [📁 文件管理](#文件管理)
-  - [💻 开发工具](#开发工具)
-  - [⚡ 生产力](#生产力)
-  - [🎨 创意](#创意)
-  - [🌐 浏览器](#浏览器)
-  - [🎮 娱乐](#娱乐)
+  - [🎥 多媒体与音视频](#多媒体与音视频)
+  - [📁 文件管理与传输](#文件管理与传输)
+  - [🌐 网络工具与浏览器](#网络工具与浏览器)
+  - [⚙️ 系统工具与优化](#系统工具与优化)
+  - [💻 开发与编程](#开发与编程)
+  - [⚡ 办公与生产力](#办公与生产力)
+  - [📝 笔记、知识与写作管理](#笔记、知识与写作管理)
+  - [🎨 设计与图像处理](#设计与图像处理)
+  - [🖥️ 远程协作与通讯](#远程协作与通讯)
+  - [🎮 娱乐与趣味](#娱乐与趣味)
 
 ## 说明
 
@@ -65,8 +68,8 @@
 - [Utools](#utools)
 
 
-<a id="多媒体"></a>
-## 🎥 多媒体
+<a id="多媒体与音视频"></a>
+## 🎥 多媒体与音视频
 
 <a id="iina"></a>
 ## IINA
@@ -165,8 +168,8 @@
 | **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
 
 
-<a id="文件管理"></a>
-## 📁 文件管理
+<a id="文件管理与传输"></a>
+## 📁 文件管理与传输
 
 <a id="localsend"></a>
 ## LocalSend
@@ -249,8 +252,80 @@
 | **🏷 分类** | #文件管理 #Windows #开源软件 #免费软件
 
 
-<a id="开发工具"></a>
-## 💻 开发工具
+<a id="网络工具与浏览器"></a>
+## 🌐 网络工具与浏览器
+
+<a id="chrome"></a>
+## Chrome
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Chrome Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.google.com/chrome) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | Google 浏览器，专为您而打造 |
+| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub 源代码** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 随心定制，个性体验随时享<br>- 确保您能安全浏览网页<br>- 线上处理事务的快捷方式 |
+| **🏷 分类** | #浏览器 #跨平台 #免费软件
+
+
+<a id="系统工具与优化"></a>
+## ⚙️ 系统工具与优化
+
+<a id="ice"></a>
+## Ice
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://icemenubar.app/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | macOS 菜单栏管理工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/jordanbaird/Ice) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 在菜单栏下方显示隐藏的菜单栏项<br>- 拖放界面排列菜单栏项<br>- 自定义菜单栏外观<br>- 菜单栏项搜索<br>- 自定义菜单栏项间距 |
+| **🏷 分类** | #系统工具 #macOS
+
+<a id="stats"></a>
+## Stats
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://mac-stats.com/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 菜单栏中的 macOS 系统监视器 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/exelban/stats) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/exelban/stats?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - CPU 使用率<br>- GPU 使用率<br>- 内存使用<br>- 磁盘使用<br>- 网络使用<br>- 电池电量<br>- 传感器信息 |
+| **🏷 分类** | #系统工具 #macOS
+
+<a id="dynamiclake-pro"></a>
+## DynamicLake-Pro
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="DynamicLake-Pro Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.dynamiclake.com/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | macOS 刘海美化与功能增强工具 |
+| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub 源代码** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ 亮点** | - miniLake「迷你湖」，以紧凑形式展示关键信息<br>- 通过细节级改动，显著提升整体使用体验 |
+| **🏷 分类** | #设计工具 #macOS
+
+
+<a id="开发与编程"></a>
+## 💻 开发与编程
 
 <a id="sublime-text"></a>
 ## Sublime-Text
@@ -316,38 +391,6 @@
 | **✨ 亮点** | - 可读可写，支持实时预览<br>- 简单而功能强大<br>- 高可及性<br>- 支持自定义主题 |
 | **🏷 分类** | #Markdown #跨平台
 
-<a id="joplin"></a>
-## Joplin
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://joplinapp.org/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/laurent22/joplin) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 支持多媒体笔记、数学表达式和图表<br>- 跨平台同步，支持 E2EE 加密<br>- Web Clipper 扩展，保存网页为笔记<br>- 插件和主题自定义<br>- 终端应用可用<br>- 开源，确保数据所有权 |
-| **🏷 分类** | #Markdown #笔记 #跨平台 #开源软件 #同步 #隐私
-
-<a id="logseq"></a>
-## Logseq
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://logseq.com/) |
-| **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 隐私优先的开源知识库，支持 Markdown 和双向链接 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/logseq/logseq) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 本地优先，隐私保护<br>- 支持 Markdown 和双向链接<br>- 强大的查询和搜索功能<br>- 插件扩展和主题自定义<br>- 跨平台支持，包括 Web 版本<br>- 开源，确保数据所有权 |
-| **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
-
 <a id="marktext"></a>
 ## MarkText
 
@@ -365,8 +408,8 @@
 | **🏷 分类** | #Markdown #编辑器 #实时预览
 
 
-<a id="生产力"></a>
-## ⚡ 生产力
+<a id="办公与生产力"></a>
+## ⚡ 办公与生产力
 
 <a id="alfred"></a>
 ## Alfred
@@ -400,73 +443,45 @@
 | **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
 | **🏷 分类** | #效率工具 #跨平台 #人工智能
 
-<a id="rustdesk"></a>
-## RustDesk
+
+<a id="笔记、知识与写作管理"></a>
+## 📝 笔记、知识与写作管理
+
+<a id="joplin"></a>
+## Joplin
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://rustdesk.com/) |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://joplinapp.org/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |
+| **🛠 功能用途** | 开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦 |
 | **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/laurent22/joplin) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 自建服务器，无需第三方<br>- 端到端加密，确保隐私<br>- 无需配置，开箱即用<br>- 支持文件传输和聊天<br>- 跨平台兼容 |
-| **🏷 分类** | #远程桌面 #跨平台 #开源软件 #隐私 #自建服务器
+| **✨ 亮点** | - 支持多媒体笔记、数学表达式和图表<br>- 跨平台同步，支持 E2EE 加密<br>- Web Clipper 扩展，保存网页为笔记<br>- 插件和主题自定义<br>- 终端应用可用<br>- 开源，确保数据所有权 |
+| **🏷 分类** | #Markdown #笔记 #跨平台 #开源软件 #同步 #隐私
 
-<a id="ice"></a>
-## Ice
+<a id="logseq"></a>
+## Logseq
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://icemenubar.app/) |
-| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | macOS 菜单栏管理工具 |
+| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://logseq.com/) |
+| **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 隐私优先的开源知识库，支持 Markdown 和双向链接 |
 | **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/jordanbaird/Ice) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=social) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/logseq/logseq) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 在菜单栏下方显示隐藏的菜单栏项<br>- 拖放界面排列菜单栏项<br>- 自定义菜单栏外观<br>- 菜单栏项搜索<br>- 自定义菜单栏项间距 |
-| **🏷 分类** | #系统工具 #macOS
-
-<a id="stats"></a>
-## Stats
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://mac-stats.com/) |
-| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 菜单栏中的 macOS 系统监视器 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/exelban/stats) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/exelban/stats?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - CPU 使用率<br>- GPU 使用率<br>- 内存使用<br>- 磁盘使用<br>- 网络使用<br>- 电池电量<br>- 传感器信息 |
-| **🏷 分类** | #系统工具 #macOS
-
-<a id="dynamiclake-pro"></a>
-## DynamicLake-Pro
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="DynamicLake-Pro Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.dynamiclake.com/) |
-| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | macOS 刘海美化与功能增强工具 |
-| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub 源代码** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
-| **✨ 亮点** | - miniLake「迷你湖」，以紧凑形式展示关键信息<br>- 通过细节级改动，显著提升整体使用体验 |
-| **🏷 分类** | #设计工具 #macOS
+| **✨ 亮点** | - 本地优先，隐私保护<br>- 支持 Markdown 和双向链接<br>- 强大的查询和搜索功能<br>- 插件扩展和主题自定义<br>- 跨平台支持，包括 Web 版本<br>- 开源，确保数据所有权 |
+| **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
 
 
-<a id="创意"></a>
-## 🎨 创意
+<a id="设计与图像处理"></a>
+## 🎨 设计与图像处理
 
 <a id="imageoptim"></a>
 ## ImageOptim
@@ -517,28 +532,28 @@
 | **🏷 分类** | #截图工具 #macOS #开源软件 #免费软件
 
 
-<a id="浏览器"></a>
-## 🌐 浏览器
+<a id="远程协作与通讯"></a>
+## 🖥️ 远程协作与通讯
 
-<a id="chrome"></a>
-## Chrome
+<a id="rustdesk"></a>
+## RustDesk
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Chrome Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.google.com/chrome) |
+| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://rustdesk.com/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | Google 浏览器，专为您而打造 |
-| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub 源代码** | N/A |
-| **⭐ GitHub Stars** | N/A |
+| **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 随心定制，个性体验随时享<br>- 确保您能安全浏览网页<br>- 线上处理事务的快捷方式 |
-| **🏷 分类** | #浏览器 #跨平台 #免费软件
+| **✨ 亮点** | - 自建服务器，无需第三方<br>- 端到端加密，确保隐私<br>- 无需配置，开箱即用<br>- 支持文件传输和聊天<br>- 跨平台兼容 |
+| **🏷 分类** | #远程桌面 #跨平台 #开源软件 #隐私 #自建服务器
 
 
-<a id="娱乐"></a>
-## 🎮 娱乐
+<a id="娱乐与趣味"></a>
+## 🎮 娱乐与趣味
 
 <a id="bongocat"></a>
 ## BongoCat

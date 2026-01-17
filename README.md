@@ -13,13 +13,16 @@
   - [Overview](#overview)
     - [💰 Cost](#-cost)
   - [Software List](#software-list)
-  - [🎥 Multimedia](#multimedia)
-  - [📁 File Management](#file-management)
-  - [💻 Development](#development)
-  - [⚡ Productivity](#productivity)
-  - [🎨 Creative](#creative)
-  - [🌐 Browsers](#browsers)
-  - [🎮 Fun](#fun)
+  - [🎥 Multimedia & AV](#multimedia-&-av)
+  - [📁 File Management & Transfer](#file-management-&-transfer)
+  - [🌐 Internet & Browsers](#internet-&-browsers)
+  - [⚙️ System Utilities & Optimization](#system-utilities-&-optimization)
+  - [💻 Development & Programming](#development-&-programming)
+  - [⚡ Productivity & Office](#productivity-&-office)
+  - [📝 Notes & Knowledge](#notes-&-knowledge)
+  - [🎨 Design & Image Editing](#design-&-image-editing)
+  - [🖥️ Remote & Communication](#remote-&-communication)
+  - [🎮 Fun & Entertainment](#fun-&-entertainment)
 
 ## Overview
 
@@ -65,8 +68,8 @@
 - [Utools](#utools)
 
 
-<a id="multimedia"></a>
-## 🎥 Multimedia
+<a id="multimedia-&-av"></a>
+## 🎥 Multimedia & AV
 
 <a id="iina"></a>
 ## IINA
@@ -165,8 +168,8 @@
 | **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
 
 
-<a id="file-management"></a>
-## 📁 File Management
+<a id="file-management-&-transfer"></a>
+## 📁 File Management & Transfer
 
 <a id="localsend"></a>
 ## LocalSend
@@ -249,8 +252,80 @@
 | **🏷 Tags** | #File Management #Windows #Open Source #Freeware
 
 
-<a id="development"></a>
-## 💻 Development
+<a id="internet-&-browsers"></a>
+## 🌐 Internet & Browsers
+
+<a id="chrome"></a>
+## Chrome
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Chrome Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.google.com/chrome) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Google Chrome - The browser built for you |
+| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub Repository** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Customize for a personalized experience<br>- Safe and secure web browsing<br>- Fast way to get things done online |
+| **🏷 Tags** | #Browser #Cross-platform #Freeware
+
+
+<a id="system-utilities-&-optimization"></a>
+## ⚙️ System Utilities & Optimization
+
+<a id="ice"></a>
+## Ice
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://icemenubar.app/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | macOS menu bar management tool |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/jordanbaird/Ice) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Show hidden menu bar items below the bar<br>- Drag-and-drop menu bar arrangement<br>- Customizable menu bar appearance<br>- Menu bar item search<br>- Customizable menu bar item spacing |
+| **🏷 Tags** | #System Tools #macOS
+
+<a id="stats"></a>
+## Stats
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://mac-stats.com/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | macOS system monitor in menu bar |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/exelban/stats) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/exelban/stats?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - CPU usage<br>- GPU usage<br>- Memory usage<br>- Disk usage<br>- Network usage<br>- Battery level<br>- Sensor information |
+| **🏷 Tags** | #System Tools #macOS
+
+<a id="dynamiclake-pro"></a>
+## DynamicLake-Pro
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="DynamicLake-Pro Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.dynamiclake.com/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | macOS notch beautification and enhancement tool |
+| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub Repository** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ Highlights** | - miniLake - compact key information display<br>- Significant UX improvement through detailed changes |
+| **🏷 Tags** | #Design Tools #macOS
+
+
+<a id="development-&-programming"></a>
+## 💻 Development & Programming
 
 <a id="sublime-text"></a>
 ## Sublime-Text
@@ -316,38 +391,6 @@
 | **✨ Highlights** | - Read and write with live preview<br>- Simple yet powerful<br>- Highly accessible<br>- Custom theme support |
 | **🏷 Tags** | #Markdown #Cross-platform
 
-<a id="joplin"></a>
-## Joplin
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://joplinapp.org/) |
-| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Open source note-taking app with Markdown support, cross-platform sync, privacy-focused |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/laurent22/joplin) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
-| **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
-
-<a id="logseq"></a>
-## Logseq
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://logseq.com/) |
-| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/logseq/logseq) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Local-first, privacy-focused<br>- Markdown and bi-directional linking support<br>- Powerful query and search capabilities<br>- Plugin extensibility and custom themes<br>- Cross-platform including web version<br>- Open source, ensuring data ownership |
-| **🏷 Tags** | #Markdown #Knowledge Management #Note-taking #Open Source #Privacy #Bi-directional Links
-
 <a id="marktext"></a>
 ## MarkText
 
@@ -365,8 +408,8 @@
 | **🏷 Tags** | #Markdown #Editor #Real-time Preview
 
 
-<a id="productivity"></a>
-## ⚡ Productivity
+<a id="productivity-&-office"></a>
+## ⚡ Productivity & Office
 
 <a id="alfred"></a>
 ## Alfred
@@ -400,73 +443,45 @@
 | **✨ Highlights** | - Universal search bar<br>- Powerful right-click menu<br>- Plugin-based apps<br>- Extensive plugin ecosystem |
 | **🏷 Tags** | #Productivity #Cross-platform #AI
 
-<a id="rustdesk"></a>
-## RustDesk
+
+<a id="notes-&-knowledge"></a>
+## 📝 Notes & Knowledge
+
+<a id="joplin"></a>
+## Joplin
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://rustdesk.com/) |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://joplinapp.org/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Open source remote desktop software with self-hosted server, privacy-focused |
+| **🛠 Description** | Open source note-taking app with Markdown support, cross-platform sync, privacy-focused |
 | **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/laurent22/joplin) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Self-hosted server, no third-party dependency<br>- End-to-end encryption for privacy<br>- No configuration required, works out of box<br>- File transfer and chat support<br>- Cross-platform compatibility |
-| **🏷 Tags** | #Remote Desktop #Cross-platform #Open Source #Privacy #Self-hosted
+| **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
+| **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
 
-<a id="ice"></a>
-## Ice
+<a id="logseq"></a>
+## Logseq
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://icemenubar.app/) |
-| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | macOS menu bar management tool |
+| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://logseq.com/) |
+| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
 | **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/jordanbaird/Ice) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=social) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/logseq/logseq) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social) |
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Show hidden menu bar items below the bar<br>- Drag-and-drop menu bar arrangement<br>- Customizable menu bar appearance<br>- Menu bar item search<br>- Customizable menu bar item spacing |
-| **🏷 Tags** | #System Tools #macOS
-
-<a id="stats"></a>
-## Stats
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://mac-stats.com/) |
-| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | macOS system monitor in menu bar |
-| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub Repository** | [GitHub Link](https://github.com/exelban/stats) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/exelban/stats?style=social) |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - CPU usage<br>- GPU usage<br>- Memory usage<br>- Disk usage<br>- Network usage<br>- Battery level<br>- Sensor information |
-| **🏷 Tags** | #System Tools #macOS
-
-<a id="dynamiclake-pro"></a>
-## DynamicLake-Pro
-
-| Item | Details |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/DynamicLakePro-ico.png" alt="DynamicLake-Pro Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://www.dynamiclake.com/) |
-| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | macOS notch beautification and enhancement tool |
-| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub Repository** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
-| **✨ Highlights** | - miniLake - compact key information display<br>- Significant UX improvement through detailed changes |
-| **🏷 Tags** | #Design Tools #macOS
+| **✨ Highlights** | - Local-first, privacy-focused<br>- Markdown and bi-directional linking support<br>- Powerful query and search capabilities<br>- Plugin extensibility and custom themes<br>- Cross-platform including web version<br>- Open source, ensuring data ownership |
+| **🏷 Tags** | #Markdown #Knowledge Management #Note-taking #Open Source #Privacy #Bi-directional Links
 
 
-<a id="creative"></a>
-## 🎨 Creative
+<a id="design-&-image-editing"></a>
+## 🎨 Design & Image Editing
 
 <a id="imageoptim"></a>
 ## ImageOptim
@@ -517,28 +532,28 @@
 | **🏷 Tags** | #Screenshot Tool #macOS #Open Source #Freeware
 
 
-<a id="browsers"></a>
-## 🌐 Browsers
+<a id="remote-&-communication"></a>
+## 🖥️ Remote & Communication
 
-<a id="chrome"></a>
-## Chrome
+<a id="rustdesk"></a>
+## RustDesk
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/chrome-logo-m100.svg" alt="Chrome Logo" width="120"/> |
-| **🌐 Website** | [Visit](https://www.google.com/chrome) |
+| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://rustdesk.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
-| **🛠 Description** | Google Chrome - The browser built for you |
-| **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub Repository** | N/A |
-| **⭐ GitHub Stars** | N/A |
+| **🛠 Description** | Open source remote desktop software with self-hosted server, privacy-focused |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/rustdesk/rustdesk) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social) |
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ Highlights** | - Customize for a personalized experience<br>- Safe and secure web browsing<br>- Fast way to get things done online |
-| **🏷 Tags** | #Browser #Cross-platform #Freeware
+| **✨ Highlights** | - Self-hosted server, no third-party dependency<br>- End-to-end encryption for privacy<br>- No configuration required, works out of box<br>- File transfer and chat support<br>- Cross-platform compatibility |
+| **🏷 Tags** | #Remote Desktop #Cross-platform #Open Source #Privacy #Self-hosted
 
 
-<a id="fun"></a>
-## 🎮 Fun
+<a id="fun-&-entertainment"></a>
+## 🎮 Fun & Entertainment
 
 <a id="bongocat"></a>
 ## BongoCat

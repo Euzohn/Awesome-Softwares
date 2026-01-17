@@ -26,7 +26,7 @@ This document outlines the process for adding new software to the Awesome Softwa
    - Category assignment (`category`: match from PROJECT_INFO.md categories)
    - Logo path (`logo`: relative path in `images/`)
 
-3. **Data Update**: Add the collected information to `data/software.json` following the existing JSON structure. Ensure proper categorization and all required fields are populated.
+3. **Data Update**: Add the collected information to `data/software.json` following the existing JSON structure. Ensure proper categorization and all required fields are populated. **Important: Only add new entries; do not modify or delete existing software entries to avoid data loss.**
 
 4. **Generate READMEs**: Execute `python scripts/generate_readme.py` to automatically regenerate `README.md` and `README.zh.md` from the updated data.
 
@@ -46,5 +46,6 @@ This document outlines the process for adding new software to the Awesome Softwa
 - Ensure all fields are populated in both English and Chinese where applicable
 - Use consistent formatting matching existing entries
 - Follow naming conventions for anchors and file paths
+- **Critical: When adding software, only append new entries to the software list. Never modify or remove existing software entries to prevent accidental data loss.**
 - Update GitHub stars periodically using `scripts/update_stars.py`
 - Commit changes and push to trigger GitHub Actions for automated README updates

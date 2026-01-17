@@ -8,7 +8,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "多媒体",
+      "category": "多媒体与音视频",
       "open_source": true,
       "free": true,
       "github": "iina/iina",
@@ -45,7 +45,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "多媒体",
+      "category": "多媒体与音视频",
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
@@ -86,7 +86,7 @@
        "description_en": "A free, open-source, cross-platform command-line media player. Supports most common media formats and subtitles, offers advanced video output and powerful scripting extensibility.",
        "website": "https://mpv.io/",
        "platforms": ["Windows", "macOS", "Linux"],
-       "category": "多媒体",
+       "category": "多媒体与音视频",
        "open_source": true,
        "free": true,
        "github": "mpv-player/mpv",
@@ -137,7 +137,7 @@
         "Android",
         "iOS"
       ],
-      "category": "文件管理",
+      "category": "文件管理与传输",
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
@@ -174,7 +174,7 @@
        "description_en": "Open source download manager supporting HTTP, BT, magnet links and more protocols",
        "website": "https://motrix.app/",
        "platforms": ["Windows", "macOS", "Linux"],
-       "category": "文件管理",
+       "category": "文件管理与传输",
        "open_source": true,
        "free": true,
        "github": "agalwood/Motrix",
@@ -218,7 +218,7 @@
         "macOS",
         "iOS"
       ],
-      "category": "文件管理",
+      "category": "文件管理与传输",
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
@@ -255,7 +255,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "文件管理",
+      "category": "文件管理与传输",
       "open_source": false,
       "free": true,
       "tags": [
@@ -290,7 +290,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "开发工具",
+      "category": "开发与编程",
       "open_source": false,
       "free": false,
       "price": "$99",
@@ -330,7 +330,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "开发工具",
+      "category": "开发与编程",
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
@@ -373,7 +373,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "生产力",
+      "category": "办公与生产力",
       "open_source": false,
       "free": false,
       "price": "£32",
@@ -411,7 +411,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "生产力",
+      "category": "办公与生产力",
       "open_source": false,
       "free": true,
       "tags": [
@@ -439,12 +439,12 @@
        "logo": "./images/utool-logo.png"
      },
      {
-       "name": "RustDesk",
-       "description": "开源远程桌面软件，支持自建服务器，隐私保护",
-       "description_en": "Open source remote desktop software with self-hosted server, privacy-focused",
-       "website": "https://rustdesk.com/",
-       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
-       "category": "生产力",
+        "name": "RustDesk",
+        "description": "开源远程桌面软件，支持自建服务器，隐私保护",
+        "description_en": "Open source remote desktop software with self-hosted server, privacy-focused",
+        "website": "https://rustdesk.com/",
+        "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+        "category": "远程协作与通讯",
        "open_source": true,
        "free": true,
        "github": "rustdesk/rustdesk",
@@ -489,7 +489,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "多媒体",
+      "category": "多媒体与音视频",
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
@@ -530,7 +530,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "多媒体",
+      "category": "多媒体与音视频",
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
@@ -565,7 +565,7 @@
        "description_en": "Free, open source, cross-platform audio editor for recording and editing",
        "website": "https://www.audacityteam.org/",
        "platforms": ["Windows", "macOS", "Linux"],
-       "category": "多媒体",
+       "category": "多媒体与音视频",
        "open_source": true,
        "free": true,
        "github": "audacity/audacity",
@@ -610,7 +610,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "开发工具",
+      "category": "开发与编程",
       "open_source": false,
       "free": true,
       "tags": [
@@ -651,7 +651,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "开发工具",
+      "category": "开发与编程",
       "open_source": false,
       "free": false,
       "price": "$14.99",
@@ -678,12 +678,12 @@
        "logo": "./images/typora_icon_256x256.png"
      },
      {
-       "name": "Joplin",
-       "description": "开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦",
-       "description_en": "Open source note-taking app with Markdown support, cross-platform sync, privacy-focused",
-       "website": "https://joplinapp.org/",
-       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
-       "category": "开发工具",
+      "name": "Joplin",
+      "description": "开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦",
+      "description_en": "Open source note-taking app with Markdown support, cross-platform sync, privacy-focused",
+      "website": "https://joplinapp.org/",
+      "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+      "category": "笔记、知识与写作管理",
        "open_source": true,
        "free": true,
        "github": "laurent22/joplin",
@@ -723,12 +723,12 @@
        "logo": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png"
      },
      {
-       "name": "Logseq",
-       "description": "隐私优先的开源知识库，支持 Markdown 和双向链接",
-       "description_en": "Privacy-first, open-source knowledge base with Markdown and bi-directional links",
-       "website": "https://logseq.com/",
-       "platforms": ["Web", "Windows", "macOS", "Linux", "Android", "iOS"],
-       "category": "开发工具",
+      "name": "Logseq",
+      "description": "隐私优先的开源知识库，支持 Markdown 和双向链接",
+      "description_en": "Privacy-first, open-source knowledge base with Markdown and bi-directional links",
+      "website": "https://logseq.com/",
+      "platforms": ["Web", "Windows", "macOS", "Linux", "Android", "iOS"],
+      "category": "笔记、知识与写作管理",
        "open_source": true,
        "free": true,
        "github": "logseq/logseq",
@@ -773,7 +773,7 @@
        "description_en": "Simple and elegant open-source Markdown editor with real-time preview",
        "website": "https://www.marktext.me/",
        "platforms": ["Windows", "macOS", "Linux"],
-       "category": "开发工具",
+       "category": "开发与编程",
        "open_source": true,
        "free": true,
        "github": "marktext/marktext",
@@ -807,14 +807,14 @@
        "logo": "https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png"
      },
      {
-      "name": "Ice",
-      "description": "macOS 菜单栏管理工具",
-      "description_en": "macOS menu bar management tool",
-      "website": "https://icemenubar.app/",
-      "platforms": [
+       "name": "Ice",
+       "description": "macOS 菜单栏管理工具",
+       "description_en": "macOS menu bar management tool",
+       "website": "https://icemenubar.app/",
+       "platforms": [
         "macOS"
-      ],
-      "category": "生产力",
+       ],
+       "category": "系统工具与优化",
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
@@ -851,7 +851,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "生产力",
+      "category": "系统工具与优化",
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
@@ -892,7 +892,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "生产力",
+      "category": "系统工具与优化",
       "open_source": false,
       "free": false,
       "price": "$9.99",
@@ -922,7 +922,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "创意",
+      "category": "设计与图像处理",
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
@@ -957,7 +957,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "创意",
+      "category": "设计与图像处理",
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
@@ -1010,7 +1010,7 @@
         "Android",
         "iOS"
       ],
-      "category": "浏览器",
+      "category": "网络工具与浏览器",
       "open_source": false,
       "free": true,
       "tags": [
@@ -1045,7 +1045,7 @@
         "macOS",
         "Linux"
       ],
-      "category": "娱乐",
+      "category": "娱乐与趣味",
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
@@ -1082,7 +1082,7 @@
       "platforms": [
         "Windows"
       ],
-      "category": "娱乐",
+      "category": "娱乐与趣味",
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
@@ -1113,7 +1113,7 @@
       "platforms": [
         "Windows"
       ],
-      "category": "文件管理",
+      "category": "文件管理与传输",
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
@@ -1156,7 +1156,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "创意",
+      "category": "设计与图像处理",
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
@@ -1195,54 +1195,75 @@
     }
   ],
    "categories": [
-     {
-       "id": "多媒体",
-       "icon": "🎥",
-       "description": "视频、音频播放和处理软件",
-       "id_en": "Multimedia",
-       "description_en": "Video and audio players and processing tools"
-     },
-     {
-       "id": "文件管理",
-       "icon": "📁",
-       "description": "文件传输、压缩和管理工具",
-       "id_en": "File Management",
-       "description_en": "File transfer, compression, and management tools"
-     },
-     {
-       "id": "开发工具",
-       "icon": "💻",
-       "description": "程序员和数据处理必备工具",
-       "id_en": "Development",
-       "description_en": "Essential developer and data processing tools"
-     },
-     {
-       "id": "生产力",
-       "icon": "⚡",
-       "description": "提升工作效率的工具",
-       "id_en": "Productivity",
-       "description_en": "Productivity enhancement tools"
-     },
-     {
-       "id": "创意",
-       "icon": "🎨",
-       "description": "图像、截图和设计工具",
-       "id_en": "Creative",
-       "description_en": "Image, screenshot, and design tools"
-     },
-     {
-       "id": "浏览器",
-       "icon": "🌐",
-       "description": "网页浏览器",
-       "id_en": "Browsers",
-       "description_en": "Web browsers"
-     },
-     {
-       "id": "娱乐",
-       "icon": "🎮",
-       "description": "桌面宠物和娱乐工具",
-       "id_en": "Fun",
-       "description_en": "Desktop pets and entertainment tools"
-     }
-   ]
+      {
+        "id": "多媒体与音视频",
+        "icon": "🎥",
+        "description": "视频、音频播放和处理软件",
+        "id_en": "Multimedia & AV",
+        "description_en": "Video and audio players and processing tools"
+      },
+      {
+        "id": "文件管理与传输",
+        "icon": "📁",
+        "description": "文件传输、压缩和管理工具",
+        "id_en": "File Management & Transfer",
+        "description_en": "File transfer, compression, and management tools"
+      },
+      {
+        "id": "网络工具与浏览器",
+        "icon": "🌐",
+        "description": "浏览器、下载器、FTP/SFTP/网络传输、RSS、网络协作等",
+        "id_en": "Internet & Browsers",
+        "description_en": "Browsers, downloaders, FTP/SFTP, network tools, RSS, collaboration"
+      },
+      {
+        "id": "系统工具与优化",
+        "icon": "⚙️",
+        "description": "系统监控、剪贴板、输入法、菜单栏工具、系统美化、资源管理等",
+        "id_en": "System Utilities & Optimization",
+        "description_en": "System monitoring, clipboard, input methods, menu bar tools, beautification, resource management"
+      },
+      {
+        "id": "开发与编程",
+        "icon": "💻",
+        "description": "编辑器、终端、IDE、数据库管理、接口调试、开发辅助等",
+        "id_en": "Development & Programming",
+        "description_en": "Editors, terminals, IDEs, database management, API debugging, development aids"
+      },
+      {
+        "id": "办公与生产力",
+        "icon": "⚡",
+        "description": "办公套件、启动器、桌面搜索、效率提升、自动化、日历、待办、流程图、PDF、截图工具等",
+        "id_en": "Productivity & Office",
+        "description_en": "Office suites, launchers, desktop search, efficiency tools, automation, calendars, todos, diagrams, PDF, screenshot tools"
+      },
+      {
+        "id": "笔记、知识与写作管理",
+        "icon": "📝",
+        "description": "笔记、知识库、个人 Wiki、大纲、写作、Markdown笔记等",
+        "id_en": "Notes & Knowledge",
+        "description_en": "Notes, knowledge bases, personal Wikis, outlines, writing, Markdown notes"
+      },
+      {
+        "id": "设计与图像处理",
+        "icon": "🎨",
+        "description": "图像处理、原型设计、矢量/位图编辑、图标、UI设计等",
+        "id_en": "Design & Image Editing",
+        "description_en": "Image processing, prototyping, vector/bitmap editing, icons, UI design"
+      },
+      {
+        "id": "远程协作与通讯",
+        "icon": "🖥️",
+        "description": "远程桌面、协作、终端控制、会议、团队通讯等",
+        "id_en": "Remote & Communication",
+        "description_en": "Remote desktop, collaboration, terminal control, meetings, team communication"
+      },
+      {
+        "id": "娱乐与趣味",
+        "icon": "🎮",
+        "description": "桌宠、小游戏、趣味工具、虚拟宠物等",
+        "id_en": "Fun & Entertainment",
+        "description_en": "Desktop pets, mini-games, fun tools, virtual pets"
+      }
+    ]
 }
