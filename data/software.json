@@ -552,9 +552,54 @@
         "Highly accessible",
         "Custom theme support"
       ],
-      "logo": "./images/typora_icon_256x256.png"
-    },
-    {
+       "logo": "./images/typora_icon_256x256.png"
+     },
+     {
+       "name": "Joplin",
+       "description": "开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦",
+       "description_en": "Open source note-taking app with Markdown support, cross-platform sync, privacy-focused",
+       "website": "https://joplinapp.org/",
+       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+       "category": "Markdown",
+       "open_source": true,
+       "free": true,
+       "github": "laurent22/joplin",
+       "stars": 53000,
+       "tags": [
+         "Markdown",
+         "笔记",
+         "跨平台",
+         "开源软件",
+         "同步",
+         "隐私"
+       ],
+       "tags_en": [
+         "Markdown",
+         "Note-taking",
+         "Cross-platform",
+         "Open Source",
+         "Sync",
+         "Privacy"
+       ],
+       "highlights": [
+         "支持多媒体笔记、数学表达式和图表",
+         "跨平台同步，支持 E2EE 加密",
+         "Web Clipper 扩展，保存网页为笔记",
+         "插件和主题自定义",
+         "终端应用可用",
+         "开源，确保数据所有权"
+       ],
+       "highlights_en": [
+         "Multimedia notes, math expressions, and diagrams",
+         "Cross-platform sync with E2EE encryption",
+         "Web clipper extension for saving web pages",
+         "Customizable with plugins and themes",
+         "Terminal app available",
+         "Open source, ensuring data ownership"
+       ],
+       "logo": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png"
+     },
+     {
       "name": "Ice",
       "description": "macOS 菜单栏管理工具",
       "description_en": "macOS menu bar management tool",

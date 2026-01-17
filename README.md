@@ -294,6 +294,21 @@
 | **✨ Highlights** | - Read and write with live preview<br>- Simple yet powerful<br>- Highly accessible<br>- Custom theme support |
 | **🏷 Tags** | #Markdown #Cross-platform
 
+## Joplin
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://joplinapp.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Open source note-taking app with Markdown support, cross-platform sync, privacy-focused |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/laurent22/joplin) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Multimedia notes, math expressions, and diagrams<br>- Cross-platform sync with E2EE encryption<br>- Web clipper extension for saving web pages<br>- Customizable with plugins and themes<br>- Terminal app available<br>- Open source, ensuring data ownership |
+| **🏷 Tags** | #Markdown #Note-taking #Cross-platform #Open Source #Sync #Privacy
+
 
 <a id="system-tools"></a>
 ## ⚙️ System Tools

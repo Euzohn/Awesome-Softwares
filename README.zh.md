@@ -294,6 +294,21 @@
 | **✨ 亮点** | - 可读可写，支持实时预览<br>- 简单而功能强大<br>- 高可及性<br>- 支持自定义主题 |
 | **🏷 分类** | #Markdown #跨平台
 
+## Joplin
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" alt="Joplin Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://joplinapp.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/laurent22/joplin) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多媒体笔记、数学表达式和图表<br>- 跨平台同步，支持 E2EE 加密<br>- Web Clipper 扩展，保存网页为笔记<br>- 插件和主题自定义<br>- 终端应用可用<br>- 开源，确保数据所有权 |
+| **🏷 分类** | #Markdown #笔记 #跨平台 #开源软件 #同步 #隐私
+
 
 <a id="系统工具"></a>
 ## ⚙️ 系统工具
