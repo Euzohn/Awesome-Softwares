@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 32000,
+      "stars": 43396,
       "tags": [
         "播放器",
         "macOS",
@@ -49,7 +49,7 @@
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
-      "stars": 12000,
+      "stars": 10473,
       "tags": [
         "播放器",
         "跨平台",
@@ -78,55 +78,59 @@
         "Offline viewing",
         "Subtitle and multilingual support"
       ],
-     "logo": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
-     },
-     {
-       "name": "mpv",
-       "description": "自由、开源、跨平台的高性能命令行媒体播放器，支持几乎所有常见媒体格式和字幕类型，拥有高级视频输出与强大脚本扩展。",
-       "description_en": "A free, open-source, cross-platform command-line media player. Supports most common media formats and subtitles, offers advanced video output and powerful scripting extensibility.",
-       "website": "https://mpv.io/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "多媒体与音视频",
-       "open_source": true,
-       "free": true,
-       "github": "mpv-player/mpv",
-       "stars": 33600,
-       "tags": [
-         "播放器",
-         "跨平台",
-         "开源软件",
-         "命令行",
-         "高级视频输出",
-         "硬件解码"
-       ],
-       "tags_en": [
-         "Player",
-         "Cross-platform",
-         "Open Source",
-         "Command-line",
-         "Advanced Video Output",
-         "Hardware Decoding"
-       ],
-       "highlights": [
-         "免费开源，内核纯净、性能极致",
-         "几乎支持全部主流视频、音频与字幕格式",
-         "高级 OpenGL/Vulkan/D3D11 视频渲染，支持色彩管理/HDR/插帧/高质量缩放等",
-         "支持硬件解码、极低延迟、极佳画面",
-         "超强脚本能力和 C API 可嵌入其它应用",
-         "小巧精悍，跨三大桌面平台"
-       ],
-       "highlights_en": [
-         "Free and open source, lightweight and performant",
-         "Supports virtually all common video, audio, and subtitle formats",
-         "High quality OpenGL/Vulkan/D3D11 video rendering (color management, HDR, frame interpolation, scaling)",
-         "Hardware decoding support, low latency, excellent picture quality",
-         "Powerful scripting and embeddable C API",
-         "Tiny and cross-platform (Windows, macOS, Linux)"
-       ],
-       "logo": "https://mpv.io/images/mpv-logo-128-0baae5aa.png"
-     },
-     {
-       "name": "LocalSend",
+      "logo": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
+    },
+    {
+      "name": "mpv",
+      "description": "自由、开源、跨平台的高性能命令行媒体播放器，支持几乎所有常见媒体格式和字幕类型，拥有高级视频输出与强大脚本扩展。",
+      "description_en": "A free, open-source, cross-platform command-line media player. Supports most common media formats and subtitles, offers advanced video output and powerful scripting extensibility.",
+      "website": "https://mpv.io/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "github": "mpv-player/mpv",
+      "stars": 33632,
+      "tags": [
+        "播放器",
+        "跨平台",
+        "开源软件",
+        "命令行",
+        "高级视频输出",
+        "硬件解码"
+      ],
+      "tags_en": [
+        "Player",
+        "Cross-platform",
+        "Open Source",
+        "Command-line",
+        "Advanced Video Output",
+        "Hardware Decoding"
+      ],
+      "highlights": [
+        "免费开源，内核纯净、性能极致",
+        "几乎支持全部主流视频、音频与字幕格式",
+        "高级 OpenGL/Vulkan/D3D11 视频渲染，支持色彩管理/HDR/插帧/高质量缩放等",
+        "支持硬件解码、极低延迟、极佳画面",
+        "超强脚本能力和 C API 可嵌入其它应用",
+        "小巧精悍，跨三大桌面平台"
+      ],
+      "highlights_en": [
+        "Free and open source, lightweight and performant",
+        "Supports virtually all common video, audio, and subtitle formats",
+        "High quality OpenGL/Vulkan/D3D11 video rendering (color management, HDR, frame interpolation, scaling)",
+        "Hardware decoding support, low latency, excellent picture quality",
+        "Powerful scripting and embeddable C API",
+        "Tiny and cross-platform (Windows, macOS, Linux)"
+      ],
+      "logo": "https://mpv.io/images/mpv-logo-128-0baae5aa.png"
+    },
+    {
+      "name": "LocalSend",
       "description": "局域网内快速分享文件的跨平台工具",
       "description_en": "Cross-platform tool for quick file sharing within local network",
       "website": "https://localsend.org/",
@@ -141,7 +145,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 45000,
+      "stars": 73411,
       "tags": [
         "文件传输",
         "跨平台",
@@ -166,51 +170,55 @@
         "Free and open source, privacy-friendly",
         "Local network transfer, no external servers"
       ],
-       "logo": "./images/localsend-logo-512.png"
-     },
-     {
-       "name": "Motrix",
-       "description": "开源下载管理器，支持 HTTP、BT、磁力链接等多协议下载",
-       "description_en": "Open source download manager supporting HTTP, BT, magnet links and more protocols",
-       "website": "https://motrix.app/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "文件管理与传输",
-       "open_source": true,
-       "free": true,
-       "github": "agalwood/Motrix",
-       "stars": 45000,
-       "tags": [
-         "下载管理器",
-         "BT",
-         "磁力链接",
-         "跨平台",
-         "开源软件"
-       ],
-       "tags_en": [
-         "Download Manager",
-         "BT",
-         "Magnet Links",
-         "Cross-platform",
-         "Open Source"
-       ],
-       "highlights": [
-         "支持多协议下载：HTTP、HTTPS、FTP、BT、磁力链接",
-         "多线程下载，提升速度",
-         "界面友好，支持拖拽和批量下载",
-         "开源免费，无广告",
-         "跨平台兼容"
-       ],
-       "highlights_en": [
-         "Multi-protocol support: HTTP, HTTPS, FTP, BT, magnet links",
-         "Multi-threaded downloads for speed",
-         "User-friendly interface with drag-and-drop and batch downloads",
-         "Open source and ad-free",
-         "Cross-platform compatibility"
-       ],
-       "logo": "https://github.com/agalwood/Motrix/raw/master/static/512x512.png"
-     },
-     {
-       "name": "Keka",
+      "logo": "./images/localsend-logo-512.png"
+    },
+    {
+      "name": "Motrix",
+      "description": "开源下载管理器，支持 HTTP、BT、磁力链接等多协议下载",
+      "description_en": "Open source download manager supporting HTTP, BT, magnet links and more protocols",
+      "website": "https://motrix.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "文件管理与传输",
+      "open_source": true,
+      "free": true,
+      "github": "agalwood/Motrix",
+      "stars": 50540,
+      "tags": [
+        "下载管理器",
+        "BT",
+        "磁力链接",
+        "跨平台",
+        "开源软件"
+      ],
+      "tags_en": [
+        "Download Manager",
+        "BT",
+        "Magnet Links",
+        "Cross-platform",
+        "Open Source"
+      ],
+      "highlights": [
+        "支持多协议下载：HTTP、HTTPS、FTP、BT、磁力链接",
+        "多线程下载，提升速度",
+        "界面友好，支持拖拽和批量下载",
+        "开源免费，无广告",
+        "跨平台兼容"
+      ],
+      "highlights_en": [
+        "Multi-protocol support: HTTP, HTTPS, FTP, BT, magnet links",
+        "Multi-threaded downloads for speed",
+        "User-friendly interface with drag-and-drop and batch downloads",
+        "Open source and ad-free",
+        "Cross-platform compatibility"
+      ],
+      "logo": "https://github.com/agalwood/Motrix/raw/master/static/512x512.png"
+    },
+    {
+      "name": "Keka",
       "description": "文件压缩与解压缩工具",
       "description_en": "File compression and decompression tool",
       "website": "https://www.keka.io/",
@@ -222,7 +230,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 8000,
+      "stars": 6283,
       "tags": [
         "文件管理",
         "压缩",
@@ -334,7 +342,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 15000,
+      "stars": 16807,
       "tags": [
         "开发工具",
         "终端",
@@ -436,51 +444,57 @@
         "Plugin-based apps",
         "Extensive plugin ecosystem"
       ],
-       "logo": "./images/utool-logo.png"
-     },
-     {
-        "name": "RustDesk",
-        "description": "开源远程桌面软件，支持自建服务器，隐私保护",
-        "description_en": "Open source remote desktop software with self-hosted server, privacy-focused",
-        "website": "https://rustdesk.com/",
-        "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
-        "category": "远程协作与通讯",
-       "open_source": true,
-       "free": true,
-       "github": "rustdesk/rustdesk",
-       "stars": 106000,
-       "tags": [
-         "远程桌面",
-         "跨平台",
-         "开源软件",
-         "隐私",
-         "自建服务器"
-       ],
-       "tags_en": [
-         "Remote Desktop",
-         "Cross-platform",
-         "Open Source",
-         "Privacy",
-         "Self-hosted"
-       ],
-       "highlights": [
-         "自建服务器，无需第三方",
-         "端到端加密，确保隐私",
-         "无需配置，开箱即用",
-         "支持文件传输和聊天",
-         "跨平台兼容"
-       ],
-       "highlights_en": [
-         "Self-hosted server, no third-party dependency",
-         "End-to-end encryption for privacy",
-         "No configuration required, works out of box",
-         "File transfer and chat support",
-         "Cross-platform compatibility"
-       ],
-       "logo": "https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg"
-     },
-     {
-       "name": "OBS",
+      "logo": "./images/utool-logo.png"
+    },
+    {
+      "name": "RustDesk",
+      "description": "开源远程桌面软件，支持自建服务器，隐私保护",
+      "description_en": "Open source remote desktop software with self-hosted server, privacy-focused",
+      "website": "https://rustdesk.com/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "category": "远程协作与通讯",
+      "open_source": true,
+      "free": true,
+      "github": "rustdesk/rustdesk",
+      "stars": 105877,
+      "tags": [
+        "远程桌面",
+        "跨平台",
+        "开源软件",
+        "隐私",
+        "自建服务器"
+      ],
+      "tags_en": [
+        "Remote Desktop",
+        "Cross-platform",
+        "Open Source",
+        "Privacy",
+        "Self-hosted"
+      ],
+      "highlights": [
+        "自建服务器，无需第三方",
+        "端到端加密，确保隐私",
+        "无需配置，开箱即用",
+        "支持文件传输和聊天",
+        "跨平台兼容"
+      ],
+      "highlights_en": [
+        "Self-hosted server, no third-party dependency",
+        "End-to-end encryption for privacy",
+        "No configuration required, works out of box",
+        "File transfer and chat support",
+        "Cross-platform compatibility"
+      ],
+      "logo": "https://raw.githubusercontent.com/rustdesk/rustdesk/master/res/logo.svg"
+    },
+    {
+      "name": "OBS",
       "description": "免费开源的视频录制和直播软件",
       "description_en": "Free open source video recording and streaming software",
       "website": "https://obsproject.com/",
@@ -493,7 +507,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 65000,
+      "stars": 69791,
       "tags": [
         "音视频处理",
         "直播",
@@ -534,7 +548,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 5000,
+      "stars": 7844,
       "tags": [
         "音视频处理",
         "macOS"
@@ -557,51 +571,55 @@
         "HEVC with Alpha video format support",
         "Under 10MB in size"
       ],
-       "logo": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
-     },
-     {
-       "name": "Audacity",
-       "description": "免费开源的音频编辑器，支持录音、编辑和混音",
-       "description_en": "Free, open source, cross-platform audio editor for recording and editing",
-       "website": "https://www.audacityteam.org/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "多媒体与音视频",
-       "open_source": true,
-       "free": true,
-       "github": "audacity/audacity",
-       "stars": 16300,
-       "tags": [
-         "音频编辑",
-         "录音",
-         "跨平台",
-         "开源软件",
-         "混音"
-       ],
-       "tags_en": [
-         "Audio Editing",
-         "Recording",
-         "Cross-platform",
-         "Open Source",
-         "Mixing"
-       ],
-       "highlights": [
-         "多轨音频编辑和录音",
-         "支持多种音频格式导入导出",
-         "丰富的效果和插件支持",
-         "频谱分析和音频可视化",
-         "免费开源，跨平台"
-       ],
-       "highlights_en": [
-         "Multi-track audio editing and recording",
-         "Import/export multiple audio formats",
-         "Rich effects and plugin support",
-         "Spectrogram view and audio analysis",
-         "Free and open source, cross-platform"
-       ],
-       "logo": "https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png"
-     },
-     {
-       "name": "Modern-CSV",
+      "logo": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
+    },
+    {
+      "name": "Audacity",
+      "description": "免费开源的音频编辑器，支持录音、编辑和混音",
+      "description_en": "Free, open source, cross-platform audio editor for recording and editing",
+      "website": "https://www.audacityteam.org/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "github": "audacity/audacity",
+      "stars": 16317,
+      "tags": [
+        "音频编辑",
+        "录音",
+        "跨平台",
+        "开源软件",
+        "混音"
+      ],
+      "tags_en": [
+        "Audio Editing",
+        "Recording",
+        "Cross-platform",
+        "Open Source",
+        "Mixing"
+      ],
+      "highlights": [
+        "多轨音频编辑和录音",
+        "支持多种音频格式导入导出",
+        "丰富的效果和插件支持",
+        "频谱分析和音频可视化",
+        "免费开源，跨平台"
+      ],
+      "highlights_en": [
+        "Multi-track audio editing and recording",
+        "Import/export multiple audio formats",
+        "Rich effects and plugin support",
+        "Spectrogram view and audio analysis",
+        "Free and open source, cross-platform"
+      ],
+      "logo": "https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png"
+    },
+    {
+      "name": "Modern-CSV",
       "description": "直观的 CSV 编辑器/查看器",
       "description_en": "Intuitive CSV editor and viewer",
       "website": "https://www.moderncsv.com/",
@@ -675,150 +693,167 @@
         "Highly accessible",
         "Custom theme support"
       ],
-       "logo": "./images/typora_icon_256x256.png"
-     },
-     {
+      "logo": "./images/typora_icon_256x256.png"
+    },
+    {
       "name": "Joplin",
       "description": "开源笔记应用，支持 Markdown，跨平台同步，隐私聚焦",
       "description_en": "Open source note-taking app with Markdown support, cross-platform sync, privacy-focused",
       "website": "https://joplinapp.org/",
-      "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
       "category": "笔记、知识与写作管理",
-       "open_source": true,
-       "free": true,
-       "github": "laurent22/joplin",
-       "stars": 53000,
-       "tags": [
-         "Markdown",
-         "笔记",
-         "跨平台",
-         "开源软件",
-         "同步",
-         "隐私"
-       ],
-       "tags_en": [
-         "Markdown",
-         "Note-taking",
-         "Cross-platform",
-         "Open Source",
-         "Sync",
-         "Privacy"
-       ],
-       "highlights": [
-         "支持多媒体笔记、数学表达式和图表",
-         "跨平台同步，支持 E2EE 加密",
-         "Web Clipper 扩展，保存网页为笔记",
-         "插件和主题自定义",
-         "终端应用可用",
-         "开源，确保数据所有权"
-       ],
-       "highlights_en": [
-         "Multimedia notes, math expressions, and diagrams",
-         "Cross-platform sync with E2EE encryption",
-         "Web clipper extension for saving web pages",
-         "Customizable with plugins and themes",
-         "Terminal app available",
-         "Open source, ensuring data ownership"
-       ],
-       "logo": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png"
-     },
-     {
+      "open_source": true,
+      "free": true,
+      "github": "laurent22/joplin",
+      "stars": 53021,
+      "tags": [
+        "Markdown",
+        "笔记",
+        "跨平台",
+        "开源软件",
+        "同步",
+        "隐私"
+      ],
+      "tags_en": [
+        "Markdown",
+        "Note-taking",
+        "Cross-platform",
+        "Open Source",
+        "Sync",
+        "Privacy"
+      ],
+      "highlights": [
+        "支持多媒体笔记、数学表达式和图表",
+        "跨平台同步，支持 E2EE 加密",
+        "Web Clipper 扩展，保存网页为笔记",
+        "插件和主题自定义",
+        "终端应用可用",
+        "开源，确保数据所有权"
+      ],
+      "highlights_en": [
+        "Multimedia notes, math expressions, and diagrams",
+        "Cross-platform sync with E2EE encryption",
+        "Web clipper extension for saving web pages",
+        "Customizable with plugins and themes",
+        "Terminal app available",
+        "Open source, ensuring data ownership"
+      ],
+      "logo": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png"
+    },
+    {
       "name": "Logseq",
       "description": "隐私优先的开源知识库，支持 Markdown 和双向链接",
       "description_en": "Privacy-first, open-source knowledge base with Markdown and bi-directional links",
       "website": "https://logseq.com/",
-      "platforms": ["Web", "Windows", "macOS", "Linux", "Android", "iOS"],
+      "platforms": [
+        "Web",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
       "category": "笔记、知识与写作管理",
-       "open_source": true,
-       "free": true,
-       "github": "logseq/logseq",
-       "stars": 30000,
-       "tags": [
-         "Markdown",
-         "知识管理",
-         "笔记",
-         "开源软件",
-         "隐私",
-         "双向链接"
-       ],
-       "tags_en": [
-         "Markdown",
-         "Knowledge Management",
-         "Note-taking",
-         "Open Source",
-         "Privacy",
-         "Bi-directional Links"
-       ],
-       "highlights": [
-         "本地优先，隐私保护",
-         "支持 Markdown 和双向链接",
-         "强大的查询和搜索功能",
-         "插件扩展和主题自定义",
-         "跨平台支持，包括 Web 版本",
-         "开源，确保数据所有权"
-       ],
-       "highlights_en": [
-         "Local-first, privacy-focused",
-         "Markdown and bi-directional linking support",
-         "Powerful query and search capabilities",
-         "Plugin extensibility and custom themes",
-         "Cross-platform including web version",
-         "Open source, ensuring data ownership"
-       ],
-       "logo": "https://github.com/logseq/logseq/blob/master/icons/icon-256.webp"
-     },
-     {
-       "name": "MarkText",
-       "description": "简单优雅的开源 Markdown 编辑器，支持实时预览",
-       "description_en": "Simple and elegant open-source Markdown editor with real-time preview",
-       "website": "https://www.marktext.me/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "开发与编程",
-       "open_source": true,
-       "free": true,
-       "github": "marktext/marktext",
-       "stars": 53300,
-       "tags": [
-         "Markdown",
-         "编辑器",
-         "实时预览"
-       ],
-       "tags_en": [
-         "Markdown",
-         "Editor",
-         "Real-time Preview"
-       ],
-       "highlights": [
-         "实时预览和干净界面",
-         "支持 CommonMark、GFM 和 Pandoc",
-         "数学表达式、front matter 和表情符号",
-         "输出 HTML 和 PDF 文件",
-         "多种主题和编辑模式",
-         "粘贴图片直接从剪贴板"
-       ],
-       "highlights_en": [
-         "Realtime preview and clean interface",
-         "Support CommonMark, GFM and Pandoc",
-         "Math expressions, front matter and emojis",
-         "Output HTML and PDF files",
-         "Various themes and editing modes",
-         "Paste images directly from clipboard"
-       ],
-       "logo": "https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png"
-     },
-     {
-       "name": "Ice",
-       "description": "macOS 菜单栏管理工具",
-       "description_en": "macOS menu bar management tool",
-       "website": "https://icemenubar.app/",
-       "platforms": [
+      "open_source": true,
+      "free": true,
+      "github": "logseq/logseq",
+      "stars": 40366,
+      "tags": [
+        "Markdown",
+        "知识管理",
+        "笔记",
+        "开源软件",
+        "隐私",
+        "双向链接"
+      ],
+      "tags_en": [
+        "Markdown",
+        "Knowledge Management",
+        "Note-taking",
+        "Open Source",
+        "Privacy",
+        "Bi-directional Links"
+      ],
+      "highlights": [
+        "本地优先，隐私保护",
+        "支持 Markdown 和双向链接",
+        "强大的查询和搜索功能",
+        "插件扩展和主题自定义",
+        "跨平台支持，包括 Web 版本",
+        "开源，确保数据所有权"
+      ],
+      "highlights_en": [
+        "Local-first, privacy-focused",
+        "Markdown and bi-directional linking support",
+        "Powerful query and search capabilities",
+        "Plugin extensibility and custom themes",
+        "Cross-platform including web version",
+        "Open source, ensuring data ownership"
+      ],
+      "logo": "https://raw.githubusercontent.com/logseq/logseq/master/icons/icon-256.webp"
+    },
+    {
+      "name": "MarkText",
+      "description": "简单优雅的开源 Markdown 编辑器，支持实时预览",
+      "description_en": "Simple and elegant open-source Markdown editor with real-time preview",
+      "website": "https://www.marktext.me/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "开发与编程",
+      "open_source": true,
+      "free": true,
+      "github": "marktext/marktext",
+      "stars": 53284,
+      "tags": [
+        "Markdown",
+        "编辑器",
+        "实时预览"
+      ],
+      "tags_en": [
+        "Markdown",
+        "Editor",
+        "Real-time Preview"
+      ],
+      "highlights": [
+        "实时预览和干净界面",
+        "支持 CommonMark、GFM 和 Pandoc",
+        "数学表达式、front matter 和表情符号",
+        "输出 HTML 和 PDF 文件",
+        "多种主题和编辑模式",
+        "粘贴图片直接从剪贴板"
+      ],
+      "highlights_en": [
+        "Realtime preview and clean interface",
+        "Support CommonMark, GFM and Pandoc",
+        "Math expressions, front matter and emojis",
+        "Output HTML and PDF files",
+        "Various themes and editing modes",
+        "Paste images directly from clipboard"
+      ],
+      "logo": "https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png"
+    },
+    {
+      "name": "Ice",
+      "description": "macOS 菜单栏管理工具",
+      "description_en": "macOS menu bar management tool",
+      "website": "https://icemenubar.app/",
+      "platforms": [
         "macOS"
-       ],
-       "category": "系统工具与优化",
+      ],
+      "category": "系统工具与优化",
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
-      "stars": 3000,
+      "stars": 25413,
       "tags": [
         "系统工具",
         "macOS"
@@ -855,7 +890,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 12000,
+      "stars": 35853,
       "tags": [
         "系统工具",
         "macOS"
@@ -926,7 +961,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 8500,
+      "stars": 9699,
       "tags": [
         "图像处理",
         "macOS"
@@ -961,7 +996,7 @@
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
-      "stars": 2000,
+      "stars": 1439,
       "tags": [
         "截图工具",
         "跨平台",
@@ -1049,7 +1084,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 6000,
+      "stars": 16700,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1086,7 +1121,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 4500,
+      "stars": 9720,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1117,7 +1152,7 @@
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
-      "stars": 5400,
+      "stars": 13363,
       "tags": [
         "文件管理",
         "Windows",
@@ -1160,7 +1195,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 854,
+      "stars": 966,
       "tags": [
         "截图工具",
         "macOS",
@@ -1205,7 +1240,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35200,
+      "stars": 35230,
       "tags": [
         "截图工具",
         "Windows",
@@ -1246,7 +1281,7 @@
       "open_source": true,
       "free": true,
       "github": "flameshot-org/flameshot",
-      "stars": 28700,
+      "stars": 28659,
       "tags": [
         "截图工具",
         "Linux",
@@ -1275,7 +1310,7 @@
         "DBus interface",
         "Upload to Imgur"
       ],
-      "logo": "https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg"
+      "logo": "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.svg"
     },
     {
       "name": "Calibre",
@@ -1291,7 +1326,7 @@
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23400,
+      "stars": 23398,
       "tags": [
         "电子书",
         "Windows",
@@ -1320,7 +1355,7 @@
         "Reader",
         "Library management"
       ],
-      "logo": "https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png"
+      "logo": "https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png"
     },
     {
       "name": "Ulauncher",
@@ -1334,7 +1369,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4300,
+      "stars": 4325,
       "tags": [
         "启动器",
         "Linux",
@@ -1359,79 +1394,79 @@
         "Shortcuts & extensions",
         "Fast directory browser"
       ],
-      "logo": "https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg"
+      "logo": "https://raw.githubusercontent.com/Ulauncher/Ulauncher/main/data/icons/system/apps/ulauncher.svg"
     }
   ],
-   "categories": [
-      {
-        "id": "多媒体与音视频",
-        "icon": "🎥",
-        "description": "视频、音频播放和处理软件",
-        "id_en": "Multimedia & AV",
-        "description_en": "Video and audio players and processing tools"
-      },
-      {
-        "id": "文件管理与传输",
-        "icon": "📁",
-        "description": "文件传输、压缩和管理工具",
-        "id_en": "File Management & Transfer",
-        "description_en": "File transfer, compression, and management tools"
-      },
-      {
-        "id": "网络工具与浏览器",
-        "icon": "🌐",
-        "description": "浏览器、下载器、FTP/SFTP/网络传输、RSS、网络协作等",
-        "id_en": "Internet & Browsers",
-        "description_en": "Browsers, downloaders, FTP/SFTP, network tools, RSS, collaboration"
-      },
-      {
-        "id": "系统工具与优化",
-        "icon": "⚙️",
-        "description": "系统监控、剪贴板、输入法、菜单栏工具、系统美化、资源管理等",
-        "id_en": "System Utilities & Optimization",
-        "description_en": "System monitoring, clipboard, input methods, menu bar tools, beautification, resource management"
-      },
-      {
-        "id": "开发与编程",
-        "icon": "💻",
-        "description": "编辑器、终端、IDE、数据库管理、接口调试、开发辅助等",
-        "id_en": "Development & Programming",
-        "description_en": "Editors, terminals, IDEs, database management, API debugging, development aids"
-      },
-      {
-        "id": "办公与生产力",
-        "icon": "⚡",
-        "description": "办公套件、启动器、桌面搜索、效率提升、自动化、日历、待办、流程图、PDF、截图工具等",
-        "id_en": "Productivity & Office",
-        "description_en": "Office suites, launchers, desktop search, efficiency tools, automation, calendars, todos, diagrams, PDF, screenshot tools"
-      },
-      {
-        "id": "笔记、知识与写作管理",
-        "icon": "📝",
-        "description": "笔记、知识库、个人 Wiki、大纲、写作、Markdown笔记等",
-        "id_en": "Notes & Knowledge",
-        "description_en": "Notes, knowledge bases, personal Wikis, outlines, writing, Markdown notes"
-      },
-      {
-        "id": "设计与图像处理",
-        "icon": "🎨",
-        "description": "图像处理、原型设计、矢量/位图编辑、图标、UI设计等",
-        "id_en": "Design & Image Editing",
-        "description_en": "Image processing, prototyping, vector/bitmap editing, icons, UI design"
-      },
-      {
-        "id": "远程协作与通讯",
-        "icon": "🖥️",
-        "description": "远程桌面、协作、终端控制、会议、团队通讯等",
-        "id_en": "Remote & Communication",
-        "description_en": "Remote desktop, collaboration, terminal control, meetings, team communication"
-      },
-      {
-        "id": "娱乐与趣味",
-        "icon": "🎮",
-        "description": "桌宠、小游戏、趣味工具、虚拟宠物等",
-        "id_en": "Fun & Entertainment",
-        "description_en": "Desktop pets, mini-games, fun tools, virtual pets"
-      }
-    ]
+  "categories": [
+    {
+      "id": "多媒体与音视频",
+      "icon": "🎥",
+      "description": "视频、音频播放和处理软件",
+      "id_en": "Multimedia & AV",
+      "description_en": "Video and audio players and processing tools"
+    },
+    {
+      "id": "文件管理与传输",
+      "icon": "📁",
+      "description": "文件传输、压缩和管理工具",
+      "id_en": "File Management & Transfer",
+      "description_en": "File transfer, compression, and management tools"
+    },
+    {
+      "id": "网络工具与浏览器",
+      "icon": "🌐",
+      "description": "浏览器、下载器、FTP/SFTP/网络传输、RSS、网络协作等",
+      "id_en": "Internet & Browsers",
+      "description_en": "Browsers, downloaders, FTP/SFTP, network tools, RSS, collaboration"
+    },
+    {
+      "id": "系统工具与优化",
+      "icon": "⚙️",
+      "description": "系统监控、剪贴板、输入法、菜单栏工具、系统美化、资源管理等",
+      "id_en": "System Utilities & Optimization",
+      "description_en": "System monitoring, clipboard, input methods, menu bar tools, beautification, resource management"
+    },
+    {
+      "id": "开发与编程",
+      "icon": "💻",
+      "description": "编辑器、终端、IDE、数据库管理、接口调试、开发辅助等",
+      "id_en": "Development & Programming",
+      "description_en": "Editors, terminals, IDEs, database management, API debugging, development aids"
+    },
+    {
+      "id": "办公与生产力",
+      "icon": "⚡",
+      "description": "办公套件、启动器、桌面搜索、效率提升、自动化、日历、待办、流程图、PDF、截图工具等",
+      "id_en": "Productivity & Office",
+      "description_en": "Office suites, launchers, desktop search, efficiency tools, automation, calendars, todos, diagrams, PDF, screenshot tools"
+    },
+    {
+      "id": "笔记、知识与写作管理",
+      "icon": "📝",
+      "description": "笔记、知识库、个人 Wiki、大纲、写作、Markdown笔记等",
+      "id_en": "Notes & Knowledge",
+      "description_en": "Notes, knowledge bases, personal Wikis, outlines, writing, Markdown notes"
+    },
+    {
+      "id": "设计与图像处理",
+      "icon": "🎨",
+      "description": "图像处理、原型设计、矢量/位图编辑、图标、UI设计等",
+      "id_en": "Design & Image Editing",
+      "description_en": "Image processing, prototyping, vector/bitmap editing, icons, UI design"
+    },
+    {
+      "id": "远程协作与通讯",
+      "icon": "🖥️",
+      "description": "远程桌面、协作、终端控制、会议、团队通讯等",
+      "id_en": "Remote & Communication",
+      "description_en": "Remote desktop, collaboration, terminal control, meetings, team communication"
+    },
+    {
+      "id": "娱乐与趣味",
+      "icon": "🎮",
+      "description": "桌宠、小游戏、趣味工具、虚拟宠物等",
+      "id_en": "Fun & Entertainment",
+      "description_en": "Desktop pets, mini-games, fun tools, virtual pets"
+    }
+  ]
 }

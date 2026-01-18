@@ -39,6 +39,7 @@ def update_stars():
         # 若文件为 JSON，使用 yaml.safe_load 也可解析，但建议明确使用 json
     # 改为显式 JSON 读写
     import json
+
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
 
