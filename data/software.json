@@ -446,7 +446,7 @@
         "Plugin-based apps",
         "Extensive plugin ecosystem"
       ],
-      "logo": "./images/utool-logo.png"
+      "logo": "./images/utools-logo.png"
     },
     {
       "name": "RustDesk",
@@ -661,7 +661,7 @@
         "Fast viewing of large CSV files",
         "Fully customizable CSV editor"
       ],
-      "logo": "./images/moderncsv-logo-dark-127.png"
+      "logo": "./images/moderncsv-logo.png"
     },
     {
       "name": "Typora",

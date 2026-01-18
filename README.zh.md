@@ -417,7 +417,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Modern-CSV Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/moderncsv-logo.png" alt="Modern-CSV Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.moderncsv.com/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 直观的 CSV 编辑器/查看器 |
@@ -485,7 +485,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Utools Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/utools-logo.png" alt="Utools Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.u-tools.cn) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | AI 助力超级助手，插件化工具平台 |

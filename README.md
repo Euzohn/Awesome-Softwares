@@ -417,7 +417,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/moderncsv-logo-dark-127.png" alt="Modern-CSV Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/moderncsv-logo.png" alt="Modern-CSV Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.moderncsv.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Intuitive CSV editor and viewer |
@@ -485,7 +485,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/utool-logo.png" alt="Utools Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/utools-logo.png" alt="Utools Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.u-tools.cn) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | AI-powered universal tool platform with plugins |
