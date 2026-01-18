@@ -20,7 +20,7 @@ This document outlines the process for adding new software to the Awesome Softwa
    - Supported platforms (list from: macOS, Windows, Linux, Android, iOS, Web)
    - Open source status (`open_source`: boolean)
    - GitHub repository details (if applicable)
-   - Cost model (`free`, `freemium`, `paid` flags)
+   - Cost model (`cost`: "free", "freemium", "paid"; `price`: optional price string, e.g., "$9.99" or "Freemium")
    - Key features/highlights (English: `highlights_en`, Chinese: `highlights`)
    - Tags (English: `tags_en`, Chinese: `tags`)
     - Category assignment (`category`: must select from the existing categories in `data/software.json` under the "categories" array. Check PROJECT_INFO.md for available categories and their descriptions.)

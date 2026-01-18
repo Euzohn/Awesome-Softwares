@@ -51,25 +51,26 @@
 13. [iTerm2](#iterm2)
 14. [Joplin](#joplin)
 15. [Keka](#keka)
-16. [LocalSend](#localsend)
-17. [Logseq](#logseq)
-18. [MarkText](#marktext)
-19. [Modern-CSV](#modern-csv)
-20. [Motrix](#motrix)
-21. [mpv](#mpv)
-22. [OBS](#obs)
-23. [Popcorn-Time](#popcorn-time)
-24. [QuickRecorder](#quickrecorder)
-25. [RunCat365](#runcat365)
-26. [RustDesk](#rustdesk)
-27. [ShareX](#sharex)
-28. [Snippai](#snippai)
-29. [Stats](#stats)
-30. [Sublime-Text](#sublime-text)
-31. [Transnomino](#transnomino)
-32. [Typora](#typora)
-33. [Ulauncher](#ulauncher)
-34. [Utools](#utools)
+16. [KOReader](#koreader)
+17. [LocalSend](#localsend)
+18. [Logseq](#logseq)
+19. [MarkText](#marktext)
+20. [Modern-CSV](#modern-csv)
+21. [Motrix](#motrix)
+22. [mpv](#mpv)
+23. [OBS](#obs)
+24. [Popcorn-Time](#popcorn-time)
+25. [QuickRecorder](#quickrecorder)
+26. [RunCat365](#runcat365)
+27. [RustDesk](#rustdesk)
+28. [ShareX](#sharex)
+29. [Snippai](#snippai)
+30. [Stats](#stats)
+31. [Sublime-Text](#sublime-text)
+32. [Transnomino](#transnomino)
+33. [Typora](#typora)
+34. [Ulauncher](#ulauncher)
+35. [Utools](#utools)
 
 
 <a id="多媒体与音视频"></a>
@@ -186,6 +187,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 电子书管理<br>- 格式转换<br>- 阅读器<br>- 库管理 |
 | **🏷 分类** | #电子书 #Windows #macOS #Linux #开源软件 #免费软件
+
+<a id="koreader"></a>
+## KOReader
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg" alt="KOReader Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://koreader.rocks/) |
+| **🖥 适用系统** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源电子书阅读器，支持多种格式，专注阅读体验 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/koreader/koreader) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/koreader/koreader?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种电子书格式<br>- 开源免费<br>- 跨平台兼容<br>- 专注阅读体验 |
+| **🏷 分类** | #电子书 #阅读器 #开源软件 #跨平台
 
 
 <a id="文件管理与传输"></a>
@@ -339,7 +356,7 @@
 | **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub 源代码** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点** | - miniLake「迷你湖」，以紧凑形式展示关键信息<br>- 通过细节级改动，显著提升整体使用体验 |
 | **🏷 分类** | #设计工具 #macOS
 

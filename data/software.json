@@ -422,7 +422,7 @@
        ],
        "category": "办公与生产力",
        "open_source": false,
-       "free": true,
+       "free": false,
        "cost": "freemium",
       "tags": [
         "效率工具",
@@ -634,6 +634,7 @@
        "open_source": false,
        "free": true,
        "cost": "freemium",
+       "price": "$39",
       "tags": [
         "数据分析",
         "CSV编辑",
@@ -933,6 +934,7 @@
       "category": "系统工具与优化",
       "open_source": false,
       "free": false,
+      "cost": "freemium",
       "price": "$15.99",
       "tags": [
         "设计工具",
@@ -1398,6 +1400,24 @@
         "Fast directory browser"
       ],
       "logo": "https://raw.githubusercontent.com/Ulauncher/Ulauncher/main/data/icons/system/apps/ulauncher.svg"
+    },
+    {
+      "name": "KOReader",
+      "description": "开源电子书阅读器，支持多种格式，专注阅读体验",
+      "description_en": "An open source ebook reader with support for many formats, focused on reading experience",
+      "website": "https://koreader.rocks/",
+      "platforms": ["Android", "iOS", "Linux", "macOS", "Windows"],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "koreader/koreader",
+      "stars": 15000,
+      "tags": ["电子书", "阅读器", "开源软件", "跨平台"],
+      "tags_en": ["Ebook", "Reader", "Open Source", "Cross-platform"],
+      "highlights": ["支持多种电子书格式", "开源免费", "跨平台兼容", "专注阅读体验"],
+      "highlights_en": ["Supports many ebook formats", "Free and open source", "Cross-platform compatibility", "Focused on reading experience"],
+      "logo": "https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg"
     }
   ],
   "categories": [
