@@ -30,8 +30,6 @@ PLATFORM_BADGES = {
 }
 
 
-
-
 def get_cost_badge(free: bool, freemium: bool) -> str:
     key = (free, freemium)
     text, color = COST_BADGES.get(key, ("Unknown", "grey"))
@@ -50,7 +48,9 @@ def get_platform_badges(platforms: list) -> str:
 
 def get_open_source_badge(open_source: bool) -> str:
     if open_source:
-        return "![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)"
+        return (
+            "![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)"
+        )
     return "![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey)"
 
 
@@ -64,9 +64,6 @@ def generate_stars_badge(github: str | None) -> str:
     if github:
         return f"![Stars](https://img.shields.io/github/stars/{github}?style=social)"
     return "N/A"
-
-
-
 
 
 def generate_software_section(software: dict, is_chinese: bool) -> str:
@@ -92,7 +89,9 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     platform_badges = get_platform_badges(platforms)
     github_link = generate_github_link(github)
     stars_badge = generate_stars_badge(github)
-    logo_path = software.get("logo", f"./images/{name.lower().replace(' ', '')}-logo.png")
+    logo_path = software.get(
+        "logo", f"./images/{name.lower().replace(' ', '')}-logo.png"
+    )
 
     tag_str = " ".join([f"#{tag}" for tag in tags])
     highlights_list = "<br>".join([f"- {h}" for h in highlights])
@@ -139,9 +138,6 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     return section
 
 
-
-
-
 def generate_readme_zh(data: dict) -> str:
     software_list = data["software_list"]
     categories = data.get("categories", [])
@@ -176,7 +172,8 @@ def generate_readme_zh(data: dict) -> str:
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
 
-    readme += """
+    readme += (
+        """
 ## 说明
 
 ### 💰 是否免费
@@ -189,7 +186,17 @@ def generate_readme_zh(data: dict) -> str:
 
 ## 软件列表
 
-""" + "\n".join([f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for i, s in enumerate(sorted(software_list, key=lambda x: x['name'].lower()))]) + "\n\n"
+"""
+        + "\n".join(
+            [
+                f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})"
+                for i, s in enumerate(
+                    sorted(software_list, key=lambda x: x["name"].lower())
+                )
+            ]
+        )
+        + "\n\n"
+    )
 
     for cat in categories:
         cat_id = cat["id"]
@@ -238,7 +245,8 @@ def generate_readme_en(data: dict) -> str:
         cat_id = cat.lower().replace(" ", "-")
         readme += f"  - [{icon} {cat}](#{cat_id})\n"
 
-    readme += """
+    readme += (
+        """
 ## Overview
 
 ### 💰 Cost
@@ -251,7 +259,17 @@ def generate_readme_en(data: dict) -> str:
 
 ## Software List
 
-""" + "\n".join([f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})" for i, s in enumerate(sorted(software_list, key=lambda x: x['name'].lower()))]) + "\n\n"
+"""
+        + "\n".join(
+            [
+                f"{i+1}. [{s['name']}](#{s['name'].lower().replace(' ', '-').replace('_', '-')})"
+                for i, s in enumerate(
+                    sorted(software_list, key=lambda x: x["name"].lower())
+                )
+            ]
+        )
+        + "\n\n"
+    )
 
     for cat in categories:
         cat_id = cat.get("id_en", cat["id"])
