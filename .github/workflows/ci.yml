@@ -42,20 +42,21 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate README
+      - name: Generate README and HTML
         run: |
           python3 scripts/generate_readme.py
+          python3 scripts/generate_html.py
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md README.zh.md
+          git add README.md README.zh.md index.html
           git diff --stat
           if [ -n "$(git diff --name-only)" ]; then
-            git commit -m "docs: Auto-generate README $(date +%Y-%m-%d)"
+            git commit -m "docs: Auto-generate README and webpage $(date +%Y-%m-%d)"
             git push
-            echo "✅ README updated"
+            echo "✅ README and webpage updated"
           else
             echo "ℹ️  No changes to commit"
           fi
@@ -78,18 +79,19 @@ jobs:
         run: |
           python3 scripts/update_stars.py
 
-      - name: Generate README
+      - name: Generate README and HTML
         run: |
           python3 scripts/generate_readme.py
+          python3 scripts/generate_html.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "chore: Update GitHub stars & README $(date +%Y-%m-%d)"
-          title: "Update GitHub Stars & README - $(date +%Y-%m-%d)"
+          commit-message: "chore: Update GitHub stars & README & webpage $(date +%Y-%m-%d)"
+          title: "Update GitHub Stars & README & Webpage - $(date +%Y-%m-%d)"
           body: |
-            This PR updates the GitHub stars count and regenerates README files.
+            This PR updates the GitHub stars count and regenerates README files and webpage.
 
             Updated by GitHub Actions
           branch: update-stars
