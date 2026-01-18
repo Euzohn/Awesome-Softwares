@@ -466,7 +466,7 @@
         function getCostText(item, lang) {
             const cost = item.cost || (item.free ? 'free' : 'paid');
             if (cost === 'free') return lang === 'zh' ? '免费' : 'Free';
-            if (cost === 'freemium') return 'Freemium';
+            if (cost === 'freemium') return item.price ? item.price : 'Freemium';
             if (cost === 'paid') return item.price || (lang === 'zh' ? '付费' : 'Paid');
             return cost;
         }
