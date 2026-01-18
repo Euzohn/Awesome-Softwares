@@ -176,7 +176,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://calibre-ebook.com/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 一款强大的电子书管理和转换工具 |
@@ -348,7 +348,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Ulauncher/Ulauncher/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://ulauncher.io/) |
 | **🖥 适用系统** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 功能丰富的 Linux 应用程序启动器 |
@@ -407,7 +407,7 @@
 | **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub 源代码** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点** | - 轻松编辑 CSV 文件<br>- 查找和排列 CSV 数据<br>- 跨平台一致性<br>- 隐私保证<br>- 快速查看大型 CSV 文件<br>- 完全可定制的 CSV 编辑器 |
 | **🏷 分类** | #数据分析 #CSV编辑 #跨平台
 
@@ -432,7 +432,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.marktext.me/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 简单优雅的开源 Markdown 编辑器，支持实时预览 |
@@ -459,7 +459,7 @@
 | **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub 源代码** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点** | - 搜索和浏览<br>- 少打字，多操作<br>- 功能扩展与自动化<br>- 控制音乐<br>- 高度可自定义，提高效率 |
 | **🏷 分类** | #效率工具 #macOS
 
@@ -475,7 +475,7 @@
 | **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub 源代码** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
 | **🏷 分类** | #效率工具 #跨平台 #人工智能
 
@@ -504,7 +504,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/logseq/logseq/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://logseq.com/) |
 | **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 隐私优先的开源知识库，支持 Markdown 和双向链接 |
@@ -588,7 +588,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://flameshot.org/) |
 | **🖥 适用系统** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 强大而简单的开源截图软件 |
@@ -608,7 +608,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/rustdesk/rustdesk/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://rustdesk.com/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 开源远程桌面软件，支持自建服务器，隐私保护 |

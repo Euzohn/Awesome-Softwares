@@ -15,9 +15,9 @@ DATA_FILE = Path(__file__).parent.parent / "data" / "software.json"
 OUTPUT_DIR = Path(__file__).parent.parent
 
 COST_BADGES = {
-    (True, False): ("Free", "brightgreen"),
-    (True, True): ("Freemium", "orange"),
-    (False, False): ("Paid", "red"),
+    "free": ("Free", "brightgreen"),
+    "freemium": ("Freemium", "orange"),
+    "paid": ("Paid", "red"),
 }
 
 PLATFORM_BADGES = {
@@ -30,9 +30,8 @@ PLATFORM_BADGES = {
 }
 
 
-def get_cost_badge(free: bool, freemium: bool) -> str:
-    key = (free, freemium)
-    text, color = COST_BADGES.get(key, ("Unknown", "grey"))
+def get_cost_badge(cost: str) -> str:
+    text, color = COST_BADGES.get(cost, ("Unknown", "grey"))
     return f"![{text}](https://img.shields.io/badge/Cost-{text}-{color})"
 
 
@@ -71,8 +70,7 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
     website = software["website"]
     platforms = software.get("platforms", [])
     open_source = software.get("open_source", False)
-    free = software.get("free", True)
-    freemium = software.get("freemium", False)
+    cost = software.get("cost", "free" if software.get("free", True) else "paid")
     github = software.get("github")
 
     if is_chinese:
@@ -84,7 +82,7 @@ def generate_software_section(software: dict, is_chinese: bool) -> str:
         tags = software.get("tags_en", software.get("tags", []))
         highlights = software.get("highlights_en", software.get("highlights", []))
 
-    cost_badge = get_cost_badge(free, freemium)
+    cost_badge = get_cost_badge(cost)
     os_badge = get_open_source_badge(open_source)
     platform_badges = get_platform_badges(platforms)
     github_link = generate_github_link(github)

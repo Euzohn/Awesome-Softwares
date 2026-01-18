@@ -176,7 +176,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/kovidgoyal/calibre/blob/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://calibre-ebook.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | The official source code repository for the calibre ebook manager |
@@ -348,7 +348,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Ulauncher/Ulauncher/blob/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Ulauncher/Ulauncher/main/data/icons/system/apps/ulauncher.svg" alt="Ulauncher Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://ulauncher.io/) |
 | **🖥 Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Feature rich application Launcher for Linux |
@@ -407,7 +407,7 @@
 | **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub Repository** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **💰 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ Highlights** | - Easy CSV file editing<br>- Find and arrange CSV data<br>- Cross-platform consistency<br>- Privacy guaranteed<br>- Fast viewing of large CSV files<br>- Fully customizable CSV editor |
 | **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
 
@@ -432,7 +432,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/marktext/marktext/blob/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.marktext.me/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Simple and elegant open-source Markdown editor with real-time preview |
@@ -459,7 +459,7 @@
 | **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub Repository** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **💰 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ Highlights** | - Search and browse<br>- Type less, say more<br>- Extend and automate<br>- Control your music<br>- Highly customizable for efficiency |
 | **🏷 Tags** | #Productivity #macOS
 
@@ -475,7 +475,7 @@
 | **🔓 Open Source** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
 | **📦 GitHub Repository** | N/A |
 | **⭐ GitHub Stars** | N/A |
-| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **💰 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ Highlights** | - Universal search bar<br>- Powerful right-click menu<br>- Plugin-based apps<br>- Extensive plugin ecosystem |
 | **🏷 Tags** | #Productivity #Cross-platform #AI
 
@@ -504,7 +504,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/logseq/logseq/blob/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/logseq/logseq/master/icons/icon-256.webp" alt="Logseq Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://logseq.com/) |
 | **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Privacy-first, open-source knowledge base with Markdown and bi-directional links |
@@ -588,7 +588,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/flameshot-org/flameshot/blob/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.svg" alt="FlameShot Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://flameshot.org/) |
 | **🖥 Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Powerful yet simple to use screenshot software |
@@ -608,7 +608,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/rustdesk/rustdesk/blob/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/rustdesk/rustdesk/master/res/logo.svg" alt="RustDesk Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://rustdesk.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Open source remote desktop software with self-hosted server, privacy-focused |
