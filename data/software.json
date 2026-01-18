@@ -411,18 +411,19 @@
       "logo": "./images/alfred-logo4@2x.png"
     },
     {
-      "name": "Utools",
-      "description": "AI 助力超级助手，插件化工具平台",
-      "description_en": "AI-powered universal tool platform with plugins",
-      "website": "https://www.u-tools.cn",
-      "platforms": [
-        "Windows",
-        "macOS",
-        "Linux"
-      ],
-      "category": "办公与生产力",
-      "open_source": false,
-      "free": true,
+       "name": "Utools",
+       "description": "AI 助力超级助手，插件化工具平台",
+       "description_en": "AI-powered universal tool platform with plugins",
+       "website": "https://www.u-tools.cn",
+       "platforms": [
+         "Windows",
+         "macOS",
+         "Linux"
+       ],
+       "category": "办公与生产力",
+       "open_source": false,
+       "free": true,
+       "cost": "freemium",
       "tags": [
         "效率工具",
         "跨平台",
@@ -620,18 +621,19 @@
       "logo": "https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png"
     },
     {
-      "name": "Modern-CSV",
-      "description": "直观的 CSV 编辑器/查看器",
-      "description_en": "Intuitive CSV editor and viewer",
-      "website": "https://www.moderncsv.com/",
-      "platforms": [
-        "Windows",
-        "macOS",
-        "Linux"
-      ],
-      "category": "开发与编程",
-      "open_source": false,
-      "free": true,
+       "name": "Modern-CSV",
+       "description": "直观的 CSV 编辑器/查看器",
+       "description_en": "Intuitive CSV editor and viewer",
+       "website": "https://www.moderncsv.com/",
+       "platforms": [
+         "Windows",
+         "macOS",
+         "Linux"
+       ],
+       "category": "开发与编程",
+       "open_source": false,
+       "free": true,
+       "cost": "freemium",
       "tags": [
         "数据分析",
         "CSV编辑",
