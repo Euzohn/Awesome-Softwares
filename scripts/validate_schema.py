@@ -15,6 +15,7 @@ import sys
 DATA_FILE = Path(__file__).parent.parent / "data" / "software.json"
 
 VALID_PLATFORMS = {"macOS", "Windows", "Linux", "Android", "iOS", "Web"}
+VALID_COSTS = {"free", "freemium", "paid"}
 # Allow broader URL characters including @, :, ~ and others commonly seen
 URL_RE = re.compile(r"^https?://[^\s]+$", re.IGNORECASE)
 GITHUB_RE = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
@@ -77,6 +78,11 @@ def validate():
         gh = sw.get("github")
         if gh and not GITHUB_RE.match(gh):
             fail(f"Item {idx} invalid github format (owner/repo): {gh}")
+
+        # Optional cost
+        cost = sw.get("cost")
+        if cost and cost not in VALID_COSTS:
+            fail(f"Item {idx} invalid cost value: {cost} (must be one of {VALID_COSTS})")
 
         # Optional logo URL or relative path
         logo = sw.get("logo")

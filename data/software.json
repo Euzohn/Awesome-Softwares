@@ -374,17 +374,18 @@
       "logo": "https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png"
     },
     {
-      "name": "Alfred",
-      "description": "macOS 效率神器，搜索、快捷键、文本扩展",
-      "description_en": "macOS productivity app for search, shortcuts, and text expansion",
-      "website": "https://www.alfredapp.com/",
-      "platforms": [
-        "macOS"
-      ],
-      "category": "办公与生产力",
-      "open_source": false,
-      "free": false,
-      "price": "£32",
+       "name": "Alfred",
+       "description": "macOS 效率神器，搜索、快捷键、文本扩展",
+       "description_en": "macOS productivity app for search, shortcuts, and text expansion",
+       "website": "https://www.alfredapp.com/",
+       "platforms": [
+         "macOS"
+       ],
+       "category": "办公与生产力",
+       "open_source": false,
+       "free": false,
+       "cost": "freemium",
+       "price": "£34",
       "tags": [
         "效率工具",
         "macOS"
@@ -930,7 +931,7 @@
       "category": "系统工具与优化",
       "open_source": false,
       "free": false,
-      "price": "$9.99",
+      "price": "$15.99",
       "tags": [
         "设计工具",
         "macOS"
