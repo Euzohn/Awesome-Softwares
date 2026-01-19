@@ -135,6 +135,7 @@
       "description_en": "Cross-platform tool for quick file sharing within local network",
       "website": "https://localsend.org/",
       "platforms": [
+        "Web",
         "Windows",
         "macOS",
         "Linux",
