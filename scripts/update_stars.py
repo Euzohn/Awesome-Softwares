@@ -5,7 +5,6 @@ Awesome Softwares - 更新 GitHub Stars
 """
 
 import requests
-import yaml
 from pathlib import Path
 import time
 
@@ -34,10 +33,6 @@ def get_stars(owner: str, repo: str) -> int | None:
 
 def update_stars():
     """更新所有仓库的 Stars（统一写入 JSON）"""
-    with open(DATA_FILE, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-        # 若文件为 JSON，使用 yaml.safe_load 也可解析，但建议明确使用 json
-    # 改为显式 JSON 读写
     import json
 
     with open(DATA_FILE, "r", encoding="utf-8") as f:

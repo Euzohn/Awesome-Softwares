@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 43396,
+      "stars": 43431,
       "tags": [
         "播放器",
         "macOS",
@@ -94,7 +94,7 @@
       "open_source": true,
       "free": true,
       "github": "mpv-player/mpv",
-      "stars": 33632,
+      "stars": 33659,
       "tags": [
         "播放器",
         "跨平台",
@@ -146,7 +146,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 73411,
+      "stars": 73505,
       "tags": [
         "文件传输",
         "跨平台",
@@ -187,7 +187,7 @@
       "open_source": true,
       "free": true,
       "github": "agalwood/Motrix",
-      "stars": 50540,
+      "stars": 50550,
       "tags": [
         "下载管理器",
         "BT",
@@ -231,7 +231,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 6283,
+      "stars": 6289,
       "tags": [
         "文件管理",
         "压缩",
@@ -343,7 +343,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 16807,
+      "stars": 16811,
       "tags": [
         "开发工具",
         "终端",
@@ -375,18 +375,18 @@
       "logo": "https://raw.githubusercontent.com/gnachman/iTerm2/master/images/AppIcon/release.png"
     },
     {
-       "name": "Alfred",
-       "description": "macOS 效率神器，搜索、快捷键、文本扩展",
-       "description_en": "macOS productivity app for search, shortcuts, and text expansion",
-       "website": "https://www.alfredapp.com/",
-       "platforms": [
-         "macOS"
-       ],
-       "category": "办公与生产力",
-       "open_source": false,
-       "free": false,
-       "cost": "freemium",
-       "price": "£34",
+      "name": "Alfred",
+      "description": "macOS 效率神器，搜索、快捷键、文本扩展",
+      "description_en": "macOS productivity app for search, shortcuts, and text expansion",
+      "website": "https://www.alfredapp.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "办公与生产力",
+      "open_source": false,
+      "free": false,
+      "cost": "freemium",
+      "price": "£34",
       "tags": [
         "效率工具",
         "macOS"
@@ -412,19 +412,19 @@
       "logo": "./images/alfred-logo4@2x.png"
     },
     {
-       "name": "Utools",
-       "description": "AI 助力超级助手，插件化工具平台",
-       "description_en": "AI-powered universal tool platform with plugins",
-       "website": "https://www.u-tools.cn",
-       "platforms": [
-         "Windows",
-         "macOS",
-         "Linux"
-       ],
-       "category": "办公与生产力",
-       "open_source": false,
-       "free": false,
-       "cost": "freemium",
+      "name": "Utools",
+      "description": "AI 助力超级助手，插件化工具平台",
+      "description_en": "AI-powered universal tool platform with plugins",
+      "website": "https://www.u-tools.cn",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "办公与生产力",
+      "open_source": false,
+      "free": false,
+      "cost": "freemium",
       "tags": [
         "效率工具",
         "跨平台",
@@ -465,7 +465,7 @@
       "open_source": true,
       "free": true,
       "github": "rustdesk/rustdesk",
-      "stars": 105877,
+      "stars": 105991,
       "tags": [
         "远程桌面",
         "跨平台",
@@ -510,7 +510,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 69791,
+      "stars": 69827,
       "tags": [
         "音视频处理",
         "直播",
@@ -551,7 +551,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 7844,
+      "stars": 7850,
       "tags": [
         "音视频处理",
         "macOS"
@@ -590,7 +590,7 @@
       "open_source": true,
       "free": true,
       "github": "audacity/audacity",
-      "stars": 16317,
+      "stars": 16326,
       "tags": [
         "音频编辑",
         "录音",
@@ -622,20 +622,20 @@
       "logo": "https://raw.githubusercontent.com/audacity/audacity/master/images/AudacityLogo.png"
     },
     {
-       "name": "Modern-CSV",
-       "description": "直观的 CSV 编辑器/查看器",
-       "description_en": "Intuitive CSV editor and viewer",
-       "website": "https://www.moderncsv.com/",
-       "platforms": [
-         "Windows",
-         "macOS",
-         "Linux"
-       ],
-       "category": "开发与编程",
-       "open_source": false,
-       "free": true,
-       "cost": "freemium",
-       "price": "$39",
+      "name": "Modern-CSV",
+      "description": "直观的 CSV 编辑器/查看器",
+      "description_en": "Intuitive CSV editor and viewer",
+      "website": "https://www.moderncsv.com/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "办公与生产力",
+      "open_source": false,
+      "free": true,
+      "cost": "freemium",
+      "price": "$39",
       "tags": [
         "数据分析",
         "CSV编辑",
@@ -716,7 +716,7 @@
       "open_source": true,
       "free": true,
       "github": "laurent22/joplin",
-      "stars": 53021,
+      "stars": 53037,
       "tags": [
         "Markdown",
         "笔记",
@@ -768,7 +768,7 @@
       "open_source": true,
       "free": true,
       "github": "logseq/logseq",
-      "stars": 40366,
+      "stars": 40398,
       "tags": [
         "Markdown",
         "知识管理",
@@ -813,11 +813,11 @@
         "macOS",
         "Linux"
       ],
-      "category": "开发与编程",
+      "category": "笔记、知识与写作管理",
       "open_source": true,
       "free": true,
       "github": "marktext/marktext",
-      "stars": 53284,
+      "stars": 53318,
       "tags": [
         "Markdown",
         "编辑器",
@@ -858,7 +858,7 @@
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
-      "stars": 25413,
+      "stars": 25450,
       "tags": [
         "系统工具",
         "macOS"
@@ -895,7 +895,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 35853,
+      "stars": 35887,
       "tags": [
         "系统工具",
         "macOS"
@@ -967,7 +967,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 9699,
+      "stars": 9700,
       "tags": [
         "图像处理",
         "macOS"
@@ -1002,7 +1002,7 @@
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
-      "stars": 1439,
+      "stars": 1443,
       "tags": [
         "截图工具",
         "跨平台",
@@ -1090,7 +1090,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 16700,
+      "stars": 16838,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1127,7 +1127,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 9720,
+      "stars": 9754,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1158,7 +1158,7 @@
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
-      "stars": 13363,
+      "stars": 13391,
       "tags": [
         "文件管理",
         "Windows",
@@ -1201,7 +1201,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 966,
+      "stars": 1083,
       "tags": [
         "截图工具",
         "macOS",
@@ -1246,7 +1246,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35230,
+      "stars": 35257,
       "tags": [
         "截图工具",
         "Windows",
@@ -1287,7 +1287,7 @@
       "open_source": true,
       "free": true,
       "github": "flameshot-org/flameshot",
-      "stars": 28659,
+      "stars": 28674,
       "tags": [
         "截图工具",
         "Linux",
@@ -1328,11 +1328,11 @@
         "macOS",
         "Linux"
       ],
-      "category": "多媒体与音视频",
+      "category": "文件管理与传输",
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23398,
+      "stars": 23417,
       "tags": [
         "电子书",
         "Windows",
@@ -1375,7 +1375,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4325,
+      "stars": 4327,
       "tags": [
         "启动器",
         "Linux",
@@ -1407,20 +1407,338 @@
       "description": "开源电子书阅读器，支持多种格式，专注阅读体验",
       "description_en": "An open source ebook reader with support for many formats, focused on reading experience",
       "website": "https://koreader.rocks/",
-      "platforms": ["Android", "iOS", "Linux", "macOS", "Windows"],
-      "category": "多媒体与音视频",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Linux",
+        "macOS",
+        "Windows"
+      ],
+      "category": "文件管理与传输",
       "open_source": true,
       "free": true,
       "cost": "free",
       "github": "koreader/koreader",
-      "stars": 15000,
-      "tags": ["电子书", "阅读器", "开源软件", "跨平台"],
-      "tags_en": ["Ebook", "Reader", "Open Source", "Cross-platform"],
-      "highlights": ["支持多种电子书格式", "开源免费", "跨平台兼容", "专注阅读体验"],
-      "highlights_en": ["Supports many ebook formats", "Free and open source", "Cross-platform compatibility", "Focused on reading experience"],
+      "stars": 25032,
+      "tags": [
+        "电子书",
+        "阅读器",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Ebook",
+        "Reader",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持多种电子书格式",
+        "开源免费",
+        "跨平台兼容",
+        "专注阅读体验"
+      ],
+      "highlights_en": [
+        "Supports many ebook formats",
+        "Free and open source",
+        "Cross-platform compatibility",
+        "Focused on reading experience"
+      ],
       "logo": "https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg"
-    }
-  ],
+    },
+    {
+      "name": "Neovim",
+      "description": "超可扩展的基于Vim的文本编辑器",
+      "description_en": "hyperextensible Vim-based text editor",
+      "website": "https://neovim.io/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "开发与编程",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "neovim/neovim",
+      "stars": 95805,
+      "tags": [
+        "文本编辑器",
+        "Vim",
+        "开源软件",
+        "跨平台",
+        "开发工具"
+      ],
+      "tags_en": [
+        "Text Editor",
+        "Vim",
+        "Open Source",
+        "Cross-platform",
+        "Development"
+      ],
+      "highlights": [
+        "超可扩展",
+        "内置LSP客户端",
+        "兼容Vim",
+        "现代化终端特性",
+        "Lua插件支持"
+      ],
+      "highlights_en": [
+        "Hyperextensible",
+        "Built-in LSP client",
+        "Vim-compatible",
+        "Modern terminal features",
+        "Lua plugin support"
+      ],
+      "logo": "./images/neovim-logo.png"
+    },
+    {
+      "name": "CodeEdit",
+      "description": "原生macOS代码编辑器，轻量级、高性能、开源免费",
+      "description_en": "A native code editor for macOS, lightweight, high-performance, open source and free",
+      "website": "https://www.codeedit.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "开发与编程",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "CodeEditApp/CodeEdit",
+      "stars": 22625,
+      "tags": [
+        "代码编辑器",
+        "macOS",
+        "原生应用",
+        "开源软件",
+        "Swift"
+      ],
+      "tags_en": [
+        "Code Editor",
+        "macOS",
+        "Native App",
+        "Open Source",
+        "Swift"
+      ],
+      "highlights": [
+        "原生macOS架构",
+        "高性能",
+        "社区驱动",
+        "可扩展",
+        "熟悉的界面"
+      ],
+      "highlights_en": [
+        "Native macOS architecture",
+        "High performance",
+        "Community-driven",
+        "Extensible",
+        "Familiar interface"
+      ],
+      "logo": "./images/codeedit-logo.png"
+    },
+    {
+      "name": "Zettlr",
+      "description": "专为学术写作设计的免费开源Markdown编辑器",
+      "description_en": "A free and open-source Markdown editor designed for academic writing",
+      "website": "https://www.zettlr.com/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "笔记、知识与写作管理",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "Zettlr/Zettlr",
+      "stars": 12423,
+      "tags": [
+        "Markdown",
+        "学术写作",
+        "Zettelkasten",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Markdown",
+        "Academic Writing",
+        "Zettelkasten",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "引用管理",
+        "Zettelkasten支持",
+        "多种导出格式",
+        "隐私优先",
+        "分屏视图"
+      ],
+      "highlights_en": [
+        "Citation management",
+        "Zettelkasten support",
+        "Multiple export formats",
+        "Privacy-first",
+        "Split-view"
+      ],
+      "logo": "./images/zettlr.png"
+    },
+    {
+      "name": "Marp",
+      "description": "使用Markdown创建美丽幻灯片演示的生态系统",
+      "description_en": "Markdown Presentation Ecosystem for creating beautiful slide decks",
+      "website": "https://marp.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "笔记、知识与写作管理",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "marp-team/marp",
+      "stars": 10254,
+      "tags": [
+        "Markdown",
+        "演示",
+        "幻灯片",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Markdown",
+        "Presentation",
+        "Slides",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "基于CommonMark",
+        "内置主题",
+        "导出HTML/PDF/PPT",
+        "指令和扩展语法",
+        "插件架构"
+      ],
+      "highlights_en": [
+        "Based on CommonMark",
+        "Built-in themes",
+        "Export to HTML/PDF/PPT",
+        "Directives and extended syntax",
+        "Pluggable architecture"
+      ],
+      "logo": "https://raw.githubusercontent.com/marp-team/marp/main/website/public/favicon.png"
+    },
+    {
+      "name": "Darktable",
+      "description": "开源摄影工作流应用程序和RAW开发者，虚拟灯箱和暗房",
+      "description_en": "Open source photography workflow application and raw developer, virtual lighttable and darkroom",
+      "website": "https://www.darktable.org/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "设计与图像处理",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "darktable-org/darktable",
+      "stars": 11903,
+      "tags": [
+        "摄影",
+        "RAW处理",
+        "图像编辑",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Photography",
+        "RAW Processing",
+        "Image Editing",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "非破坏性编辑",
+        "专业色彩管理",
+        "GPU加速",
+        "数据库管理",
+        "社区驱动"
+      ],
+      "highlights_en": [
+        "Non-destructive editing",
+        "Professional color management",
+        "GPU acceleration",
+        "Database management",
+        "Community-driven"
+      ],
+      "logo": "./images/darktable-logo.png"
+    },
+    {
+      "name": "Cherry Studio",
+      "description": "支持多模型的AI桌面客户端，集成300+AI助手，支持自主编码和智能自动化",
+      "description_en": "AI desktop client supporting multiple models, with 300+ AI assistants, autonomous coding, and intelligent automation",
+      "website": "https://www.cherry-ai.com/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "人工智能与机器学习",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "CherryHQ/cherry-studio",
+      "stars": 38000,
+      "tags": [
+        "AI助手",
+        "多模型",
+        "桌面客户端",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "AI Assistant",
+        "Multi-model",
+        "Desktop Client",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持50+LLM提供商",
+        "300+预配置助手",
+        "多模型同时对话",
+        "文档处理",
+        "知识库管理"
+      ],
+      "highlights_en": [
+        "Supports 50+ LLM providers",
+        "300+ pre-configured assistants",
+        "Multi-model conversations",
+        "Document processing",
+        "Knowledge base management"
+      ],
+       "logo": "./images/cherry-studio-logo.png"
+     },
+     {
+       "name": "Chatbox",
+       "description": "强大的AI客户端，支持多种AI模型和API，兼容众多前沿AI模型",
+       "description_en": "Powerful AI client compatible with many cutting-edge AI models and APIs",
+       "website": "https://chatboxai.app/",
+       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS", "Web"],
+       "category": "人工智能与机器学习",
+       "open_source": true,
+       "free": true,
+       "cost": "free",
+       "github": "chatboxai/chatbox",
+       "stars": 38200,
+       "tags": ["AI客户端", "多模型", "聊天助手", "开源软件", "跨平台"],
+       "tags_en": ["AI Client", "Multi-model", "Chat Assistant", "Open Source", "Cross-platform"],
+       "highlights": ["支持文档和图像聊天", "代码生成和预览", "实时网络搜索", "数据可视化", "多平台支持"],
+       "highlights_en": ["Chat with documents & images", "Code generation & preview", "Real-time web search", "Data visualization", "Multi-platform support"],
+       "logo": "./images/chatbox-logo.png"
+     }
+   ],
   "categories": [
     {
       "id": "多媒体与音视频",
@@ -1491,6 +1809,27 @@
       "description": "桌宠、小游戏、趣味工具、虚拟宠物等",
       "id_en": "Fun & Entertainment",
       "description_en": "Desktop pets, mini-games, fun tools, virtual pets"
+    },
+    {
+      "id": "人工智能与机器学习",
+      "icon": "🤖",
+      "description": "AI助手、代码生成、数据分析、机器学习工具等",
+      "id_en": "AI & Machine Learning",
+      "description_en": "AI assistants, code generation, data analysis, machine learning tools"
+    },
+    {
+      "id": "安全与隐私",
+      "icon": "🔒",
+      "description": "密码管理、加密工具、安全扫描、隐私保护等",
+      "id_en": "Security & Privacy",
+      "description_en": "Password managers, encryption tools, security scanners, privacy protection"
+    },
+    {
+      "id": "云计算与基础设施",
+      "icon": "☁️",
+      "description": "云服务管理、容器化、DevOps工具、基础设施即代码等",
+      "id_en": "Cloud & Infrastructure",
+      "description_en": "Cloud service management, containerization, DevOps tools, infrastructure as code"
     }
   ]
 }

@@ -5,7 +5,9 @@ This document outlines the process for adding new software to the Awesome Softwa
 ## Project Context
 
 - **Data Source**: `data/software.json` (single source of truth for software data)
-- **Generation Script**: `scripts/generate_readme.py` (generates `README.md` and `README.zh.md`)
+- **Generation Scripts**:
+  - `scripts/generate_readme.py` (generates `README.md` and `README.zh.md`)
+  - `scripts/generate_html.py` (updates `index.html` with embedded JSON data)
 - **Additional Scripts**: `scripts/add_software.py` (helper for adding software), `scripts/update_stars.py` (updates GitHub stars)
 - **Categories**: See PROJECT_INFO.md for available software categories and their icons
 - **Tags**: Use platform tags (#macOS, #Windows, #Linux, #Android, #iOS) and type tags (#开源软件, #免费软件, #付费软件, #跨平台)
@@ -30,11 +32,13 @@ This document outlines the process for adding new software to the Awesome Softwa
 
 4. **Generate READMEs**: Execute `python scripts/generate_readme.py` to automatically regenerate `README.md` and `README.zh.md` from the updated data.
 
-5. **Verification**: 
-   - Check that the new software appears correctly in both README files under the appropriate category
-   - Verify table of contents includes the new software
-   - Test links and badges function properly
-   - Run `python scripts/generate_readme.py` again if any issues are found
+5. **Generate HTML**: Execute `python scripts/generate_html.py` to update `index.html` with the latest embedded JSON data.
+
+6. **Verification**:
+    - Check that the new software appears correctly in both README files under the appropriate category
+    - Verify table of contents includes the new software
+    - Test links and badges function properly
+    - Run `python scripts/generate_readme.py` and `python scripts/generate_html.py` again if any issues are found
 
 ## Alternative Methods
 
@@ -48,4 +52,3 @@ This document outlines the process for adding new software to the Awesome Softwa
 - Follow naming conventions for anchors and file paths
 - **Critical: When adding software, only append new entries to the software list. Never modify or remove existing software entries to prevent accidental data loss.**
 - Update GitHub stars periodically using `scripts/update_stars.py`
-- Commit changes and push to trigger GitHub Actions for automated README updates

@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-19
+> 📅 最后更新: 2026-01-20
 
 ## 📖 目录
 
@@ -23,6 +23,9 @@
   - [🎨 设计与图像处理](#设计与图像处理)
   - [🖥️ 远程协作与通讯](#远程协作与通讯)
   - [🎮 娱乐与趣味](#娱乐与趣味)
+  - [🤖 人工智能与机器学习](#人工智能与机器学习)
+  - [🔒 安全与隐私](#安全与隐私)
+  - [☁️ 云计算与基础设施](#云计算与基础设施)
 
 ## 说明
 
@@ -41,36 +44,43 @@
 3. [Better Shot](#better-shot)
 4. [BongoCat](#bongocat)
 5. [Calibre](#calibre)
-6. [Chrome](#chrome)
-7. [DynamicLake-Pro](#dynamiclake-pro)
-8. [File-Converter](#file-converter)
-9. [FlameShot](#flameshot)
-10. [Ice](#ice)
-11. [IINA](#iina)
-12. [ImageOptim](#imageoptim)
-13. [iTerm2](#iterm2)
-14. [Joplin](#joplin)
-15. [Keka](#keka)
-16. [KOReader](#koreader)
-17. [LocalSend](#localsend)
-18. [Logseq](#logseq)
-19. [MarkText](#marktext)
-20. [Modern-CSV](#modern-csv)
-21. [Motrix](#motrix)
-22. [mpv](#mpv)
-23. [OBS](#obs)
-24. [Popcorn-Time](#popcorn-time)
-25. [QuickRecorder](#quickrecorder)
-26. [RunCat365](#runcat365)
-27. [RustDesk](#rustdesk)
-28. [ShareX](#sharex)
-29. [Snippai](#snippai)
-30. [Stats](#stats)
-31. [Sublime-Text](#sublime-text)
-32. [Transnomino](#transnomino)
-33. [Typora](#typora)
-34. [Ulauncher](#ulauncher)
-35. [Utools](#utools)
+6. [Chatbox](#chatbox)
+7. [Cherry Studio](#cherry-studio)
+8. [Chrome](#chrome)
+9. [CodeEdit](#codeedit)
+10. [Darktable](#darktable)
+11. [DynamicLake-Pro](#dynamiclake-pro)
+12. [File-Converter](#file-converter)
+13. [FlameShot](#flameshot)
+14. [Ice](#ice)
+15. [IINA](#iina)
+16. [ImageOptim](#imageoptim)
+17. [iTerm2](#iterm2)
+18. [Joplin](#joplin)
+19. [Keka](#keka)
+20. [KOReader](#koreader)
+21. [LocalSend](#localsend)
+22. [Logseq](#logseq)
+23. [MarkText](#marktext)
+24. [Marp](#marp)
+25. [Modern-CSV](#modern-csv)
+26. [Motrix](#motrix)
+27. [mpv](#mpv)
+28. [Neovim](#neovim)
+29. [OBS](#obs)
+30. [Popcorn-Time](#popcorn-time)
+31. [QuickRecorder](#quickrecorder)
+32. [RunCat365](#runcat365)
+33. [RustDesk](#rustdesk)
+34. [ShareX](#sharex)
+35. [Snippai](#snippai)
+36. [Stats](#stats)
+37. [Sublime-Text](#sublime-text)
+38. [Transnomino](#transnomino)
+39. [Typora](#typora)
+40. [Ulauncher](#ulauncher)
+41. [Utools](#utools)
+42. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -172,38 +182,6 @@
 | **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
 | **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
 
-<a id="calibre"></a>
-## Calibre
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://calibre-ebook.com/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | 一款强大的电子书管理和转换工具 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/kovidgoyal/calibre) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/kovidgoyal/calibre?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 电子书管理<br>- 格式转换<br>- 阅读器<br>- 库管理 |
-| **🏷 分类** | #电子书 #Windows #macOS #Linux #开源软件 #免费软件
-
-<a id="koreader"></a>
-## KOReader
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg" alt="KOReader Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://koreader.rocks/) |
-| **🖥 适用系统** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
-| **🛠 功能用途** | 开源电子书阅读器，支持多种格式，专注阅读体验 |
-| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/koreader/koreader) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/koreader/koreader?style=social) |
-| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 支持多种电子书格式<br>- 开源免费<br>- 跨平台兼容<br>- 专注阅读体验 |
-| **🏷 分类** | #电子书 #阅读器 #开源软件 #跨平台
-
 
 <a id="文件管理与传输"></a>
 ## 📁 文件管理与传输
@@ -287,6 +265,38 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 简单易用，只需点击两下<br>- 开源免费，无广告，不收集数据<br>- 支持多种文件格式转换<br>- 支持视频、音频、图片、文档转换<br>- 可自定义转换预设<br>- 支持 11 种语言 |
 | **🏷 分类** | #文件管理 #Windows #开源软件 #免费软件
+
+<a id="calibre"></a>
+## Calibre
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png" alt="Calibre Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://calibre-ebook.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 一款强大的电子书管理和转换工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/kovidgoyal/calibre) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/kovidgoyal/calibre?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 电子书管理<br>- 格式转换<br>- 阅读器<br>- 库管理 |
+| **🏷 分类** | #电子书 #Windows #macOS #Linux #开源软件 #免费软件
+
+<a id="koreader"></a>
+## KOReader
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg" alt="KOReader Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://koreader.rocks/) |
+| **🖥 适用系统** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源电子书阅读器，支持多种格式，专注阅读体验 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/koreader/koreader) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/koreader/koreader?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种电子书格式<br>- 开源免费<br>- 跨平台兼容<br>- 专注阅读体验 |
+| **🏷 分类** | #电子书 #阅读器 #开源软件 #跨平台
 
 
 <a id="网络工具与浏览器"></a>
@@ -412,22 +422,6 @@
 | **✨ 亮点** | - 拆分窗格<br>- 热键窗口<br>- 内置搜索<br>- 自动补全<br>- 复制模式<br>- 高度可自定义 |
 | **🏷 分类** | #开发工具 #终端 #macOS #效率工具
 
-<a id="modern-csv"></a>
-## Modern-CSV
-
-| 信息项 | 详情 |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="./images/moderncsv-logo.png" alt="Modern-CSV Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.moderncsv.com/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | 直观的 CSV 编辑器/查看器 |
-| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
-| **📦 GitHub 源代码** | N/A |
-| **⭐ GitHub Stars** | N/A |
-| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
-| **✨ 亮点** | - 轻松编辑 CSV 文件<br>- 查找和排列 CSV 数据<br>- 跨平台一致性<br>- 隐私保证<br>- 快速查看大型 CSV 文件<br>- 完全可定制的 CSV 编辑器 |
-| **🏷 分类** | #数据分析 #CSV编辑 #跨平台
-
 <a id="typora"></a>
 ## Typora
 
@@ -444,21 +438,37 @@
 | **✨ 亮点** | - 可读可写，支持实时预览<br>- 简单而功能强大<br>- 高可及性<br>- 支持自定义主题 |
 | **🏷 分类** | #Markdown #跨平台
 
-<a id="marktext"></a>
-## MarkText
+<a id="neovim"></a>
+## Neovim
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
-| **🌐 官网** | [点击访问](https://www.marktext.me/) |
+| **🖼 Logo** | <img src="./images/neovim-logo.png" alt="Neovim Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://neovim.io/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
-| **🛠 功能用途** | 简单优雅的开源 Markdown 编辑器，支持实时预览 |
+| **🛠 功能用途** | 超可扩展的基于Vim的文本编辑器 |
 | **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
-| **📦 GitHub 源代码** | [GitHub Link](https://github.com/marktext/marktext) |
-| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/marktext/marktext?style=social) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/neovim/neovim) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/neovim/neovim?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
-| **✨ 亮点** | - 实时预览和干净界面<br>- 支持 CommonMark、GFM 和 Pandoc<br>- 数学表达式、front matter 和表情符号<br>- 输出 HTML 和 PDF 文件<br>- 多种主题和编辑模式<br>- 粘贴图片直接从剪贴板 |
-| **🏷 分类** | #Markdown #编辑器 #实时预览
+| **✨ 亮点** | - 超可扩展<br>- 内置LSP客户端<br>- 兼容Vim<br>- 现代化终端特性<br>- Lua插件支持 |
+| **🏷 分类** | #文本编辑器 #Vim #开源软件 #跨平台 #开发工具
+
+<a id="codeedit"></a>
+## CodeEdit
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/codeedit-logo.png" alt="CodeEdit Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.codeedit.app/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 原生macOS代码编辑器，轻量级、高性能、开源免费 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/CodeEditApp/CodeEdit) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 原生macOS架构<br>- 高性能<br>- 社区驱动<br>- 可扩展<br>- 熟悉的界面 |
+| **🏷 分类** | #代码编辑器 #macOS #原生应用 #开源软件 #Swift
 
 
 <a id="办公与生产力"></a>
@@ -496,6 +506,22 @@
 | **✨ 亮点** | - 超级搜索框<br>- 超级右键<br>- 插件应用即装即用<br>- 海量插件应用，持续进化 |
 | **🏷 分类** | #效率工具 #跨平台 #人工智能
 
+<a id="modern-csv"></a>
+## Modern-CSV
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/moderncsv-logo.png" alt="Modern-CSV Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.moderncsv.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 直观的 CSV 编辑器/查看器 |
+| **🔓 是否开源** | ![Proprietary](https://img.shields.io/badge/Open%20Source-No-lightgrey) |
+| **📦 GitHub 源代码** | N/A |
+| **⭐ GitHub Stars** | N/A |
+| **💰 是否免费** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
+| **✨ 亮点** | - 轻松编辑 CSV 文件<br>- 查找和排列 CSV 数据<br>- 跨平台一致性<br>- 隐私保证<br>- 快速查看大型 CSV 文件<br>- 完全可定制的 CSV 编辑器 |
+| **🏷 分类** | #数据分析 #CSV编辑 #跨平台
+
 
 <a id="笔记、知识与写作管理"></a>
 ## 📝 笔记、知识与写作管理
@@ -531,6 +557,54 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 本地优先，隐私保护<br>- 支持 Markdown 和双向链接<br>- 强大的查询和搜索功能<br>- 插件扩展和主题自定义<br>- 跨平台支持，包括 Web 版本<br>- 开源，确保数据所有权 |
 | **🏷 分类** | #Markdown #知识管理 #笔记 #开源软件 #隐私 #双向链接
+
+<a id="marktext"></a>
+## MarkText
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png" alt="MarkText Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.marktext.me/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 简单优雅的开源 Markdown 编辑器，支持实时预览 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/marktext/marktext) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/marktext/marktext?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 实时预览和干净界面<br>- 支持 CommonMark、GFM 和 Pandoc<br>- 数学表达式、front matter 和表情符号<br>- 输出 HTML 和 PDF 文件<br>- 多种主题和编辑模式<br>- 粘贴图片直接从剪贴板 |
+| **🏷 分类** | #Markdown #编辑器 #实时预览
+
+<a id="zettlr"></a>
+## Zettlr
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/zettlr.png" alt="Zettlr Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.zettlr.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 专为学术写作设计的免费开源Markdown编辑器 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/Zettlr/Zettlr) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 引用管理<br>- Zettelkasten支持<br>- 多种导出格式<br>- 隐私优先<br>- 分屏视图 |
+| **🏷 分类** | #Markdown #学术写作 #Zettelkasten #开源软件 #跨平台
+
+<a id="marp"></a>
+## Marp
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/marp-team/marp/main/website/public/favicon.png" alt="Marp Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://marp.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 使用Markdown创建美丽幻灯片演示的生态系统 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/marp-team/marp) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/marp-team/marp?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 基于CommonMark<br>- 内置主题<br>- 导出HTML/PDF/PPT<br>- 指令和扩展语法<br>- 插件架构 |
+| **🏷 分类** | #Markdown #演示 #幻灯片 #开源软件 #跨平台
 
 
 <a id="设计与图像处理"></a>
@@ -616,6 +690,22 @@
 | **✨ 亮点** | - 可自定义界面<br>- 应用内截图编辑<br>- DBus 接口<br>- 上传到 Imgur |
 | **🏷 分类** | #截图工具 #Linux #Windows #macOS #开源软件 #免费软件
 
+<a id="darktable"></a>
+## Darktable
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/darktable-logo.png" alt="Darktable Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.darktable.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 开源摄影工作流应用程序和RAW开发者，虚拟灯箱和暗房 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/darktable-org/darktable) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 非破坏性编辑<br>- 专业色彩管理<br>- GPU加速<br>- 数据库管理<br>- 社区驱动 |
+| **🏷 分类** | #摄影 #RAW处理 #图像编辑 #开源软件 #跨平台
+
 
 <a id="远程协作与通讯"></a>
 ## 🖥️ 远程协作与通讯
@@ -671,4 +761,48 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 可爱动画<br>- 直观显示 CPU 使用率 |
 | **🏷 分类** | #趣味工具 #Windows
+
+
+<a id="人工智能与机器学习"></a>
+## 🤖 人工智能与机器学习
+
+<a id="cherry-studio"></a>
+## Cherry Studio
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/cherry-studio-logo.png" alt="Cherry Studio Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.cherry-ai.com/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 支持多模型的AI桌面客户端，集成300+AI助手，支持自主编码和智能自动化 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/CherryHQ/cherry-studio) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持50+LLM提供商<br>- 300+预配置助手<br>- 多模型同时对话<br>- 文档处理<br>- 知识库管理 |
+| **🏷 分类** | #AI助手 #多模型 #桌面客户端 #开源软件 #跨平台
+
+<a id="chatbox"></a>
+## Chatbox
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chatbox-logo.png" alt="Chatbox Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://chatboxai.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 强大的AI客户端，支持多种AI模型和API，兼容众多前沿AI模型 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/chatboxai/chatbox) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持文档和图像聊天<br>- 代码生成和预览<br>- 实时网络搜索<br>- 数据可视化<br>- 多平台支持 |
+| **🏷 分类** | #AI客户端 #多模型 #聊天助手 #开源软件 #跨平台
+
+
+<a id="安全与隐私"></a>
+## 🔒 安全与隐私
+
+
+<a id="云计算与基础设施"></a>
+## ☁️ 云计算与基础设施
 
