@@ -215,7 +215,7 @@
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🖼 Logo** | <img src="./images/localsend-logo-512.png" alt="LocalSend Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://localsend.org/) |
-| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 局域网内快速分享文件的跨平台工具 |
 | **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
 | **📦 GitHub 源代码** | [GitHub Link](https://github.com/localsend/localsend) |
