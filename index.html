@@ -857,6 +857,9 @@
         }
 
         function displaySoftware(list) {
+            // Sort by stars in descending order (highest first)
+            list.sort((a, b) => (b.stars || 0) - (a.stars || 0));
+
             const container = document.getElementById('software-list');
             container.innerHTML = '';
             list.forEach(item => {
@@ -866,7 +869,7 @@
                 card.className = 'card';
                 card.innerHTML = `
                     <div class="card-header">
-                        <img class="card-icon" src="${item.logo}" alt="${item.name} logo" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjZGRkIi8+Cjx0ZXh0IHg9IjI1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjOTk5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iMC4zNWVtIj5BcHA8L3RleHQ+Cjwvc3ZnPgo='">
+                        <img class="card-icon" src="${item.logo}" alt="${item.name} logo" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjZGRkIi8+Cjx0ZXh0IHg9IjI1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjOTk5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iMC4zNWVtIj5BcHA8L3RleHQ+Cjwvc3ZnPgo='">
                         <div class="card-category">${getCategoryName(item.category, currentLang)}</div>
                     </div>
                     <h3>${item.name}</h3>
