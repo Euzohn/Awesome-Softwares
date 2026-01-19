@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-18
+> 📅 最后更新: 2026-01-19
 
 ## 📖 目录
 
@@ -81,7 +81,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="IINA Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="IINA Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.iina.io/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 面向 macOS 的现代化视频播放器 |
@@ -97,7 +97,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Popcorn-Time Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/popcorntime/popcorntime/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Popcorn-Time Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://popcorntime.app/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 观看电影、电视剧等，汇聚海量内容 |
@@ -145,7 +145,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/lihaoyun6/QuickRecorder/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://lihaoyun6.github.io/quickrecorder/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 轻量化高性能 macOS 屏幕录制工具 |
@@ -161,7 +161,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/audacity/audacity/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.audacityteam.org/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 免费开源的音频编辑器，支持录音、编辑和混音 |
@@ -229,7 +229,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/agalwood/Motrix/raw/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/agalwood/Motrix/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://motrix.app/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 开源下载管理器，支持 HTTP、BT、磁力链接等多协议下载 |
@@ -277,7 +277,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Tichau/FileConverter/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://file-converter.io/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 简单易用的文件转换和压缩工具，通过 Windows 资源管理器右键菜单使用 |
@@ -317,7 +317,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/jordanbaird/Ice/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://icemenubar.app/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | macOS 菜单栏管理工具 |
@@ -333,7 +333,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/exelban/stats/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://mac-stats.com/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 菜单栏中的 macOS 系统监视器 |
@@ -401,7 +401,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png" alt="iTerm2 Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/gnachman/iTerm2/master/images/AppIcon/release.png" alt="iTerm2 Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://iterm2.com/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | macOS 终端工具，支持多标签、多窗格 |
@@ -541,7 +541,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://imageoptim.com/icon@2x.png" alt="ImageOptim Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/imageoptim-icon@2x.png" alt="ImageOptim Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://imageoptim.com/mac) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 图片无损压缩工具 |
@@ -557,7 +557,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png" alt="Snippai Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/xyTom/snippai/develop/src/renderer/assets/logo.png" alt="Snippai Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://www.snippai.de/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | AI 加持的智能截图工具 |
@@ -573,7 +573,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://bettershot.site/icon.png" alt="Better Shot Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/KartikLabhshetwar/better-shot/main/src-tauri/icons/icon.png" alt="Better Shot Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://bettershot.site/) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | macOS 免费开源截图工具，集捕获、编辑、标注、OCR 与快速导出于一体，注重隐私与性能 |
@@ -589,7 +589,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://getsharex.com/img/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://getsharex.com/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 一款免费开源的屏幕截图和文件分享工具 |
@@ -645,7 +645,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/raw/master/public/logo.png" alt="BongoCat Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/ayangweb/BongoCat/master/public/logo.png" alt="BongoCat Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://github.com/ayangweb/BongoCat) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 功能用途** | 跨平台桌宠，为桌面增添乐趣 |
@@ -661,7 +661,7 @@
 
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png" alt="RunCat365 Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Kyome22/RunCat365/main/WapForStore/PackageIcon.png" alt="RunCat365 Logo" width="120"/> |
 | **🌐 官网** | [点击访问](https://kyome22.github.io/RunCat365/) |
 | **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | Windows 任务栏上的跑步猫动画，显示 CPU 使用率 |

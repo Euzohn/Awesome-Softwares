@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-18
+> 📅 Last Updated: 2026-01-19
 
 ## 📖 Table of Contents
 
@@ -81,7 +81,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="IINA Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png" alt="IINA Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.iina.io/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | A modern video player for macOS |
@@ -97,7 +97,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Popcorn-Time Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/popcorntime/popcorntime/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png" alt="Popcorn-Time Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://popcorntime.app/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Watch movies and TV shows with a vast content library |
@@ -145,7 +145,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/lihaoyun6/QuickRecorder/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" alt="QuickRecorder Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://lihaoyun6.github.io/quickrecorder/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Lightweight high-performance macOS screen recorder |
@@ -161,7 +161,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/audacity/audacity/master/images/AudacityLogo.png" alt="Audacity Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.audacityteam.org/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Free, open source, cross-platform audio editor for recording and editing |
@@ -229,7 +229,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/agalwood/Motrix/raw/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/agalwood/Motrix/master/static/512x512.png" alt="Motrix Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://motrix.app/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Open source download manager supporting HTTP, BT, magnet links and more protocols |
@@ -277,7 +277,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Tichau/FileConverter/integration/Resources/Icons/ApplicationIcon.svg" alt="File-Converter Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://file-converter.io/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Simple file converter and compressor, accessible via Windows Explorer context menu |
@@ -317,7 +317,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/jordanbaird/Ice/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Ice Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://icemenubar.app/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS menu bar management tool |
@@ -333,7 +333,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/exelban/stats/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" alt="Stats Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://mac-stats.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS system monitor in menu bar |
@@ -401,7 +401,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png" alt="iTerm2 Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/gnachman/iTerm2/master/images/AppIcon/release.png" alt="iTerm2 Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://iterm2.com/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | macOS terminal with multi-tab and split pane support |
@@ -541,7 +541,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://imageoptim.com/icon@2x.png" alt="ImageOptim Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/imageoptim-icon@2x.png" alt="ImageOptim Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://imageoptim.com/mac) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Lossless image compression tool |
@@ -557,7 +557,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png" alt="Snippai Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/xyTom/snippai/develop/src/renderer/assets/logo.png" alt="Snippai Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://www.snippai.de/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | AI-powered smart screenshot tool |
@@ -573,7 +573,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://bettershot.site/icon.png" alt="Better Shot Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/KartikLabhshetwar/better-shot/main/src-tauri/icons/icon.png" alt="Better Shot Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://bettershot.site/) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Free and open-source macOS screenshot tool. Capture, edit, annotate, OCR, and export fast with privacy-first, native performance. |
@@ -589,7 +589,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://getsharex.com/img/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
+| **🖼 Logo** | <img src="./images/ShareX_Logo.png" alt="ShareX Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://getsharex.com/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | ShareX is a free and open-source screen capture and file sharing tool |
@@ -645,7 +645,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/ayangweb/BongoCat/raw/master/public/logo.png" alt="BongoCat Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/ayangweb/BongoCat/master/public/logo.png" alt="BongoCat Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://github.com/ayangweb/BongoCat) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
 | **🛠 Description** | Cross-platform desktop pet for fun |
@@ -661,7 +661,7 @@
 
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **🖼 Logo** | <img src="https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png" alt="RunCat365 Logo" width="120"/> |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/Kyome22/RunCat365/main/WapForStore/PackageIcon.png" alt="RunCat365 Logo" width="120"/> |
 | **🌐 Website** | [Visit](https://kyome22.github.io/RunCat365/) |
 | **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | Running cat animation on Windows taskbar showing CPU usage |

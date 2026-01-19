@@ -33,7 +33,7 @@
         "Excellent playback performance based on mpv",
         "Native macOS design with system-standard interaction"
       ],
-      "logo": "https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png"
+      "logo": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png"
     },
     {
       "name": "Popcorn-Time",
@@ -78,7 +78,7 @@
         "Offline viewing",
         "Subtitle and multilingual support"
       ],
-      "logo": "https://github.com/popcorntime/popcorntime/raw/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
+      "logo": "https://raw.githubusercontent.com/popcorntime/popcorntime/dev/crates/popcorntime-tauri/icons/release/128x128@2x.png"
     },
     {
       "name": "mpv",
@@ -215,7 +215,7 @@
         "Open source and ad-free",
         "Cross-platform compatibility"
       ],
-      "logo": "https://github.com/agalwood/Motrix/raw/master/static/512x512.png"
+      "logo": "https://raw.githubusercontent.com/agalwood/Motrix/master/static/512x512.png"
     },
     {
       "name": "Keka",
@@ -371,7 +371,7 @@
         "Copy mode",
         "Highly customizable"
       ],
-      "logo": "https://github.com/gnachman/iTerm2/raw/master/images/AppIcon/release.png"
+      "logo": "https://raw.githubusercontent.com/gnachman/iTerm2/master/images/AppIcon/release.png"
     },
     {
        "name": "Alfred",
@@ -573,7 +573,7 @@
         "HEVC with Alpha video format support",
         "Under 10MB in size"
       ],
-      "logo": "https://github.com/lihaoyun6/QuickRecorder/raw/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
+      "logo": "https://raw.githubusercontent.com/lihaoyun6/QuickRecorder/main/QuickRecorder/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png"
     },
     {
       "name": "Audacity",
@@ -618,7 +618,7 @@
         "Spectrogram view and audio analysis",
         "Free and open source, cross-platform"
       ],
-      "logo": "https://github.com/audacity/audacity/raw/master/images/AudacityLogo.png"
+      "logo": "https://raw.githubusercontent.com/audacity/audacity/master/images/AudacityLogo.png"
     },
     {
        "name": "Modern-CSV",
@@ -880,7 +880,7 @@
         "Menu bar item search",
         "Customizable menu bar item spacing"
       ],
-      "logo": "https://github.com/jordanbaird/Ice/raw/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png"
+      "logo": "https://raw.githubusercontent.com/jordanbaird/Ice/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png"
     },
     {
       "name": "Stats",
@@ -921,7 +921,7 @@
         "Battery level",
         "Sensor information"
       ],
-      "logo": "https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png"
+      "logo": "https://raw.githubusercontent.com/exelban/stats/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png"
     },
     {
       "name": "DynamicLake-Pro",
@@ -985,7 +985,7 @@
         "Remove invisible junk",
         "Completely free and open source"
       ],
-      "logo": "https://imageoptim.com/icon@2x.png"
+      "logo": "./images/imageoptim-icon@2x.png"
     },
     {
       "name": "Snippai",
@@ -1036,7 +1036,7 @@
         "Color extraction",
         "Language translation"
       ],
-      "logo": "https://github.com/xyTom/snippai/raw/develop/src/renderer/assets/logo.png"
+      "logo": "https://raw.githubusercontent.com/xyTom/snippai/develop/src/renderer/assets/logo.png"
     },
     {
       "name": "Chrome",
@@ -1112,7 +1112,7 @@
         "Completely open source, no data collection",
         "Works offline"
       ],
-      "logo": "https://github.com/ayangweb/BongoCat/raw/master/public/logo.png"
+      "logo": "https://raw.githubusercontent.com/ayangweb/BongoCat/master/public/logo.png"
     },
     {
       "name": "RunCat365",
@@ -1143,7 +1143,7 @@
         "Cute animation",
         "Visual CPU usage indicator"
       ],
-      "logo": "https://github.com/Kyome22/RunCat365/raw/main/WapForStore/PackageIcon.png"
+      "logo": "https://raw.githubusercontent.com/Kyome22/RunCat365/main/WapForStore/PackageIcon.png"
     },
     {
       "name": "File-Converter",
@@ -1186,7 +1186,7 @@
         "Customizable conversion presets",
         "Available in 11 languages"
       ],
-      "logo": "https://github.com/Tichau/FileConverter/raw/integration/Resources/Icons/ApplicationIcon.svg"
+      "logo": "https://raw.githubusercontent.com/Tichau/FileConverter/integration/Resources/Icons/ApplicationIcon.svg"
     },
     {
       "name": "Better Shot",
@@ -1231,7 +1231,7 @@
         "Native performance: Rust + Tauri, minimal resource usage",
         "Fast export to directory or clipboard"
       ],
-      "logo": "https://bettershot.site/icon.png"
+      "logo": "https://raw.githubusercontent.com/KartikLabhshetwar/better-shot/main/src-tauri/icons/icon.png"
     },
     {
       "name": "ShareX",
@@ -1270,7 +1270,7 @@
         "OCR text recognition",
         "GIF recording"
       ],
-      "logo": "https://getsharex.com/img/ShareX_Logo.png"
+      "logo": "./images/ShareX_Logo.png"
     },
     {
       "name": "FlameShot",
