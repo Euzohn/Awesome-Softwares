@@ -40,49 +40,55 @@
 ## 软件列表
 
 1. [Alfred](#alfred)
-2. [Audacity](#audacity)
-3. [Better Shot](#better-shot)
-4. [BongoCat](#bongocat)
-5. [Calibre](#calibre)
-6. [Chatbox](#chatbox)
-7. [Cherry Studio](#cherry-studio)
-8. [Chrome](#chrome)
-9. [Clash Verge Rev](#clash-verge-rev)
-10. [CodeEdit](#codeedit)
-11. [Darktable](#darktable)
-12. [DynamicLake-Pro](#dynamiclake-pro)
-13. [File-Converter](#file-converter)
-14. [FlameShot](#flameshot)
-15. [Ice](#ice)
-16. [IINA](#iina)
-17. [ImageOptim](#imageoptim)
-18. [iTerm2](#iterm2)
-19. [Joplin](#joplin)
-20. [Karing](#karing)
-21. [Keka](#keka)
-22. [KOReader](#koreader)
-23. [LocalSend](#localsend)
-24. [Logseq](#logseq)
-25. [MarkText](#marktext)
-26. [Marp](#marp)
-27. [Modern-CSV](#modern-csv)
-28. [Motrix](#motrix)
-29. [mpv](#mpv)
-30. [Neovim](#neovim)
-31. [OBS](#obs)
-32. [Popcorn-Time](#popcorn-time)
-33. [QuickRecorder](#quickrecorder)
-34. [RunCat365](#runcat365)
-35. [RustDesk](#rustdesk)
-36. [ShareX](#sharex)
-37. [Snippai](#snippai)
-38. [Stats](#stats)
-39. [Sublime-Text](#sublime-text)
-40. [Transnomino](#transnomino)
-41. [Typora](#typora)
-42. [Ulauncher](#ulauncher)
-43. [Utools](#utools)
-44. [Zettlr](#zettlr)
+2. [Animeko](#animeko)
+3. [Audacity](#audacity)
+4. [Better Shot](#better-shot)
+5. [BongoCat](#bongocat)
+6. [Calibre](#calibre)
+7. [Chatbox](#chatbox)
+8. [Cherry Studio](#cherry-studio)
+9. [Chrome](#chrome)
+10. [Clash Nyanpasu](#clash-nyanpasu)
+11. [Clash Verge Rev](#clash-verge-rev)
+12. [CodeEdit](#codeedit)
+13. [Darktable](#darktable)
+14. [DynamicLake-Pro](#dynamiclake-pro)
+15. [Easydict](#easydict)
+16. [File-Converter](#file-converter)
+17. [FlameShot](#flameshot)
+18. [HandBrake](#handbrake)
+19. [Ice](#ice)
+20. [IINA](#iina)
+21. [ImageOptim](#imageoptim)
+22. [iTerm2](#iterm2)
+23. [Joplin](#joplin)
+24. [Karing](#karing)
+25. [Keka](#keka)
+26. [KOReader](#koreader)
+27. [LocalSend](#localsend)
+28. [Logseq](#logseq)
+29. [MarkText](#marktext)
+30. [Marp](#marp)
+31. [Modern-CSV](#modern-csv)
+32. [Motrix](#motrix)
+33. [mpv](#mpv)
+34. [Neovim](#neovim)
+35. [OBS](#obs)
+36. [PicGo](#picgo)
+37. [Popcorn-Time](#popcorn-time)
+38. [QuickRecorder](#quickrecorder)
+39. [RunCat365](#runcat365)
+40. [RustDesk](#rustdesk)
+41. [ShareX](#sharex)
+42. [Snippai](#snippai)
+43. [Stats](#stats)
+44. [Sublime-Text](#sublime-text)
+45. [Transnomino](#transnomino)
+46. [Typora](#typora)
+47. [Ulauncher](#ulauncher)
+48. [uPic](#upic)
+49. [Utools](#utools)
+50. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -183,6 +189,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 多轨音频编辑和录音<br>- 支持多种音频格式导入导出<br>- 丰富的效果和插件支持<br>- 频谱分析和音频可视化<br>- 免费开源，跨平台 |
 | **🏷 分类** | #音频编辑 #录音 #跨平台 #开源软件 #混音
+
+<a id="handbrake"></a>
+## HandBrake
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/handbrake-logo.png" alt="HandBrake Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://handbrake.fr/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 开源视频转码器，将视频从几乎任何格式转换为现代编解码器 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/HandBrake/HandBrake) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种输入格式<br>- 现代编解码器输出<br>- 免费开源<br>- 多平台支持<br>- 社区驱动 |
+| **🏷 分类** | #视频转码 #编解码器 #开源软件 #跨平台 #媒体处理
 
 
 <a id="文件管理与传输"></a>
@@ -350,6 +372,22 @@
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 支持Clash/Mihomo<br>- 现代GUI界面<br>- Tauri框架<br>- 多平台支持<br>- 定制代理体验 |
+| **🏷 分类** | #代理工具 #Clash #GUI客户端 #开源软件 #跨平台
+
+<a id="clash-nyanpasu"></a>
+## Clash Nyanpasu
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/clash-nyanpasu-logo.png" alt="Clash Nyanpasu Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://nyanpasu.elaina.moe/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 基于Tauri的Clash GUI，支持多种代理协议和核心 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/libnyanpasu/clash-nyanpasu) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种代理协议<br>- 基于Tauri构建<br>- 订阅管理<br>- 路由规则<br>- 系统托盘 |
 | **🏷 分类** | #代理工具 #Clash #GUI客户端 #开源软件 #跨平台
 
 
@@ -556,6 +594,22 @@
 | **✨ 亮点** | - 轻松编辑 CSV 文件<br>- 查找和排列 CSV 数据<br>- 跨平台一致性<br>- 隐私保证<br>- 快速查看大型 CSV 文件<br>- 完全可定制的 CSV 编辑器 |
 | **🏷 分类** | #数据分析 #CSV编辑 #跨平台
 
+<a id="easydict"></a>
+## Easydict
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/easydict-logo.png" alt="Easydict Logo" width="120"/> |
+| **🌐 官网** | [点击访问]() |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 简洁优雅的词典翻译macOS App，开箱即用，支持离线OCR识别，支持多种翻译服务 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/tisfeng/Easydict) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/tisfeng/Easydict?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种翻译服务<br>- 离线OCR识别<br>- 开箱即用<br>- 优雅界面<br>- 快捷键支持 |
+| **🏷 分类** | #翻译 #词典 #OCR #macOS #开源软件
+
 
 <a id="笔记、知识与写作管理"></a>
 ## 📝 笔记、知识与写作管理
@@ -740,6 +794,38 @@
 | **✨ 亮点** | - 非破坏性编辑<br>- 专业色彩管理<br>- GPU加速<br>- 数据库管理<br>- 社区驱动 |
 | **🏷 分类** | #摄影 #RAW处理 #图像编辑 #开源软件 #跨平台
 
+<a id="upic"></a>
+## uPic
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/upic-logo.png" alt="uPic Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://blog.svend.cc/upic/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 原生、强大、美观、简单的macOS图片和文件上传工具 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/gee1k/uPic) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/gee1k/uPic?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持多种云服务<br>- Finder扩展<br>- 分享扩展<br>- 批量上传<br>- 自定义域名 |
+| **🏷 分类** | #图片上传 #文件上传 #macOS #开源软件 #云存储
+
+<a id="picgo"></a>
+## PicGo
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/picgo-logo.png" alt="PicGo Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://picgo.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 为高效创作者打造的终极图片上传工具，支持Obsidian、Typora、VS Code等和60+图片托管服务 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/Molunerfinn/PicGo) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持60+托管服务<br>- 插件系统<br>- 剪贴板上传<br>- 批量上传<br>- 编辑器集成 |
+| **🏷 分类** | #图片上传 #图床 #Markdown #开源软件 #跨平台
+
 
 <a id="远程协作与通讯"></a>
 ## 🖥️ 远程协作与通讯
@@ -795,6 +881,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 可爱动画<br>- 直观显示 CPU 使用率 |
 | **🏷 分类** | #趣味工具 #Windows
+
+<a id="animeko"></a>
+## Animeko
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/animeko-logo.png" alt="Animeko Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://animeko.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步，离线缓存 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/open-ani/animeko) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/open-ani/animeko?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 云同步追番进度<br>- 聚合数据源<br>- 弹幕支持<br>- 离线缓存<br>- BitTorrent支持 |
+| **🏷 分类** | #动漫 #追番 #弹幕 #视频播放器 #开源软件 #跨平台
 
 
 <a id="人工智能与机器学习"></a>

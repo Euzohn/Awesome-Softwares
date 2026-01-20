@@ -40,49 +40,55 @@
 ## Software List
 
 1. [Alfred](#alfred)
-2. [Audacity](#audacity)
-3. [Better Shot](#better-shot)
-4. [BongoCat](#bongocat)
-5. [Calibre](#calibre)
-6. [Chatbox](#chatbox)
-7. [Cherry Studio](#cherry-studio)
-8. [Chrome](#chrome)
-9. [Clash Verge Rev](#clash-verge-rev)
-10. [CodeEdit](#codeedit)
-11. [Darktable](#darktable)
-12. [DynamicLake-Pro](#dynamiclake-pro)
-13. [File-Converter](#file-converter)
-14. [FlameShot](#flameshot)
-15. [Ice](#ice)
-16. [IINA](#iina)
-17. [ImageOptim](#imageoptim)
-18. [iTerm2](#iterm2)
-19. [Joplin](#joplin)
-20. [Karing](#karing)
-21. [Keka](#keka)
-22. [KOReader](#koreader)
-23. [LocalSend](#localsend)
-24. [Logseq](#logseq)
-25. [MarkText](#marktext)
-26. [Marp](#marp)
-27. [Modern-CSV](#modern-csv)
-28. [Motrix](#motrix)
-29. [mpv](#mpv)
-30. [Neovim](#neovim)
-31. [OBS](#obs)
-32. [Popcorn-Time](#popcorn-time)
-33. [QuickRecorder](#quickrecorder)
-34. [RunCat365](#runcat365)
-35. [RustDesk](#rustdesk)
-36. [ShareX](#sharex)
-37. [Snippai](#snippai)
-38. [Stats](#stats)
-39. [Sublime-Text](#sublime-text)
-40. [Transnomino](#transnomino)
-41. [Typora](#typora)
-42. [Ulauncher](#ulauncher)
-43. [Utools](#utools)
-44. [Zettlr](#zettlr)
+2. [Animeko](#animeko)
+3. [Audacity](#audacity)
+4. [Better Shot](#better-shot)
+5. [BongoCat](#bongocat)
+6. [Calibre](#calibre)
+7. [Chatbox](#chatbox)
+8. [Cherry Studio](#cherry-studio)
+9. [Chrome](#chrome)
+10. [Clash Nyanpasu](#clash-nyanpasu)
+11. [Clash Verge Rev](#clash-verge-rev)
+12. [CodeEdit](#codeedit)
+13. [Darktable](#darktable)
+14. [DynamicLake-Pro](#dynamiclake-pro)
+15. [Easydict](#easydict)
+16. [File-Converter](#file-converter)
+17. [FlameShot](#flameshot)
+18. [HandBrake](#handbrake)
+19. [Ice](#ice)
+20. [IINA](#iina)
+21. [ImageOptim](#imageoptim)
+22. [iTerm2](#iterm2)
+23. [Joplin](#joplin)
+24. [Karing](#karing)
+25. [Keka](#keka)
+26. [KOReader](#koreader)
+27. [LocalSend](#localsend)
+28. [Logseq](#logseq)
+29. [MarkText](#marktext)
+30. [Marp](#marp)
+31. [Modern-CSV](#modern-csv)
+32. [Motrix](#motrix)
+33. [mpv](#mpv)
+34. [Neovim](#neovim)
+35. [OBS](#obs)
+36. [PicGo](#picgo)
+37. [Popcorn-Time](#popcorn-time)
+38. [QuickRecorder](#quickrecorder)
+39. [RunCat365](#runcat365)
+40. [RustDesk](#rustdesk)
+41. [ShareX](#sharex)
+42. [Snippai](#snippai)
+43. [Stats](#stats)
+44. [Sublime-Text](#sublime-text)
+45. [Transnomino](#transnomino)
+46. [Typora](#typora)
+47. [Ulauncher](#ulauncher)
+48. [uPic](#upic)
+49. [Utools](#utools)
+50. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -183,6 +189,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Multi-track audio editing and recording<br>- Import/export multiple audio formats<br>- Rich effects and plugin support<br>- Spectrogram view and audio analysis<br>- Free and open source, cross-platform |
 | **🏷 Tags** | #Audio Editing #Recording #Cross-platform #Open Source #Mixing
+
+<a id="handbrake"></a>
+## HandBrake
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/handbrake-logo.png" alt="HandBrake Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://handbrake.fr/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Open source video transcoder, convert video from nearly any format to modern codecs |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/HandBrake/HandBrake) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports multiple input formats<br>- Modern codec output<br>- Free and open source<br>- Multi-platform support<br>- Community-driven |
+| **🏷 Tags** | #Video Transcoding #Codec #Open Source #Cross-platform #Media Processing
 
 
 <a id="file-management-&-transfer"></a>
@@ -350,6 +372,22 @@
 | **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Supports Clash/Mihomo<br>- Modern GUI interface<br>- Tauri framework<br>- Multi-platform support<br>- Tailored proxy experience |
+| **🏷 Tags** | #Proxy Tool #Clash #GUI Client #Open Source #Cross-platform
+
+<a id="clash-nyanpasu"></a>
+## Clash Nyanpasu
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/clash-nyanpasu-logo.png" alt="Clash Nyanpasu Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://nyanpasu.elaina.moe/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | An opinionated Clash GUI based on Tauri, supporting multiple proxy protocols and cores |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/libnyanpasu/clash-nyanpasu) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports multiple proxy protocols<br>- Tauri-based<br>- Subscription management<br>- Routing rules<br>- System tray |
 | **🏷 Tags** | #Proxy Tool #Clash #GUI Client #Open Source #Cross-platform
 
 
@@ -556,6 +594,22 @@
 | **✨ Highlights** | - Easy CSV file editing<br>- Find and arrange CSV data<br>- Cross-platform consistency<br>- Privacy guaranteed<br>- Fast viewing of large CSV files<br>- Fully customizable CSV editor |
 | **🏷 Tags** | #Data Analysis #CSV Editor #Cross-platform
 
+<a id="easydict"></a>
+## Easydict
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/easydict-logo.png" alt="Easydict Logo" width="120"/> |
+| **🌐 Website** | [Visit]() |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | A concise and elegant Dictionary and Translator macOS App for looking up words and translating text |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/tisfeng/Easydict) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/tisfeng/Easydict?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports multiple translation services<br>- Offline OCR recognition<br>- Ready to use<br>- Elegant interface<br>- Shortcut support |
+| **🏷 Tags** | #Translation #Dictionary #OCR #macOS #Open Source
+
 
 <a id="notes-&-knowledge"></a>
 ## 📝 Notes & Knowledge
@@ -740,6 +794,38 @@
 | **✨ Highlights** | - Non-destructive editing<br>- Professional color management<br>- GPU acceleration<br>- Database management<br>- Community-driven |
 | **🏷 Tags** | #Photography #RAW Processing #Image Editing #Open Source #Cross-platform
 
+<a id="upic"></a>
+## uPic
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/upic-logo.png" alt="uPic Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://blog.svend.cc/upic/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | A native, powerful, beautiful and simple picture and file upload tool for macOS |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/gee1k/uPic) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/gee1k/uPic?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports multiple cloud services<br>- Finder extension<br>- Share extension<br>- Batch upload<br>- Custom domain |
+| **🏷 Tags** | #Image Upload #File Upload #macOS #Open Source #Cloud Storage
+
+<a id="picgo"></a>
+## PicGo
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/picgo-logo.png" alt="PicGo Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://picgo.app/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/Molunerfinn/PicGo) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports 60+ hosting services<br>- Plugin system<br>- Clipboard upload<br>- Batch upload<br>- Editor integration |
+| **🏷 Tags** | #Image Upload #Image Hosting #Markdown #Open Source #Cross-platform
+
 
 <a id="remote-&-communication"></a>
 ## 🖥️ Remote & Communication
@@ -795,6 +881,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Cute animation<br>- Visual CPU usage indicator |
 | **🏷 Tags** | #Fun Tools #Windows
+
+<a id="animeko"></a>
+## Animeko
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/animeko-logo.png" alt="Animeko Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://animeko.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | One-stop platform for finding, tracking, and watching anime with danmaku, cloud sync, offline caching |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/open-ani/animeko) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/open-ani/animeko?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Cloud sync tracking progress<br>- Aggregated data sources<br>- Danmaku support<br>- Offline caching<br>- BitTorrent support |
+| **🏷 Tags** | #Anime #Anime Tracking #Danmaku #Video Player #Open Source #Cross-platform
 
 
 <a id="ai-&-machine-learning"></a>
