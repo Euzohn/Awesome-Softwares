@@ -47,40 +47,42 @@
 6. [Chatbox](#chatbox)
 7. [Cherry Studio](#cherry-studio)
 8. [Chrome](#chrome)
-9. [CodeEdit](#codeedit)
-10. [Darktable](#darktable)
-11. [DynamicLake-Pro](#dynamiclake-pro)
-12. [File-Converter](#file-converter)
-13. [FlameShot](#flameshot)
-14. [Ice](#ice)
-15. [IINA](#iina)
-16. [ImageOptim](#imageoptim)
-17. [iTerm2](#iterm2)
-18. [Joplin](#joplin)
-19. [Keka](#keka)
-20. [KOReader](#koreader)
-21. [LocalSend](#localsend)
-22. [Logseq](#logseq)
-23. [MarkText](#marktext)
-24. [Marp](#marp)
-25. [Modern-CSV](#modern-csv)
-26. [Motrix](#motrix)
-27. [mpv](#mpv)
-28. [Neovim](#neovim)
-29. [OBS](#obs)
-30. [Popcorn-Time](#popcorn-time)
-31. [QuickRecorder](#quickrecorder)
-32. [RunCat365](#runcat365)
-33. [RustDesk](#rustdesk)
-34. [ShareX](#sharex)
-35. [Snippai](#snippai)
-36. [Stats](#stats)
-37. [Sublime-Text](#sublime-text)
-38. [Transnomino](#transnomino)
-39. [Typora](#typora)
-40. [Ulauncher](#ulauncher)
-41. [Utools](#utools)
-42. [Zettlr](#zettlr)
+9. [Clash Verge Rev](#clash-verge-rev)
+10. [CodeEdit](#codeedit)
+11. [Darktable](#darktable)
+12. [DynamicLake-Pro](#dynamiclake-pro)
+13. [File-Converter](#file-converter)
+14. [FlameShot](#flameshot)
+15. [Ice](#ice)
+16. [IINA](#iina)
+17. [ImageOptim](#imageoptim)
+18. [iTerm2](#iterm2)
+19. [Joplin](#joplin)
+20. [Karing](#karing)
+21. [Keka](#keka)
+22. [KOReader](#koreader)
+23. [LocalSend](#localsend)
+24. [Logseq](#logseq)
+25. [MarkText](#marktext)
+26. [Marp](#marp)
+27. [Modern-CSV](#modern-csv)
+28. [Motrix](#motrix)
+29. [mpv](#mpv)
+30. [Neovim](#neovim)
+31. [OBS](#obs)
+32. [Popcorn-Time](#popcorn-time)
+33. [QuickRecorder](#quickrecorder)
+34. [RunCat365](#runcat365)
+35. [RustDesk](#rustdesk)
+36. [ShareX](#sharex)
+37. [Snippai](#snippai)
+38. [Stats](#stats)
+39. [Sublime-Text](#sublime-text)
+40. [Transnomino](#transnomino)
+41. [Typora](#typora)
+42. [Ulauncher](#ulauncher)
+43. [Utools](#utools)
+44. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -317,6 +319,38 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 随心定制，个性体验随时享<br>- 确保您能安全浏览网页<br>- 线上处理事务的快捷方式 |
 | **🏷 分类** | #浏览器 #跨平台 #免费软件
+
+<a id="karing"></a>
+## Karing
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/karing-logo.png" alt="Karing Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://karing.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 简单强大的代理工具，支持Clash/Sing-box路由规则 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/KaringX/karing) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/KaringX/karing?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持Clash/Sing-box<br>- 多订阅源管理<br>- 自定义路由规则<br>- 跨设备同步<br>- Flutter开发 |
+| **🏷 分类** | #代理工具 #网络工具 #跨平台 #开源软件 #路由规则
+
+<a id="clash-verge-rev"></a>
+## Clash Verge Rev
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/clash-verge-rev-logo.png" alt="Clash Verge Rev Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.clashverge.dev/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 基于Tauri的现代GUI客户端，为Windows、macOS和Linux提供定制代理体验 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持Clash/Mihomo<br>- 现代GUI界面<br>- Tauri框架<br>- 多平台支持<br>- 定制代理体验 |
+| **🏷 分类** | #代理工具 #Clash #GUI客户端 #开源软件 #跨平台
 
 
 <a id="系统工具与优化"></a>

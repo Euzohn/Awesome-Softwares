@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 43431,
+      "stars": 43438,
       "tags": [
         "播放器",
         "macOS",
@@ -49,7 +49,7 @@
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
-      "stars": 10473,
+      "stars": 10474,
       "tags": [
         "播放器",
         "跨平台",
@@ -94,7 +94,7 @@
       "open_source": true,
       "free": true,
       "github": "mpv-player/mpv",
-      "stars": 33659,
+      "stars": 33668,
       "tags": [
         "播放器",
         "跨平台",
@@ -146,7 +146,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 73505,
+      "stars": 73546,
       "tags": [
         "文件传输",
         "跨平台",
@@ -187,7 +187,7 @@
       "open_source": true,
       "free": true,
       "github": "agalwood/Motrix",
-      "stars": 50550,
+      "stars": 50556,
       "tags": [
         "下载管理器",
         "BT",
@@ -231,7 +231,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 6289,
+      "stars": 6292,
       "tags": [
         "文件管理",
         "压缩",
@@ -343,7 +343,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 16811,
+      "stars": 16817,
       "tags": [
         "开发工具",
         "终端",
@@ -465,7 +465,7 @@
       "open_source": true,
       "free": true,
       "github": "rustdesk/rustdesk",
-      "stars": 105991,
+      "stars": 106024,
       "tags": [
         "远程桌面",
         "跨平台",
@@ -510,7 +510,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 69827,
+      "stars": 69840,
       "tags": [
         "音视频处理",
         "直播",
@@ -551,7 +551,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 7850,
+      "stars": 7851,
       "tags": [
         "音视频处理",
         "macOS"
@@ -590,7 +590,7 @@
       "open_source": true,
       "free": true,
       "github": "audacity/audacity",
-      "stars": 16326,
+      "stars": 16328,
       "tags": [
         "音频编辑",
         "录音",
@@ -716,7 +716,7 @@
       "open_source": true,
       "free": true,
       "github": "laurent22/joplin",
-      "stars": 53037,
+      "stars": 53048,
       "tags": [
         "Markdown",
         "笔记",
@@ -768,7 +768,7 @@
       "open_source": true,
       "free": true,
       "github": "logseq/logseq",
-      "stars": 40398,
+      "stars": 40412,
       "tags": [
         "Markdown",
         "知识管理",
@@ -817,7 +817,7 @@
       "open_source": true,
       "free": true,
       "github": "marktext/marktext",
-      "stars": 53318,
+      "stars": 53328,
       "tags": [
         "Markdown",
         "编辑器",
@@ -858,7 +858,7 @@
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
-      "stars": 25450,
+      "stars": 25461,
       "tags": [
         "系统工具",
         "macOS"
@@ -895,7 +895,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 35887,
+      "stars": 35902,
       "tags": [
         "系统工具",
         "macOS"
@@ -967,7 +967,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 9700,
+      "stars": 9701,
       "tags": [
         "图像处理",
         "macOS"
@@ -1090,7 +1090,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 16838,
+      "stars": 16919,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1127,7 +1127,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 9754,
+      "stars": 9764,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1158,7 +1158,7 @@
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
-      "stars": 13391,
+      "stars": 13396,
       "tags": [
         "文件管理",
         "Windows",
@@ -1201,7 +1201,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 1083,
+      "stars": 1133,
       "tags": [
         "截图工具",
         "macOS",
@@ -1246,7 +1246,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35257,
+      "stars": 35265,
       "tags": [
         "截图工具",
         "Windows",
@@ -1287,7 +1287,7 @@
       "open_source": true,
       "free": true,
       "github": "flameshot-org/flameshot",
-      "stars": 28674,
+      "stars": 28676,
       "tags": [
         "截图工具",
         "Linux",
@@ -1332,7 +1332,7 @@
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23417,
+      "stars": 23423,
       "tags": [
         "电子书",
         "Windows",
@@ -1375,7 +1375,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4327,
+      "stars": 4328,
       "tags": [
         "启动器",
         "Linux",
@@ -1419,7 +1419,7 @@
       "free": true,
       "cost": "free",
       "github": "koreader/koreader",
-      "stars": 25032,
+      "stars": 25044,
       "tags": [
         "电子书",
         "阅读器",
@@ -1461,7 +1461,7 @@
       "free": true,
       "cost": "free",
       "github": "neovim/neovim",
-      "stars": 95805,
+      "stars": 95827,
       "tags": [
         "文本编辑器",
         "Vim",
@@ -1505,7 +1505,7 @@
       "free": true,
       "cost": "free",
       "github": "CodeEditApp/CodeEdit",
-      "stars": 22625,
+      "stars": 22628,
       "tags": [
         "代码编辑器",
         "macOS",
@@ -1551,7 +1551,7 @@
       "free": true,
       "cost": "free",
       "github": "Zettlr/Zettlr",
-      "stars": 12423,
+      "stars": 12426,
       "tags": [
         "Markdown",
         "学术写作",
@@ -1597,7 +1597,7 @@
       "free": true,
       "cost": "free",
       "github": "marp-team/marp",
-      "stars": 10254,
+      "stars": 10255,
       "tags": [
         "Markdown",
         "演示",
@@ -1643,7 +1643,7 @@
       "free": true,
       "cost": "free",
       "github": "darktable-org/darktable",
-      "stars": 11903,
+      "stars": 11905,
       "tags": [
         "摄影",
         "RAW处理",
@@ -1689,7 +1689,7 @@
       "free": true,
       "cost": "free",
       "github": "CherryHQ/cherry-studio",
-      "stars": 38000,
+      "stars": 38080,
       "tags": [
         "AI助手",
         "多模型",
@@ -1718,27 +1718,152 @@
         "Document processing",
         "Knowledge base management"
       ],
-       "logo": "./images/cherry-studio-logo.png"
-     },
-     {
-       "name": "Chatbox",
-       "description": "强大的AI客户端，支持多种AI模型和API，兼容众多前沿AI模型",
-       "description_en": "Powerful AI client compatible with many cutting-edge AI models and APIs",
-       "website": "https://chatboxai.app/",
-       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS", "Web"],
-       "category": "人工智能与机器学习",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "chatboxai/chatbox",
-       "stars": 38200,
-       "tags": ["AI客户端", "多模型", "聊天助手", "开源软件", "跨平台"],
-       "tags_en": ["AI Client", "Multi-model", "Chat Assistant", "Open Source", "Cross-platform"],
-       "highlights": ["支持文档和图像聊天", "代码生成和预览", "实时网络搜索", "数据可视化", "多平台支持"],
-       "highlights_en": ["Chat with documents & images", "Code generation & preview", "Real-time web search", "Data visualization", "Multi-platform support"],
-       "logo": "./images/chatbox-logo.png"
-     }
-   ],
+      "logo": "./images/cherry-studio-logo.png"
+    },
+    {
+      "name": "Chatbox",
+      "description": "强大的AI客户端，支持多种AI模型和API，兼容众多前沿AI模型",
+      "description_en": "Powerful AI client compatible with many cutting-edge AI models and APIs",
+      "website": "https://chatboxai.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS",
+        "Web"
+      ],
+      "category": "人工智能与机器学习",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "chatboxai/chatbox",
+      "stars": 38198,
+      "tags": [
+        "AI客户端",
+        "多模型",
+        "聊天助手",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "AI Client",
+        "Multi-model",
+        "Chat Assistant",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持文档和图像聊天",
+        "代码生成和预览",
+        "实时网络搜索",
+        "数据可视化",
+        "多平台支持"
+      ],
+      "highlights_en": [
+        "Chat with documents & images",
+        "Code generation & preview",
+        "Real-time web search",
+        "Data visualization",
+        "Multi-platform support"
+      ],
+      "logo": "./images/chatbox-logo.png"
+    },
+    {
+      "name": "Karing",
+      "description": "简单强大的代理工具，支持Clash/Sing-box路由规则",
+      "description_en": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
+      "website": "https://karing.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "category": "网络工具与浏览器",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "KaringX/karing",
+      "stars": 9185,
+      "tags": [
+        "代理工具",
+        "网络工具",
+        "跨平台",
+        "开源软件",
+        "路由规则"
+      ],
+      "tags_en": [
+        "Proxy Utility",
+        "Network Tool",
+        "Cross-platform",
+        "Open Source",
+        "Routing Rules"
+      ],
+      "highlights": [
+        "支持Clash/Sing-box",
+        "多订阅源管理",
+        "自定义路由规则",
+        "跨设备同步",
+        "Flutter开发"
+      ],
+      "highlights_en": [
+        "Supports Clash/Sing-box",
+        "Multi-subscription management",
+        "Custom routing rules",
+        "Cross-device sync",
+        "Flutter-based"
+      ],
+      "logo": "./images/karing-logo.png"
+    },
+    {
+      "name": "Clash Verge Rev",
+      "description": "基于Tauri的现代GUI客户端，为Windows、macOS和Linux提供定制代理体验",
+      "description_en": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "website": "https://www.clashverge.dev/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "网络工具与浏览器",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "clash-verge-rev/clash-verge-rev",
+      "stars": 93127,
+      "tags": [
+        "代理工具",
+        "Clash",
+        "GUI客户端",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Proxy Tool",
+        "Clash",
+        "GUI Client",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持Clash/Mihomo",
+        "现代GUI界面",
+        "Tauri框架",
+        "多平台支持",
+        "定制代理体验"
+      ],
+      "highlights_en": [
+        "Supports Clash/Mihomo",
+        "Modern GUI interface",
+        "Tauri framework",
+        "Multi-platform support",
+        "Tailored proxy experience"
+      ],
+      "logo": "./images/clash-verge-rev-logo.png"
+    }
+  ],
   "categories": [
     {
       "id": "多媒体与音视频",

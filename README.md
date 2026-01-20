@@ -47,40 +47,42 @@
 6. [Chatbox](#chatbox)
 7. [Cherry Studio](#cherry-studio)
 8. [Chrome](#chrome)
-9. [CodeEdit](#codeedit)
-10. [Darktable](#darktable)
-11. [DynamicLake-Pro](#dynamiclake-pro)
-12. [File-Converter](#file-converter)
-13. [FlameShot](#flameshot)
-14. [Ice](#ice)
-15. [IINA](#iina)
-16. [ImageOptim](#imageoptim)
-17. [iTerm2](#iterm2)
-18. [Joplin](#joplin)
-19. [Keka](#keka)
-20. [KOReader](#koreader)
-21. [LocalSend](#localsend)
-22. [Logseq](#logseq)
-23. [MarkText](#marktext)
-24. [Marp](#marp)
-25. [Modern-CSV](#modern-csv)
-26. [Motrix](#motrix)
-27. [mpv](#mpv)
-28. [Neovim](#neovim)
-29. [OBS](#obs)
-30. [Popcorn-Time](#popcorn-time)
-31. [QuickRecorder](#quickrecorder)
-32. [RunCat365](#runcat365)
-33. [RustDesk](#rustdesk)
-34. [ShareX](#sharex)
-35. [Snippai](#snippai)
-36. [Stats](#stats)
-37. [Sublime-Text](#sublime-text)
-38. [Transnomino](#transnomino)
-39. [Typora](#typora)
-40. [Ulauncher](#ulauncher)
-41. [Utools](#utools)
-42. [Zettlr](#zettlr)
+9. [Clash Verge Rev](#clash-verge-rev)
+10. [CodeEdit](#codeedit)
+11. [Darktable](#darktable)
+12. [DynamicLake-Pro](#dynamiclake-pro)
+13. [File-Converter](#file-converter)
+14. [FlameShot](#flameshot)
+15. [Ice](#ice)
+16. [IINA](#iina)
+17. [ImageOptim](#imageoptim)
+18. [iTerm2](#iterm2)
+19. [Joplin](#joplin)
+20. [Karing](#karing)
+21. [Keka](#keka)
+22. [KOReader](#koreader)
+23. [LocalSend](#localsend)
+24. [Logseq](#logseq)
+25. [MarkText](#marktext)
+26. [Marp](#marp)
+27. [Modern-CSV](#modern-csv)
+28. [Motrix](#motrix)
+29. [mpv](#mpv)
+30. [Neovim](#neovim)
+31. [OBS](#obs)
+32. [Popcorn-Time](#popcorn-time)
+33. [QuickRecorder](#quickrecorder)
+34. [RunCat365](#runcat365)
+35. [RustDesk](#rustdesk)
+36. [ShareX](#sharex)
+37. [Snippai](#snippai)
+38. [Stats](#stats)
+39. [Sublime-Text](#sublime-text)
+40. [Transnomino](#transnomino)
+41. [Typora](#typora)
+42. [Ulauncher](#ulauncher)
+43. [Utools](#utools)
+44. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -317,6 +319,38 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Customize for a personalized experience<br>- Safe and secure web browsing<br>- Fast way to get things done online |
 | **🏷 Tags** | #Browser #Cross-platform #Freeware
+
+<a id="karing"></a>
+## Karing
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/karing-logo.png" alt="Karing Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://karing.app/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Simple & Powerful proxy utility, Support routing rules for clash/sing-box |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/KaringX/karing) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/KaringX/karing?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports Clash/Sing-box<br>- Multi-subscription management<br>- Custom routing rules<br>- Cross-device sync<br>- Flutter-based |
+| **🏷 Tags** | #Proxy Utility #Network Tool #Cross-platform #Open Source #Routing Rules
+
+<a id="clash-verge-rev"></a>
+## Clash Verge Rev
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/clash-verge-rev-logo.png" alt="Clash Verge Rev Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.clashverge.dev/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports Clash/Mihomo<br>- Modern GUI interface<br>- Tauri framework<br>- Multi-platform support<br>- Tailored proxy experience |
+| **🏷 Tags** | #Proxy Tool #Clash #GUI Client #Open Source #Cross-platform
 
 
 <a id="system-utilities-&-optimization"></a>
