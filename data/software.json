@@ -1957,7 +1957,7 @@
        "name": "Easydict",
        "description": "简洁优雅的词典翻译macOS App，开箱即用，支持离线OCR识别，支持多种翻译服务",
        "description_en": "A concise and elegant Dictionary and Translator macOS App for looking up words and translating text",
-       "website": "",
+        "website": "https://github.com/tisfeng/Easydict",
        "platforms": ["macOS"],
        "category": "办公与生产力",
        "open_source": true,

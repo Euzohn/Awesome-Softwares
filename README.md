@@ -600,7 +600,7 @@
 | Item | Details |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🖼 Logo** | <img src="./images/easydict-logo.png" alt="Easydict Logo" width="120"/> |
-| **🌐 Website** | [Visit]() |
+| **🌐 Website** | [Visit](https://github.com/tisfeng/Easydict) |
 | **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 Description** | A concise and elegant Dictionary and Translator macOS App for looking up words and translating text |
 | **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |

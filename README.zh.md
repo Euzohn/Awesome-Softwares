@@ -600,7 +600,7 @@
 | 信息项 | 详情 |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🖼 Logo** | <img src="./images/easydict-logo.png" alt="Easydict Logo" width="120"/> |
-| **🌐 官网** | [点击访问]() |
+| **🌐 官网** | [点击访问](https://github.com/tisfeng/Easydict) |
 | **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
 | **🛠 功能用途** | 简洁优雅的词典翻译macOS App，开箱即用，支持离线OCR识别，支持多种翻译服务 |
 | **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
