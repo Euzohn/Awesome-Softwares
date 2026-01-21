@@ -68,29 +68,30 @@
 27. [Launchy](#launchy)
 28. [LocalSend](#localsend)
 29. [Logseq](#logseq)
-30. [MarkText](#marktext)
-31. [Marp](#marp)
-32. [Modern-CSV](#modern-csv)
-33. [Motrix](#motrix)
-34. [mpv](#mpv)
-35. [Neovim](#neovim)
-36. [OBS](#obs)
-37. [PicGo](#picgo)
-38. [Popcorn-Time](#popcorn-time)
-39. [QuickRecorder](#quickrecorder)
-40. [RunCat365](#runcat365)
-41. [RustDesk](#rustdesk)
-42. [ShareX](#sharex)
-43. [Snippai](#snippai)
-44. [Stats](#stats)
-45. [Sublime-Text](#sublime-text)
-46. [Transnomino](#transnomino)
-47. [Typora](#typora)
-48. [Ulauncher](#ulauncher)
-49. [uPic](#upic)
-50. [Utools](#utools)
-51. [Zen Browser](#zen-browser)
-52. [Zettlr](#zettlr)
+30. [Mac Mouse Fix](#mac-mouse-fix)
+31. [MarkText](#marktext)
+32. [Marp](#marp)
+33. [Modern-CSV](#modern-csv)
+34. [Motrix](#motrix)
+35. [mpv](#mpv)
+36. [Neovim](#neovim)
+37. [OBS](#obs)
+38. [PicGo](#picgo)
+39. [Popcorn-Time](#popcorn-time)
+40. [QuickRecorder](#quickrecorder)
+41. [RunCat365](#runcat365)
+42. [RustDesk](#rustdesk)
+43. [ShareX](#sharex)
+44. [Snippai](#snippai)
+45. [Stats](#stats)
+46. [Sublime-Text](#sublime-text)
+47. [Transnomino](#transnomino)
+48. [Typora](#typora)
+49. [Ulauncher](#ulauncher)
+50. [uPic](#upic)
+51. [Utools](#utools)
+52. [Zen Browser](#zen-browser)
+53. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -475,6 +476,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Fullscreen mode mirrors classic Launchpad experience<br>- Floaty mode serves as HUD for quick toggles<br>- Bilingual smart search with keyboard controls<br>- Right-click menus for renaming, hiding, and folder management<br>- Hot corners and global shortcuts support |
 | **🏷 Tags** | #Launcher #macOS #Open Source #Freeware
+
+<a id="mac-mouse-fix"></a>
+## Mac Mouse Fix
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/mac-mouse-fix-logo.png" alt="Mac Mouse Fix Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://macmousefix.com/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Make Your $10 Mouse Better Than an Apple Trackpad! |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/noah-nuebling/mac-mouse-fix) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix?style=social) |
+| **💰 Cost** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ Highlights** | - Trackpad gestures including Mission Control, App Exposé<br>- Smooth scrolling algorithm for buttery smooth experience<br>- 360° precise scrolling and smart zoom<br>- Customizable mouse button actions and keyboard shortcuts<br>- Open source with 30-day free trial |
+| **🏷 Tags** | #Mouse Enhancement #System Tools #macOS #Open Source
 
 <a id="ulauncher"></a>
 ## Ulauncher

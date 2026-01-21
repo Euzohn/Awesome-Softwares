@@ -68,29 +68,30 @@
 27. [Launchy](#launchy)
 28. [LocalSend](#localsend)
 29. [Logseq](#logseq)
-30. [MarkText](#marktext)
-31. [Marp](#marp)
-32. [Modern-CSV](#modern-csv)
-33. [Motrix](#motrix)
-34. [mpv](#mpv)
-35. [Neovim](#neovim)
-36. [OBS](#obs)
-37. [PicGo](#picgo)
-38. [Popcorn-Time](#popcorn-time)
-39. [QuickRecorder](#quickrecorder)
-40. [RunCat365](#runcat365)
-41. [RustDesk](#rustdesk)
-42. [ShareX](#sharex)
-43. [Snippai](#snippai)
-44. [Stats](#stats)
-45. [Sublime-Text](#sublime-text)
-46. [Transnomino](#transnomino)
-47. [Typora](#typora)
-48. [Ulauncher](#ulauncher)
-49. [uPic](#upic)
-50. [Utools](#utools)
-51. [Zen Browser](#zen-browser)
-52. [Zettlr](#zettlr)
+30. [Mac Mouse Fix](#mac-mouse-fix)
+31. [MarkText](#marktext)
+32. [Marp](#marp)
+33. [Modern-CSV](#modern-csv)
+34. [Motrix](#motrix)
+35. [mpv](#mpv)
+36. [Neovim](#neovim)
+37. [OBS](#obs)
+38. [PicGo](#picgo)
+39. [Popcorn-Time](#popcorn-time)
+40. [QuickRecorder](#quickrecorder)
+41. [RunCat365](#runcat365)
+42. [RustDesk](#rustdesk)
+43. [ShareX](#sharex)
+44. [Snippai](#snippai)
+45. [Stats](#stats)
+46. [Sublime-Text](#sublime-text)
+47. [Transnomino](#transnomino)
+48. [Typora](#typora)
+49. [Ulauncher](#ulauncher)
+50. [uPic](#upic)
+51. [Utools](#utools)
+52. [Zen Browser](#zen-browser)
+53. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -475,6 +476,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 全屏模式复现经典Launchpad体验<br>- 浮动模式作为HUD快速切换<br>- 双语智能搜索和键盘控制<br>- 右键菜单支持重命名、隐藏和文件夹管理<br>- 支持热角和全局快捷键 |
 | **🏷 分类** | #启动器 #macOS #开源软件 #免费软件
+
+<a id="mac-mouse-fix"></a>
+## Mac Mouse Fix
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/mac-mouse-fix-logo.png" alt="Mac Mouse Fix Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://macmousefix.com/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 让第三方鼠标拥有Apple Trackpad的所有功能，包括手势、平滑滚动等 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/noah-nuebling/mac-mouse-fix) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix?style=social) |
+| **💰 是否免费** | ![Paid](https://img.shields.io/badge/Cost-Paid-red) |
+| **✨ 亮点** | - Trackpad手势支持，包括Mission Control、App Exposé等<br>- 平滑滚动算法，让滚动如丝般顺滑<br>- 360°精确滚动和智能缩放<br>- 自定义鼠标按钮动作和键盘快捷键<br>- 开源免费试用30天 |
+| **🏷 分类** | #鼠标增强 #系统工具 #macOS #开源软件
 
 <a id="ulauncher"></a>
 ## Ulauncher

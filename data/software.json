@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 43438,
+      "stars": 43452,
       "tags": [
         "播放器",
         "macOS",
@@ -49,7 +49,7 @@
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
-      "stars": 10474,
+      "stars": 10473,
       "tags": [
         "播放器",
         "跨平台",
@@ -94,7 +94,7 @@
       "open_source": true,
       "free": true,
       "github": "mpv-player/mpv",
-      "stars": 33668,
+      "stars": 33681,
       "tags": [
         "播放器",
         "跨平台",
@@ -146,7 +146,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 73546,
+      "stars": 73593,
       "tags": [
         "文件传输",
         "跨平台",
@@ -187,7 +187,7 @@
       "open_source": true,
       "free": true,
       "github": "agalwood/Motrix",
-      "stars": 50556,
+      "stars": 50570,
       "tags": [
         "下载管理器",
         "BT",
@@ -231,7 +231,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 6292,
+      "stars": 6296,
       "tags": [
         "文件管理",
         "压缩",
@@ -343,7 +343,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 16817,
+      "stars": 16822,
       "tags": [
         "开发工具",
         "终端",
@@ -465,7 +465,7 @@
       "open_source": true,
       "free": true,
       "github": "rustdesk/rustdesk",
-      "stars": 106024,
+      "stars": 106074,
       "tags": [
         "远程桌面",
         "跨平台",
@@ -510,7 +510,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 69840,
+      "stars": 69854,
       "tags": [
         "音视频处理",
         "直播",
@@ -551,7 +551,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 7851,
+      "stars": 7856,
       "tags": [
         "音视频处理",
         "macOS"
@@ -590,7 +590,7 @@
       "open_source": true,
       "free": true,
       "github": "audacity/audacity",
-      "stars": 16328,
+      "stars": 16341,
       "tags": [
         "音频编辑",
         "录音",
@@ -716,7 +716,7 @@
       "open_source": true,
       "free": true,
       "github": "laurent22/joplin",
-      "stars": 53048,
+      "stars": 53060,
       "tags": [
         "Markdown",
         "笔记",
@@ -768,7 +768,7 @@
       "open_source": true,
       "free": true,
       "github": "logseq/logseq",
-      "stars": 40412,
+      "stars": 40439,
       "tags": [
         "Markdown",
         "知识管理",
@@ -817,7 +817,7 @@
       "open_source": true,
       "free": true,
       "github": "marktext/marktext",
-      "stars": 53328,
+      "stars": 53344,
       "tags": [
         "Markdown",
         "编辑器",
@@ -895,7 +895,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 35902,
+      "stars": 35920,
       "tags": [
         "系统工具",
         "macOS"
@@ -967,7 +967,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 9701,
+      "stars": 9703,
       "tags": [
         "图像处理",
         "macOS"
@@ -1002,7 +1002,7 @@
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
-      "stars": 1443,
+      "stars": 1444,
       "tags": [
         "截图工具",
         "跨平台",
@@ -1076,51 +1076,51 @@
       ],
       "logo": "./images/chrome-logo-m100.svg"
     },
-     {
-       "name": "Zen Browser",
-       "description": "基于 Firefox 的浏览器，专注于生产力和隐私保护",
-       "description_en": "A Firefox-based browser focused on productivity and privacy",
-       "website": "https://zen-browser.app/",
-       "platforms": [
-         "Windows",
-         "macOS",
-         "Linux"
-       ],
-       "category": "网络工具与浏览器",
-       "open_source": true,
-       "free": true,
-       "github": "zen-browser/desktop",
-       "stars": 39600,
-       "tags": [
-         "浏览器",
-         "生产力工具",
-         "隐私保护",
-         "开源软件",
-         "跨平台"
-       ],
-       "tags_en": [
-         "Browser",
-         "Productivity",
-         "Privacy",
-         "Open Source",
-         "Cross-platform"
-       ],
-       "highlights": [
-         "工作区管理，保持项目分离",
-         "紧凑模式，提供更多屏幕空间",
-         "快速切换常用标签页",
-         "分屏视图，方便比较内容",
-         "注重隐私和用户体验"
-       ],
-       "highlights_en": [
-         "Workspaces to organize tabs and projects",
-         "Compact mode for more screen real estate",
-         "Quick switching between frequently used tabs",
-         "Split view for side-by-side browsing",
-         "Privacy-focused with beautiful design"
-       ],
-       "logo": "./images/zen-browser-logo.svg"
-     },
+    {
+      "name": "Zen Browser",
+      "description": "基于 Firefox 的浏览器，专注于生产力和隐私保护",
+      "description_en": "A Firefox-based browser focused on productivity and privacy",
+      "website": "https://zen-browser.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "网络工具与浏览器",
+      "open_source": true,
+      "free": true,
+      "github": "zen-browser/desktop",
+      "stars": 39638,
+      "tags": [
+        "浏览器",
+        "生产力工具",
+        "隐私保护",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Browser",
+        "Productivity",
+        "Privacy",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "工作区管理，保持项目分离",
+        "紧凑模式，提供更多屏幕空间",
+        "快速切换常用标签页",
+        "分屏视图，方便比较内容",
+        "注重隐私和用户体验"
+      ],
+      "highlights_en": [
+        "Workspaces to organize tabs and projects",
+        "Compact mode for more screen real estate",
+        "Quick switching between frequently used tabs",
+        "Split view for side-by-side browsing",
+        "Privacy-focused with beautiful design"
+      ],
+      "logo": "./images/zen-browser-logo.svg"
+    },
     {
       "name": "BongoCat",
       "description": "跨平台桌宠，为桌面增添乐趣",
@@ -1135,7 +1135,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 16919,
+      "stars": 17031,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1172,7 +1172,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 9764,
+      "stars": 9775,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1203,7 +1203,7 @@
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
-      "stars": 13396,
+      "stars": 13405,
       "tags": [
         "文件管理",
         "Windows",
@@ -1246,7 +1246,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 1133,
+      "stars": 1196,
       "tags": [
         "截图工具",
         "macOS",
@@ -1291,7 +1291,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35265,
+      "stars": 35285,
       "tags": [
         "截图工具",
         "Windows",
@@ -1377,7 +1377,7 @@
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23423,
+      "stars": 23431,
       "tags": [
         "电子书",
         "Windows",
@@ -1407,50 +1407,92 @@
         "Library management"
       ],
       "logo": "https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png"
-     },
-     {
-       "name": "Launchy",
-       "description": "macOS Launchpad 开源替代品，提供全屏和浮动模式",
-       "description_en": "Open-source Launchpad alternative for macOS with fullscreen and floaty modes",
-       "website": "https://launchy.space/",
-       "platforms": [
-         "macOS"
-       ],
-       "category": "系统工具与优化",
-       "open_source": true,
-       "free": true,
-       "github": "Punshnut/macos-launchy",
-       "stars": 61,
-       "tags": [
-         "启动器",
-         "macOS",
-         "开源软件",
-         "免费软件"
-       ],
-       "tags_en": [
-         "Launcher",
-         "macOS",
-         "Open Source",
-         "Freeware"
-       ],
-       "highlights": [
-         "全屏模式复现经典Launchpad体验",
-         "浮动模式作为HUD快速切换",
-         "双语智能搜索和键盘控制",
-         "右键菜单支持重命名、隐藏和文件夹管理",
-         "支持热角和全局快捷键"
-       ],
-       "highlights_en": [
-         "Fullscreen mode mirrors classic Launchpad experience",
-         "Floaty mode serves as HUD for quick toggles",
-         "Bilingual smart search with keyboard controls",
-         "Right-click menus for renaming, hiding, and folder management",
-         "Hot corners and global shortcuts support"
-       ],
-       "logo": "./images/launchy-logo.png"
-     },
-     {
-       "name": "Ulauncher",
+    },
+    {
+      "name": "Launchy",
+      "description": "macOS Launchpad 开源替代品，提供全屏和浮动模式",
+      "description_en": "Open-source Launchpad alternative for macOS with fullscreen and floaty modes",
+      "website": "https://launchy.space/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "系统工具与优化",
+      "open_source": true,
+      "free": true,
+      "github": "Punshnut/macos-launchy",
+      "stars": 61,
+      "tags": [
+        "启动器",
+        "macOS",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Launcher",
+        "macOS",
+        "Open Source",
+        "Freeware"
+      ],
+      "highlights": [
+        "全屏模式复现经典Launchpad体验",
+        "浮动模式作为HUD快速切换",
+        "双语智能搜索和键盘控制",
+        "右键菜单支持重命名、隐藏和文件夹管理",
+        "支持热角和全局快捷键"
+      ],
+      "highlights_en": [
+        "Fullscreen mode mirrors classic Launchpad experience",
+        "Floaty mode serves as HUD for quick toggles",
+        "Bilingual smart search with keyboard controls",
+        "Right-click menus for renaming, hiding, and folder management",
+        "Hot corners and global shortcuts support"
+      ],
+      "logo": "./images/launchy-logo.png"
+    },
+    {
+      "name": "Mac Mouse Fix",
+      "description": "让第三方鼠标拥有Apple Trackpad的所有功能，包括手势、平滑滚动等",
+      "description_en": "Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "website": "https://macmousefix.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "系统工具与优化",
+      "open_source": true,
+      "free": false,
+      "price": "$2.99",
+      "github": "noah-nuebling/mac-mouse-fix",
+      "stars": 8955,
+      "tags": [
+        "鼠标增强",
+        "系统工具",
+        "macOS",
+        "开源软件"
+      ],
+      "tags_en": [
+        "Mouse Enhancement",
+        "System Tools",
+        "macOS",
+        "Open Source"
+      ],
+      "highlights": [
+        "Trackpad手势支持，包括Mission Control、App Exposé等",
+        "平滑滚动算法，让滚动如丝般顺滑",
+        "360°精确滚动和智能缩放",
+        "自定义鼠标按钮动作和键盘快捷键",
+        "开源免费试用30天"
+      ],
+      "highlights_en": [
+        "Trackpad gestures including Mission Control, App Exposé",
+        "Smooth scrolling algorithm for buttery smooth experience",
+        "360° precise scrolling and smart zoom",
+        "Customizable mouse button actions and keyboard shortcuts",
+        "Open source with 30-day free trial"
+      ],
+      "logo": "./images/mac-mouse-fix-logo.png"
+    },
+    {
+      "name": "Ulauncher",
       "description": "功能丰富的 Linux 应用程序启动器",
       "description_en": "Feature rich application Launcher for Linux",
       "website": "https://ulauncher.io/",
@@ -1461,7 +1503,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4328,
+      "stars": 4330,
       "tags": [
         "启动器",
         "Linux",
@@ -1505,7 +1547,7 @@
       "free": true,
       "cost": "free",
       "github": "koreader/koreader",
-      "stars": 25044,
+      "stars": 25055,
       "tags": [
         "电子书",
         "阅读器",
@@ -1547,7 +1589,7 @@
       "free": true,
       "cost": "free",
       "github": "neovim/neovim",
-      "stars": 95827,
+      "stars": 95849,
       "tags": [
         "文本编辑器",
         "Vim",
@@ -1637,7 +1679,7 @@
       "free": true,
       "cost": "free",
       "github": "Zettlr/Zettlr",
-      "stars": 12426,
+      "stars": 12433,
       "tags": [
         "Markdown",
         "学术写作",
@@ -1683,7 +1725,7 @@
       "free": true,
       "cost": "free",
       "github": "marp-team/marp",
-      "stars": 10255,
+      "stars": 10261,
       "tags": [
         "Markdown",
         "演示",
@@ -1729,7 +1771,7 @@
       "free": true,
       "cost": "free",
       "github": "darktable-org/darktable",
-      "stars": 11905,
+      "stars": 11910,
       "tags": [
         "摄影",
         "RAW处理",
@@ -1775,7 +1817,7 @@
       "free": true,
       "cost": "free",
       "github": "CherryHQ/cherry-studio",
-      "stars": 38080,
+      "stars": 38128,
       "tags": [
         "AI助手",
         "多模型",
@@ -1824,7 +1866,7 @@
       "free": true,
       "cost": "free",
       "github": "chatboxai/chatbox",
-      "stars": 38198,
+      "stars": 38208,
       "tags": [
         "AI客户端",
         "多模型",
@@ -1872,7 +1914,7 @@
       "free": true,
       "cost": "free",
       "github": "KaringX/karing",
-      "stars": 9185,
+      "stars": 9202,
       "tags": [
         "代理工具",
         "网络工具",
@@ -1918,7 +1960,7 @@
       "free": true,
       "cost": "free",
       "github": "clash-verge-rev/clash-verge-rev",
-      "stars": 93127,
+      "stars": 93315,
       "tags": [
         "代理工具",
         "Clash",
@@ -1947,117 +1989,285 @@
         "Multi-platform support",
         "Tailored proxy experience"
       ],
-       "logo": "./images/clash-verge-rev-logo.png"
-     },
-     {
-       "name": "HandBrake",
-       "description": "开源视频转码器，将视频从几乎任何格式转换为现代编解码器",
-       "description_en": "Open source video transcoder, convert video from nearly any format to modern codecs",
-       "website": "https://handbrake.fr/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "多媒体与音视频",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "HandBrake/HandBrake",
-       "stars": 22200,
-       "tags": ["视频转码", "编解码器", "开源软件", "跨平台", "媒体处理"],
-       "tags_en": ["Video Transcoding", "Codec", "Open Source", "Cross-platform", "Media Processing"],
-       "highlights": ["支持多种输入格式", "现代编解码器输出", "免费开源", "多平台支持", "社区驱动"],
-       "highlights_en": ["Supports multiple input formats", "Modern codec output", "Free and open source", "Multi-platform support", "Community-driven"],
-       "logo": "./images/handbrake-logo.png"
-     },
-     {
-       "name": "Clash Nyanpasu",
-       "description": "基于Tauri的Clash GUI，支持多种代理协议和核心",
-       "description_en": "An opinionated Clash GUI based on Tauri, supporting multiple proxy protocols and cores",
-       "website": "https://nyanpasu.elaina.moe/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "网络工具与浏览器",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "libnyanpasu/clash-nyanpasu",
-       "stars": 12600,
-       "tags": ["代理工具", "Clash", "GUI客户端", "开源软件", "跨平台"],
-       "tags_en": ["Proxy Tool", "Clash", "GUI Client", "Open Source", "Cross-platform"],
-       "highlights": ["支持多种代理协议", "基于Tauri构建", "订阅管理", "路由规则", "系统托盘"],
-       "highlights_en": ["Supports multiple proxy protocols", "Tauri-based", "Subscription management", "Routing rules", "System tray"],
-       "logo": "./images/clash-nyanpasu-logo.png"
-     },
-     {
-       "name": "Animeko",
-       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步，离线缓存",
-       "description_en": "One-stop platform for finding, tracking, and watching anime with danmaku, cloud sync, offline caching",
-       "website": "https://animeko.org/",
-       "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
-       "category": "娱乐与趣味",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "open-ani/animeko",
-       "stars": 13100,
-       "tags": ["动漫", "追番", "弹幕", "视频播放器", "开源软件", "跨平台"],
-       "tags_en": ["Anime", "Anime Tracking", "Danmaku", "Video Player", "Open Source", "Cross-platform"],
-       "highlights": ["云同步追番进度", "聚合数据源", "弹幕支持", "离线缓存", "BitTorrent支持"],
-       "highlights_en": ["Cloud sync tracking progress", "Aggregated data sources", "Danmaku support", "Offline caching", "BitTorrent support"],
-       "logo": "./images/animeko-logo.png"
-     },
-     {
-       "name": "uPic",
-       "description": "原生、强大、美观、简单的macOS图片和文件上传工具",
-       "description_en": "A native, powerful, beautiful and simple picture and file upload tool for macOS",
-       "website": "https://blog.svend.cc/upic/",
-       "platforms": ["macOS"],
-       "category": "设计与图像处理",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "gee1k/uPic",
-       "stars": 3700,
-       "tags": ["图片上传", "文件上传", "macOS", "开源软件", "云存储"],
-       "tags_en": ["Image Upload", "File Upload", "macOS", "Open Source", "Cloud Storage"],
-       "highlights": ["支持多种云服务", "Finder扩展", "分享扩展", "批量上传", "自定义域名"],
-       "highlights_en": ["Supports multiple cloud services", "Finder extension", "Share extension", "Batch upload", "Custom domain"],
-       "logo": "./images/upic-logo.png"
-     },
-     {
-       "name": "PicGo",
-       "description": "为高效创作者打造的终极图片上传工具，支持Obsidian、Typora、VS Code等和60+图片托管服务",
-       "description_en": "The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services",
-       "website": "https://picgo.app/",
-       "platforms": ["Windows", "macOS", "Linux"],
-       "category": "设计与图像处理",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "Molunerfinn/PicGo",
-       "stars": 26200,
-       "tags": ["图片上传", "图床", "Markdown", "开源软件", "跨平台"],
-       "tags_en": ["Image Upload", "Image Hosting", "Markdown", "Open Source", "Cross-platform"],
-       "highlights": ["支持60+托管服务", "插件系统", "剪贴板上传", "批量上传", "编辑器集成"],
-       "highlights_en": ["Supports 60+ hosting services", "Plugin system", "Clipboard upload", "Batch upload", "Editor integration"],
-       "logo": "./images/picgo-logo.png"
-     },
-     {
-       "name": "Easydict",
-       "description": "简洁优雅的词典翻译macOS App，开箱即用，支持离线OCR识别，支持多种翻译服务",
-       "description_en": "A concise and elegant Dictionary and Translator macOS App for looking up words and translating text",
-        "website": "https://github.com/tisfeng/Easydict",
-       "platforms": ["macOS"],
-       "category": "办公与生产力",
-       "open_source": true,
-       "free": true,
-       "cost": "free",
-       "github": "tisfeng/Easydict",
-       "stars": 11900,
-       "tags": ["翻译", "词典", "OCR", "macOS", "开源软件"],
-       "tags_en": ["Translation", "Dictionary", "OCR", "macOS", "Open Source"],
-       "highlights": ["支持多种翻译服务", "离线OCR识别", "开箱即用", "优雅界面", "快捷键支持"],
-       "highlights_en": ["Supports multiple translation services", "Offline OCR recognition", "Ready to use", "Elegant interface", "Shortcut support"],
-       "logo": "./images/easydict-logo.png"
-     }
-   ],
+      "logo": "./images/clash-verge-rev-logo.png"
+    },
+    {
+      "name": "HandBrake",
+      "description": "开源视频转码器，将视频从几乎任何格式转换为现代编解码器",
+      "description_en": "Open source video transcoder, convert video from nearly any format to modern codecs",
+      "website": "https://handbrake.fr/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "HandBrake/HandBrake",
+      "stars": 22167,
+      "tags": [
+        "视频转码",
+        "编解码器",
+        "开源软件",
+        "跨平台",
+        "媒体处理"
+      ],
+      "tags_en": [
+        "Video Transcoding",
+        "Codec",
+        "Open Source",
+        "Cross-platform",
+        "Media Processing"
+      ],
+      "highlights": [
+        "支持多种输入格式",
+        "现代编解码器输出",
+        "免费开源",
+        "多平台支持",
+        "社区驱动"
+      ],
+      "highlights_en": [
+        "Supports multiple input formats",
+        "Modern codec output",
+        "Free and open source",
+        "Multi-platform support",
+        "Community-driven"
+      ],
+      "logo": "./images/handbrake-logo.png"
+    },
+    {
+      "name": "Clash Nyanpasu",
+      "description": "基于Tauri的Clash GUI，支持多种代理协议和核心",
+      "description_en": "An opinionated Clash GUI based on Tauri, supporting multiple proxy protocols and cores",
+      "website": "https://nyanpasu.elaina.moe/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "网络工具与浏览器",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "libnyanpasu/clash-nyanpasu",
+      "stars": 12667,
+      "tags": [
+        "代理工具",
+        "Clash",
+        "GUI客户端",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Proxy Tool",
+        "Clash",
+        "GUI Client",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持多种代理协议",
+        "基于Tauri构建",
+        "订阅管理",
+        "路由规则",
+        "系统托盘"
+      ],
+      "highlights_en": [
+        "Supports multiple proxy protocols",
+        "Tauri-based",
+        "Subscription management",
+        "Routing rules",
+        "System tray"
+      ],
+      "logo": "./images/clash-nyanpasu-logo.png"
+    },
+    {
+      "name": "Animeko",
+      "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步，离线缓存",
+      "description_en": "One-stop platform for finding, tracking, and watching anime with danmaku, cloud sync, offline caching",
+      "website": "https://animeko.org/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "category": "娱乐与趣味",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "open-ani/animeko",
+      "stars": 13100,
+      "tags": [
+        "动漫",
+        "追番",
+        "弹幕",
+        "视频播放器",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Anime",
+        "Anime Tracking",
+        "Danmaku",
+        "Video Player",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "云同步追番进度",
+        "聚合数据源",
+        "弹幕支持",
+        "离线缓存",
+        "BitTorrent支持"
+      ],
+      "highlights_en": [
+        "Cloud sync tracking progress",
+        "Aggregated data sources",
+        "Danmaku support",
+        "Offline caching",
+        "BitTorrent support"
+      ],
+      "logo": "./images/animeko-logo.png"
+    },
+    {
+      "name": "uPic",
+      "description": "原生、强大、美观、简单的macOS图片和文件上传工具",
+      "description_en": "A native, powerful, beautiful and simple picture and file upload tool for macOS",
+      "website": "https://blog.svend.cc/upic/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "设计与图像处理",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "gee1k/uPic",
+      "stars": 3690,
+      "tags": [
+        "图片上传",
+        "文件上传",
+        "macOS",
+        "开源软件",
+        "云存储"
+      ],
+      "tags_en": [
+        "Image Upload",
+        "File Upload",
+        "macOS",
+        "Open Source",
+        "Cloud Storage"
+      ],
+      "highlights": [
+        "支持多种云服务",
+        "Finder扩展",
+        "分享扩展",
+        "批量上传",
+        "自定义域名"
+      ],
+      "highlights_en": [
+        "Supports multiple cloud services",
+        "Finder extension",
+        "Share extension",
+        "Batch upload",
+        "Custom domain"
+      ],
+      "logo": "./images/upic-logo.png"
+    },
+    {
+      "name": "PicGo",
+      "description": "为高效创作者打造的终极图片上传工具，支持Obsidian、Typora、VS Code等和60+图片托管服务",
+      "description_en": "The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services",
+      "website": "https://picgo.app/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "设计与图像处理",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "Molunerfinn/PicGo",
+      "stars": 26220,
+      "tags": [
+        "图片上传",
+        "图床",
+        "Markdown",
+        "开源软件",
+        "跨平台"
+      ],
+      "tags_en": [
+        "Image Upload",
+        "Image Hosting",
+        "Markdown",
+        "Open Source",
+        "Cross-platform"
+      ],
+      "highlights": [
+        "支持60+托管服务",
+        "插件系统",
+        "剪贴板上传",
+        "批量上传",
+        "编辑器集成"
+      ],
+      "highlights_en": [
+        "Supports 60+ hosting services",
+        "Plugin system",
+        "Clipboard upload",
+        "Batch upload",
+        "Editor integration"
+      ],
+      "logo": "./images/picgo-logo.png"
+    },
+    {
+      "name": "Easydict",
+      "description": "简洁优雅的词典翻译macOS App，开箱即用，支持离线OCR识别，支持多种翻译服务",
+      "description_en": "A concise and elegant Dictionary and Translator macOS App for looking up words and translating text",
+      "website": "https://github.com/tisfeng/Easydict",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "办公与生产力",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "tisfeng/Easydict",
+      "stars": 11894,
+      "tags": [
+        "翻译",
+        "词典",
+        "OCR",
+        "macOS",
+        "开源软件"
+      ],
+      "tags_en": [
+        "Translation",
+        "Dictionary",
+        "OCR",
+        "macOS",
+        "Open Source"
+      ],
+      "highlights": [
+        "支持多种翻译服务",
+        "离线OCR识别",
+        "开箱即用",
+        "优雅界面",
+        "快捷键支持"
+      ],
+      "highlights_en": [
+        "Supports multiple translation services",
+        "Offline OCR recognition",
+        "Ready to use",
+        "Elegant interface",
+        "Shortcut support"
+      ],
+      "logo": "./images/easydict-logo.png"
+    }
+  ],
   "categories": [
     {
       "id": "多媒体与音视频",
