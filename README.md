@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-20
+> 📅 Last Updated: 2026-01-21
 
 ## 📖 Table of Contents
 
@@ -88,7 +88,8 @@
 47. [Ulauncher](#ulauncher)
 48. [uPic](#upic)
 49. [Utools](#utools)
-50. [Zettlr](#zettlr)
+50. [Zen Browser](#zen-browser)
+51. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -341,6 +342,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Customize for a personalized experience<br>- Safe and secure web browsing<br>- Fast way to get things done online |
 | **🏷 Tags** | #Browser #Cross-platform #Freeware
+
+<a id="zen-browser"></a>
+## Zen Browser
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/zen-browser-logo.svg" alt="Zen Browser Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://zen-browser.app/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | A Firefox-based browser focused on productivity and privacy |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/zen-browser/desktop) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/zen-browser/desktop?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Workspaces to organize tabs and projects<br>- Compact mode for more screen real estate<br>- Quick switching between frequently used tabs<br>- Split view for side-by-side browsing<br>- Privacy-focused with beautiful design |
+| **🏷 Tags** | #Browser #Productivity #Privacy #Open Source #Cross-platform
 
 <a id="karing"></a>
 ## Karing

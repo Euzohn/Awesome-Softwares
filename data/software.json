@@ -1076,6 +1076,51 @@
       ],
       "logo": "./images/chrome-logo-m100.svg"
     },
+     {
+       "name": "Zen Browser",
+       "description": "基于 Firefox 的浏览器，专注于生产力和隐私保护",
+       "description_en": "A Firefox-based browser focused on productivity and privacy",
+       "website": "https://zen-browser.app/",
+       "platforms": [
+         "Windows",
+         "macOS",
+         "Linux"
+       ],
+       "category": "网络工具与浏览器",
+       "open_source": true,
+       "free": true,
+       "github": "zen-browser/desktop",
+       "stars": 39600,
+       "tags": [
+         "浏览器",
+         "生产力工具",
+         "隐私保护",
+         "开源软件",
+         "跨平台"
+       ],
+       "tags_en": [
+         "Browser",
+         "Productivity",
+         "Privacy",
+         "Open Source",
+         "Cross-platform"
+       ],
+       "highlights": [
+         "工作区管理，保持项目分离",
+         "紧凑模式，提供更多屏幕空间",
+         "快速切换常用标签页",
+         "分屏视图，方便比较内容",
+         "注重隐私和用户体验"
+       ],
+       "highlights_en": [
+         "Workspaces to organize tabs and projects",
+         "Compact mode for more screen real estate",
+         "Quick switching between frequently used tabs",
+         "Split view for side-by-side browsing",
+         "Privacy-focused with beautiful design"
+       ],
+       "logo": "./images/zen-browser-logo.svg"
+     },
     {
       "name": "BongoCat",
       "description": "跨平台桌宠，为桌面增添乐趣",

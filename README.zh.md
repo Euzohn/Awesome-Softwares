@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-20
+> 📅 最后更新: 2026-01-21
 
 ## 📖 目录
 
@@ -88,7 +88,8 @@
 47. [Ulauncher](#ulauncher)
 48. [uPic](#upic)
 49. [Utools](#utools)
-50. [Zettlr](#zettlr)
+50. [Zen Browser](#zen-browser)
+51. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -341,6 +342,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 随心定制，个性体验随时享<br>- 确保您能安全浏览网页<br>- 线上处理事务的快捷方式 |
 | **🏷 分类** | #浏览器 #跨平台 #免费软件
+
+<a id="zen-browser"></a>
+## Zen Browser
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/zen-browser-logo.svg" alt="Zen Browser Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://zen-browser.app/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 基于 Firefox 的浏览器，专注于生产力和隐私保护 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/zen-browser/desktop) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/zen-browser/desktop?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 工作区管理，保持项目分离<br>- 紧凑模式，提供更多屏幕空间<br>- 快速切换常用标签页<br>- 分屏视图，方便比较内容<br>- 注重隐私和用户体验 |
+| **🏷 分类** | #浏览器 #生产力工具 #隐私保护 #开源软件 #跨平台
 
 <a id="karing"></a>
 ## Karing
