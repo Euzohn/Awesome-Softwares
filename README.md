@@ -65,31 +65,32 @@
 24. [Karing](#karing)
 25. [Keka](#keka)
 26. [KOReader](#koreader)
-27. [LocalSend](#localsend)
-28. [Logseq](#logseq)
-29. [MarkText](#marktext)
-30. [Marp](#marp)
-31. [Modern-CSV](#modern-csv)
-32. [Motrix](#motrix)
-33. [mpv](#mpv)
-34. [Neovim](#neovim)
-35. [OBS](#obs)
-36. [PicGo](#picgo)
-37. [Popcorn-Time](#popcorn-time)
-38. [QuickRecorder](#quickrecorder)
-39. [RunCat365](#runcat365)
-40. [RustDesk](#rustdesk)
-41. [ShareX](#sharex)
-42. [Snippai](#snippai)
-43. [Stats](#stats)
-44. [Sublime-Text](#sublime-text)
-45. [Transnomino](#transnomino)
-46. [Typora](#typora)
-47. [Ulauncher](#ulauncher)
-48. [uPic](#upic)
-49. [Utools](#utools)
-50. [Zen Browser](#zen-browser)
-51. [Zettlr](#zettlr)
+27. [Launchy](#launchy)
+28. [LocalSend](#localsend)
+29. [Logseq](#logseq)
+30. [MarkText](#marktext)
+31. [Marp](#marp)
+32. [Modern-CSV](#modern-csv)
+33. [Motrix](#motrix)
+34. [mpv](#mpv)
+35. [Neovim](#neovim)
+36. [OBS](#obs)
+37. [PicGo](#picgo)
+38. [Popcorn-Time](#popcorn-time)
+39. [QuickRecorder](#quickrecorder)
+40. [RunCat365](#runcat365)
+41. [RustDesk](#rustdesk)
+42. [ShareX](#sharex)
+43. [Snippai](#snippai)
+44. [Stats](#stats)
+45. [Sublime-Text](#sublime-text)
+46. [Transnomino](#transnomino)
+47. [Typora](#typora)
+48. [Ulauncher](#ulauncher)
+49. [uPic](#upic)
+50. [Utools](#utools)
+51. [Zen Browser](#zen-browser)
+52. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -458,6 +459,22 @@
 | **💰 Cost** | ![Freemium](https://img.shields.io/badge/Cost-Freemium-orange) |
 | **✨ Highlights** | - miniLake - compact key information display<br>- Significant UX improvement through detailed changes |
 | **🏷 Tags** | #Design Tools #macOS
+
+<a id="launchy"></a>
+## Launchy
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/launchy-logo.png" alt="Launchy Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://launchy.space/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | Open-source Launchpad alternative for macOS with fullscreen and floaty modes |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/Punshnut/macos-launchy) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Punshnut/macos-launchy?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Fullscreen mode mirrors classic Launchpad experience<br>- Floaty mode serves as HUD for quick toggles<br>- Bilingual smart search with keyboard controls<br>- Right-click menus for renaming, hiding, and folder management<br>- Hot corners and global shortcuts support |
+| **🏷 Tags** | #Launcher #macOS #Open Source #Freeware
 
 <a id="ulauncher"></a>
 ## Ulauncher

@@ -1407,9 +1407,50 @@
         "Library management"
       ],
       "logo": "https://raw.githubusercontent.com/kovidgoyal/calibre/master/icons/calibre.png"
-    },
-    {
-      "name": "Ulauncher",
+     },
+     {
+       "name": "Launchy",
+       "description": "macOS Launchpad 开源替代品，提供全屏和浮动模式",
+       "description_en": "Open-source Launchpad alternative for macOS with fullscreen and floaty modes",
+       "website": "https://launchy.space/",
+       "platforms": [
+         "macOS"
+       ],
+       "category": "系统工具与优化",
+       "open_source": true,
+       "free": true,
+       "github": "Punshnut/macos-launchy",
+       "stars": 61,
+       "tags": [
+         "启动器",
+         "macOS",
+         "开源软件",
+         "免费软件"
+       ],
+       "tags_en": [
+         "Launcher",
+         "macOS",
+         "Open Source",
+         "Freeware"
+       ],
+       "highlights": [
+         "全屏模式复现经典Launchpad体验",
+         "浮动模式作为HUD快速切换",
+         "双语智能搜索和键盘控制",
+         "右键菜单支持重命名、隐藏和文件夹管理",
+         "支持热角和全局快捷键"
+       ],
+       "highlights_en": [
+         "Fullscreen mode mirrors classic Launchpad experience",
+         "Floaty mode serves as HUD for quick toggles",
+         "Bilingual smart search with keyboard controls",
+         "Right-click menus for renaming, hiding, and folder management",
+         "Hot corners and global shortcuts support"
+       ],
+       "logo": "./images/launchy-logo.png"
+     },
+     {
+       "name": "Ulauncher",
       "description": "功能丰富的 Linux 应用程序启动器",
       "description_en": "Feature rich application Launcher for Linux",
       "website": "https://ulauncher.io/",
