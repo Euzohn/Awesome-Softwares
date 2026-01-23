@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-21
+> 📅 Last Updated: 2026-01-23
 
 ## 📖 Table of Contents
 
@@ -90,8 +90,9 @@
 49. [Ulauncher](#ulauncher)
 50. [uPic](#upic)
 51. [Utools](#utools)
-52. [Zen Browser](#zen-browser)
-53. [Zettlr](#zettlr)
+52. [VidBee](#vidbee)
+53. [Zen Browser](#zen-browser)
+54. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -208,6 +209,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Supports multiple input formats<br>- Modern codec output<br>- Free and open source<br>- Multi-platform support<br>- Community-driven |
 | **🏷 Tags** | #Video Transcoding #Codec #Open Source #Cross-platform #Media Processing
+
+<a id="vidbee"></a>
+## VidBee
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/vidbee-logo.svg" alt="VidBee Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://vidbee.org/) |
+| **🖥 Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Open source video downloader supporting YouTube, TikTok and 1000+ platforms with high-quality downloads |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/nexmoe/VidBee) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/nexmoe/VidBee?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Supports 1000+ video platforms<br>- HD 4K/8K video downloads<br>- Batch queues and RSS auto-download<br>- Subtitle extraction and multilingual support<br>- Modern interface design |
+| **🏷 Tags** | #Video Download #Downloader #Cross-platform #Open Source #Freeware
 
 
 <a id="file-management-&-transfer"></a>

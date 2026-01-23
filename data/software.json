@@ -2035,9 +2035,54 @@
         "Multi-platform support",
         "Community-driven"
       ],
-      "logo": "./images/handbrake-logo.png"
-    },
-    {
+       "logo": "./images/handbrake-logo.png"
+     },
+     {
+       "name": "VidBee",
+       "description": "开源视频下载器，支持YouTube、TikTok等1000+平台的高质量视频下载",
+       "description_en": "Open source video downloader supporting YouTube, TikTok and 1000+ platforms with high-quality downloads",
+       "website": "https://vidbee.org/",
+       "platforms": [
+         "Windows",
+         "macOS",
+         "Linux"
+       ],
+       "category": "多媒体与音视频",
+       "open_source": true,
+       "free": true,
+       "github": "nexmoe/VidBee",
+       "stars": 0,
+       "tags": [
+         "视频下载",
+         "下载器",
+         "跨平台",
+         "开源软件",
+         "免费软件"
+       ],
+       "tags_en": [
+         "Video Download",
+         "Downloader",
+         "Cross-platform",
+         "Open Source",
+         "Freeware"
+       ],
+       "highlights": [
+         "支持1000+视频平台",
+         "高清4K/8K视频下载",
+         "批量队列和RSS自动下载",
+         "字幕提取和多语言支持",
+         "现代化界面设计"
+       ],
+       "highlights_en": [
+         "Supports 1000+ video platforms",
+         "HD 4K/8K video downloads",
+         "Batch queues and RSS auto-download",
+         "Subtitle extraction and multilingual support",
+         "Modern interface design"
+       ],
+       "logo": "./images/vidbee-logo.svg"
+     },
+     {
       "name": "Clash Nyanpasu",
       "description": "基于Tauri的Clash GUI，支持多种代理协议和核心",
       "description_en": "An opinionated Clash GUI based on Tauri, supporting multiple proxy protocols and cores",

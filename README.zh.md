@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-21
+> 📅 最后更新: 2026-01-23
 
 ## 📖 目录
 
@@ -90,8 +90,9 @@
 49. [Ulauncher](#ulauncher)
 50. [uPic](#upic)
 51. [Utools](#utools)
-52. [Zen Browser](#zen-browser)
-53. [Zettlr](#zettlr)
+52. [VidBee](#vidbee)
+53. [Zen Browser](#zen-browser)
+54. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -208,6 +209,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 支持多种输入格式<br>- 现代编解码器输出<br>- 免费开源<br>- 多平台支持<br>- 社区驱动 |
 | **🏷 分类** | #视频转码 #编解码器 #开源软件 #跨平台 #媒体处理
+
+<a id="vidbee"></a>
+## VidBee
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/vidbee-logo.svg" alt="VidBee Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://vidbee.org/) |
+| **🖥 适用系统** | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | 开源视频下载器，支持YouTube、TikTok等1000+平台的高质量视频下载 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/nexmoe/VidBee) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/nexmoe/VidBee?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 支持1000+视频平台<br>- 高清4K/8K视频下载<br>- 批量队列和RSS自动下载<br>- 字幕提取和多语言支持<br>- 现代化界面设计 |
+| **🏷 分类** | #视频下载 #下载器 #跨平台 #开源软件 #免费软件
 
 
 <a id="文件管理与传输"></a>
