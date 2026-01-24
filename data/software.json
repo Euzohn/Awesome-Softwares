@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 43452,
+      "stars": 43488,
       "tags": [
         "播放器",
         "macOS",
@@ -49,7 +49,7 @@
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
-      "stars": 10473,
+      "stars": 10477,
       "tags": [
         "播放器",
         "跨平台",
@@ -94,7 +94,7 @@
       "open_source": true,
       "free": true,
       "github": "mpv-player/mpv",
-      "stars": 33681,
+      "stars": 33719,
       "tags": [
         "播放器",
         "跨平台",
@@ -146,7 +146,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 73593,
+      "stars": 73793,
       "tags": [
         "文件传输",
         "跨平台",
@@ -187,7 +187,7 @@
       "open_source": true,
       "free": true,
       "github": "agalwood/Motrix",
-      "stars": 50570,
+      "stars": 50603,
       "tags": [
         "下载管理器",
         "BT",
@@ -231,7 +231,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 6296,
+      "stars": 6305,
       "tags": [
         "文件管理",
         "压缩",
@@ -343,7 +343,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 16822,
+      "stars": 16840,
       "tags": [
         "开发工具",
         "终端",
@@ -465,7 +465,7 @@
       "open_source": true,
       "free": true,
       "github": "rustdesk/rustdesk",
-      "stars": 106074,
+      "stars": 106229,
       "tags": [
         "远程桌面",
         "跨平台",
@@ -510,7 +510,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 69854,
+      "stars": 69916,
       "tags": [
         "音视频处理",
         "直播",
@@ -551,7 +551,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 7856,
+      "stars": 7868,
       "tags": [
         "音视频处理",
         "macOS"
@@ -590,7 +590,7 @@
       "open_source": true,
       "free": true,
       "github": "audacity/audacity",
-      "stars": 16341,
+      "stars": 16362,
       "tags": [
         "音频编辑",
         "录音",
@@ -768,7 +768,7 @@
       "open_source": true,
       "free": true,
       "github": "logseq/logseq",
-      "stars": 40439,
+      "stars": 40519,
       "tags": [
         "Markdown",
         "知识管理",
@@ -817,7 +817,7 @@
       "open_source": true,
       "free": true,
       "github": "marktext/marktext",
-      "stars": 53344,
+      "stars": 53427,
       "tags": [
         "Markdown",
         "编辑器",
@@ -858,7 +858,7 @@
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
-      "stars": 25461,
+      "stars": 25544,
       "tags": [
         "系统工具",
         "macOS"
@@ -895,7 +895,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 35920,
+      "stars": 35994,
       "tags": [
         "系统工具",
         "macOS"
@@ -967,7 +967,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 9703,
+      "stars": 9710,
       "tags": [
         "图像处理",
         "macOS"
@@ -1002,7 +1002,7 @@
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
-      "stars": 1444,
+      "stars": 1449,
       "tags": [
         "截图工具",
         "跨平台",
@@ -1090,7 +1090,7 @@
       "open_source": true,
       "free": true,
       "github": "zen-browser/desktop",
-      "stars": 39638,
+      "stars": 39694,
       "tags": [
         "浏览器",
         "生产力工具",
@@ -1135,7 +1135,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 17031,
+      "stars": 17343,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1172,7 +1172,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 9775,
+      "stars": 9789,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1246,7 +1246,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 1196,
+      "stars": 1247,
       "tags": [
         "截图工具",
         "macOS",
@@ -1291,7 +1291,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35285,
+      "stars": 35331,
       "tags": [
         "截图工具",
         "Windows",
@@ -1332,7 +1332,7 @@
       "open_source": true,
       "free": true,
       "github": "flameshot-org/flameshot",
-      "stars": 28676,
+      "stars": 28704,
       "tags": [
         "截图工具",
         "Linux",
@@ -1377,7 +1377,7 @@
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23431,
+      "stars": 23452,
       "tags": [
         "电子书",
         "Windows",
@@ -1420,7 +1420,7 @@
       "open_source": true,
       "free": true,
       "github": "Punshnut/macos-launchy",
-      "stars": 61,
+      "stars": 66,
       "tags": [
         "启动器",
         "macOS",
@@ -1462,7 +1462,7 @@
       "free": false,
       "price": "$2.99",
       "github": "noah-nuebling/mac-mouse-fix",
-      "stars": 8955,
+      "stars": 9063,
       "tags": [
         "鼠标增强",
         "系统工具",
@@ -1503,7 +1503,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4330,
+      "stars": 4334,
       "tags": [
         "启动器",
         "Linux",
@@ -1547,7 +1547,7 @@
       "free": true,
       "cost": "free",
       "github": "koreader/koreader",
-      "stars": 25055,
+      "stars": 25102,
       "tags": [
         "电子书",
         "阅读器",
@@ -1589,7 +1589,7 @@
       "free": true,
       "cost": "free",
       "github": "neovim/neovim",
-      "stars": 95849,
+      "stars": 95929,
       "tags": [
         "文本编辑器",
         "Vim",
@@ -1633,7 +1633,7 @@
       "free": true,
       "cost": "free",
       "github": "CodeEditApp/CodeEdit",
-      "stars": 22628,
+      "stars": 22635,
       "tags": [
         "代码编辑器",
         "macOS",
@@ -1679,7 +1679,7 @@
       "free": true,
       "cost": "free",
       "github": "Zettlr/Zettlr",
-      "stars": 12433,
+      "stars": 12444,
       "tags": [
         "Markdown",
         "学术写作",
@@ -1725,7 +1725,7 @@
       "free": true,
       "cost": "free",
       "github": "marp-team/marp",
-      "stars": 10261,
+      "stars": 10279,
       "tags": [
         "Markdown",
         "演示",
@@ -1771,7 +1771,7 @@
       "free": true,
       "cost": "free",
       "github": "darktable-org/darktable",
-      "stars": 11910,
+      "stars": 11920,
       "tags": [
         "摄影",
         "RAW处理",
@@ -1817,7 +1817,7 @@
       "free": true,
       "cost": "free",
       "github": "CherryHQ/cherry-studio",
-      "stars": 38128,
+      "stars": 38299,
       "tags": [
         "AI助手",
         "多模型",
@@ -1866,7 +1866,7 @@
       "free": true,
       "cost": "free",
       "github": "chatboxai/chatbox",
-      "stars": 38208,
+      "stars": 38249,
       "tags": [
         "AI客户端",
         "多模型",
@@ -1914,7 +1914,7 @@
       "free": true,
       "cost": "free",
       "github": "KaringX/karing",
-      "stars": 9202,
+      "stars": 9248,
       "tags": [
         "代理工具",
         "网络工具",
@@ -1960,7 +1960,7 @@
       "free": true,
       "cost": "free",
       "github": "clash-verge-rev/clash-verge-rev",
-      "stars": 93315,
+      "stars": 93894,
       "tags": [
         "代理工具",
         "Clash",
@@ -2006,7 +2006,7 @@
       "free": true,
       "cost": "free",
       "github": "HandBrake/HandBrake",
-      "stars": 22167,
+      "stars": 22194,
       "tags": [
         "视频转码",
         "编解码器",
@@ -2035,54 +2035,54 @@
         "Multi-platform support",
         "Community-driven"
       ],
-       "logo": "./images/handbrake-logo.png"
-     },
-     {
-       "name": "VidBee",
-       "description": "开源视频下载器，支持YouTube、TikTok等1000+平台的高质量视频下载",
-       "description_en": "Open source video downloader supporting YouTube, TikTok and 1000+ platforms with high-quality downloads",
-       "website": "https://vidbee.org/",
-       "platforms": [
-         "Windows",
-         "macOS",
-         "Linux"
-       ],
-       "category": "多媒体与音视频",
-       "open_source": true,
-       "free": true,
-       "github": "nexmoe/VidBee",
-       "stars": 0,
-       "tags": [
-         "视频下载",
-         "下载器",
-         "跨平台",
-         "开源软件",
-         "免费软件"
-       ],
-       "tags_en": [
-         "Video Download",
-         "Downloader",
-         "Cross-platform",
-         "Open Source",
-         "Freeware"
-       ],
-       "highlights": [
-         "支持1000+视频平台",
-         "高清4K/8K视频下载",
-         "批量队列和RSS自动下载",
-         "字幕提取和多语言支持",
-         "现代化界面设计"
-       ],
-       "highlights_en": [
-         "Supports 1000+ video platforms",
-         "HD 4K/8K video downloads",
-         "Batch queues and RSS auto-download",
-         "Subtitle extraction and multilingual support",
-         "Modern interface design"
-       ],
-       "logo": "./images/vidbee-logo.svg"
-     },
-     {
+      "logo": "./images/handbrake-logo.png"
+    },
+    {
+      "name": "VidBee",
+      "description": "开源视频下载器，支持YouTube、TikTok等1000+平台的高质量视频下载",
+      "description_en": "Open source video downloader supporting YouTube, TikTok and 1000+ platforms with high-quality downloads",
+      "website": "https://vidbee.org/",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "category": "多媒体与音视频",
+      "open_source": true,
+      "free": true,
+      "github": "nexmoe/VidBee",
+      "stars": 0,
+      "tags": [
+        "视频下载",
+        "下载器",
+        "跨平台",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "Video Download",
+        "Downloader",
+        "Cross-platform",
+        "Open Source",
+        "Freeware"
+      ],
+      "highlights": [
+        "支持1000+视频平台",
+        "高清4K/8K视频下载",
+        "批量队列和RSS自动下载",
+        "字幕提取和多语言支持",
+        "现代化界面设计"
+      ],
+      "highlights_en": [
+        "Supports 1000+ video platforms",
+        "HD 4K/8K video downloads",
+        "Batch queues and RSS auto-download",
+        "Subtitle extraction and multilingual support",
+        "Modern interface design"
+      ],
+      "logo": "./images/vidbee-logo.svg"
+    },
+    {
       "name": "Clash Nyanpasu",
       "description": "基于Tauri的Clash GUI，支持多种代理协议和核心",
       "description_en": "An opinionated Clash GUI based on Tauri, supporting multiple proxy protocols and cores",
@@ -2097,7 +2097,7 @@
       "free": true,
       "cost": "free",
       "github": "libnyanpasu/clash-nyanpasu",
-      "stars": 12667,
+      "stars": 12683,
       "tags": [
         "代理工具",
         "Clash",
@@ -2145,7 +2145,7 @@
       "free": true,
       "cost": "free",
       "github": "open-ani/animeko",
-      "stars": 13100,
+      "stars": 14576,
       "tags": [
         "动漫",
         "追番",
@@ -2191,7 +2191,7 @@
       "free": true,
       "cost": "free",
       "github": "gee1k/uPic",
-      "stars": 3690,
+      "stars": 3691,
       "tags": [
         "图片上传",
         "文件上传",
@@ -2237,7 +2237,7 @@
       "free": true,
       "cost": "free",
       "github": "Molunerfinn/PicGo",
-      "stars": 26220,
+      "stars": 26243,
       "tags": [
         "图片上传",
         "图床",
@@ -2281,7 +2281,7 @@
       "free": true,
       "cost": "free",
       "github": "tisfeng/Easydict",
-      "stars": 11894,
+      "stars": 11944,
       "tags": [
         "翻译",
         "词典",
