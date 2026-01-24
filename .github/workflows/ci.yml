@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'data/software.json'
+      - "data/software.json"
   schedule:
-    - cron: '0 0 * * 0'  # 每周日 00:00 执行
+    - cron: "0 0 * * 0" # 每周日 00:00 执行
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Validate JSON
         run: |
@@ -40,7 +46,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Generate README and HTML
         run: |
@@ -71,7 +83,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Update Stars
         env:
