@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-23
+> 📅 最后更新: 2026-01-27
 
 ## 📖 目录
 
@@ -44,55 +44,56 @@
 3. [Audacity](#audacity)
 4. [Better Shot](#better-shot)
 5. [BongoCat](#bongocat)
-6. [Calibre](#calibre)
-7. [Chatbox](#chatbox)
-8. [Cherry Studio](#cherry-studio)
-9. [Chrome](#chrome)
-10. [Clash Nyanpasu](#clash-nyanpasu)
-11. [Clash Verge Rev](#clash-verge-rev)
-12. [CodeEdit](#codeedit)
-13. [Darktable](#darktable)
-14. [DynamicLake-Pro](#dynamiclake-pro)
-15. [Easydict](#easydict)
-16. [File-Converter](#file-converter)
-17. [FlameShot](#flameshot)
-18. [HandBrake](#handbrake)
-19. [Ice](#ice)
-20. [IINA](#iina)
-21. [ImageOptim](#imageoptim)
-22. [iTerm2](#iterm2)
-23. [Joplin](#joplin)
-24. [Karing](#karing)
-25. [Keka](#keka)
-26. [KOReader](#koreader)
-27. [Launchy](#launchy)
-28. [LocalSend](#localsend)
-29. [Logseq](#logseq)
-30. [Mac Mouse Fix](#mac-mouse-fix)
-31. [MarkText](#marktext)
-32. [Marp](#marp)
-33. [Modern-CSV](#modern-csv)
-34. [Motrix](#motrix)
-35. [mpv](#mpv)
-36. [Neovim](#neovim)
-37. [OBS](#obs)
-38. [PicGo](#picgo)
-39. [Popcorn-Time](#popcorn-time)
-40. [QuickRecorder](#quickrecorder)
-41. [RunCat365](#runcat365)
-42. [RustDesk](#rustdesk)
-43. [ShareX](#sharex)
-44. [Snippai](#snippai)
-45. [Stats](#stats)
-46. [Sublime-Text](#sublime-text)
-47. [Transnomino](#transnomino)
-48. [Typora](#typora)
-49. [Ulauncher](#ulauncher)
-50. [uPic](#upic)
-51. [Utools](#utools)
-52. [VidBee](#vidbee)
-53. [Zen Browser](#zen-browser)
-54. [Zettlr](#zettlr)
+6. [Boring Notch](#boring-notch)
+7. [Calibre](#calibre)
+8. [Chatbox](#chatbox)
+9. [Cherry Studio](#cherry-studio)
+10. [Chrome](#chrome)
+11. [Clash Nyanpasu](#clash-nyanpasu)
+12. [Clash Verge Rev](#clash-verge-rev)
+13. [CodeEdit](#codeedit)
+14. [Darktable](#darktable)
+15. [DynamicLake-Pro](#dynamiclake-pro)
+16. [Easydict](#easydict)
+17. [File-Converter](#file-converter)
+18. [FlameShot](#flameshot)
+19. [HandBrake](#handbrake)
+20. [Ice](#ice)
+21. [IINA](#iina)
+22. [ImageOptim](#imageoptim)
+23. [iTerm2](#iterm2)
+24. [Joplin](#joplin)
+25. [Karing](#karing)
+26. [Keka](#keka)
+27. [KOReader](#koreader)
+28. [Launchy](#launchy)
+29. [LocalSend](#localsend)
+30. [Logseq](#logseq)
+31. [Mac Mouse Fix](#mac-mouse-fix)
+32. [MarkText](#marktext)
+33. [Marp](#marp)
+34. [Modern-CSV](#modern-csv)
+35. [Motrix](#motrix)
+36. [mpv](#mpv)
+37. [Neovim](#neovim)
+38. [OBS](#obs)
+39. [PicGo](#picgo)
+40. [Popcorn-Time](#popcorn-time)
+41. [QuickRecorder](#quickrecorder)
+42. [RunCat365](#runcat365)
+43. [RustDesk](#rustdesk)
+44. [ShareX](#sharex)
+45. [Snippai](#snippai)
+46. [Stats](#stats)
+47. [Sublime-Text](#sublime-text)
+48. [Transnomino](#transnomino)
+49. [Typora](#typora)
+50. [Ulauncher](#ulauncher)
+51. [uPic](#upic)
+52. [Utools](#utools)
+53. [VidBee](#vidbee)
+54. [Zen Browser](#zen-browser)
+55. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -525,6 +526,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 模糊搜索<br>- 自定义主题<br>- 快捷方式和扩展<br>- 快速目录浏览 |
 | **🏷 分类** | #启动器 #Linux #开源软件 #免费软件
+
+<a id="boring-notch"></a>
+## Boring Notch
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/boring-notch-logo.png" alt="Boring Notch Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://theboring.name/) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 开源应用程序，将 MacBook 的 notch 转化为功能区域，类似于 iPhone 的 Dynamic Island。添加音乐控制、可视化、文件架用于拖拽和共享等 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/TheBoredTeam/boring.notch) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 将 notch 转化为功能区<br>- 音乐控制与可视化<br>- 电池指示器<br>- 日历提醒<br>- 文件架拖拽<br>- 替换 macOS HUD |
+| **🏷 分类** | #macOS #开源软件 #免费软件
 
 
 <a id="开发与编程"></a>

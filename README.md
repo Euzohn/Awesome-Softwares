@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-23
+> 📅 Last Updated: 2026-01-27
 
 ## 📖 Table of Contents
 
@@ -44,55 +44,56 @@
 3. [Audacity](#audacity)
 4. [Better Shot](#better-shot)
 5. [BongoCat](#bongocat)
-6. [Calibre](#calibre)
-7. [Chatbox](#chatbox)
-8. [Cherry Studio](#cherry-studio)
-9. [Chrome](#chrome)
-10. [Clash Nyanpasu](#clash-nyanpasu)
-11. [Clash Verge Rev](#clash-verge-rev)
-12. [CodeEdit](#codeedit)
-13. [Darktable](#darktable)
-14. [DynamicLake-Pro](#dynamiclake-pro)
-15. [Easydict](#easydict)
-16. [File-Converter](#file-converter)
-17. [FlameShot](#flameshot)
-18. [HandBrake](#handbrake)
-19. [Ice](#ice)
-20. [IINA](#iina)
-21. [ImageOptim](#imageoptim)
-22. [iTerm2](#iterm2)
-23. [Joplin](#joplin)
-24. [Karing](#karing)
-25. [Keka](#keka)
-26. [KOReader](#koreader)
-27. [Launchy](#launchy)
-28. [LocalSend](#localsend)
-29. [Logseq](#logseq)
-30. [Mac Mouse Fix](#mac-mouse-fix)
-31. [MarkText](#marktext)
-32. [Marp](#marp)
-33. [Modern-CSV](#modern-csv)
-34. [Motrix](#motrix)
-35. [mpv](#mpv)
-36. [Neovim](#neovim)
-37. [OBS](#obs)
-38. [PicGo](#picgo)
-39. [Popcorn-Time](#popcorn-time)
-40. [QuickRecorder](#quickrecorder)
-41. [RunCat365](#runcat365)
-42. [RustDesk](#rustdesk)
-43. [ShareX](#sharex)
-44. [Snippai](#snippai)
-45. [Stats](#stats)
-46. [Sublime-Text](#sublime-text)
-47. [Transnomino](#transnomino)
-48. [Typora](#typora)
-49. [Ulauncher](#ulauncher)
-50. [uPic](#upic)
-51. [Utools](#utools)
-52. [VidBee](#vidbee)
-53. [Zen Browser](#zen-browser)
-54. [Zettlr](#zettlr)
+6. [Boring Notch](#boring-notch)
+7. [Calibre](#calibre)
+8. [Chatbox](#chatbox)
+9. [Cherry Studio](#cherry-studio)
+10. [Chrome](#chrome)
+11. [Clash Nyanpasu](#clash-nyanpasu)
+12. [Clash Verge Rev](#clash-verge-rev)
+13. [CodeEdit](#codeedit)
+14. [Darktable](#darktable)
+15. [DynamicLake-Pro](#dynamiclake-pro)
+16. [Easydict](#easydict)
+17. [File-Converter](#file-converter)
+18. [FlameShot](#flameshot)
+19. [HandBrake](#handbrake)
+20. [Ice](#ice)
+21. [IINA](#iina)
+22. [ImageOptim](#imageoptim)
+23. [iTerm2](#iterm2)
+24. [Joplin](#joplin)
+25. [Karing](#karing)
+26. [Keka](#keka)
+27. [KOReader](#koreader)
+28. [Launchy](#launchy)
+29. [LocalSend](#localsend)
+30. [Logseq](#logseq)
+31. [Mac Mouse Fix](#mac-mouse-fix)
+32. [MarkText](#marktext)
+33. [Marp](#marp)
+34. [Modern-CSV](#modern-csv)
+35. [Motrix](#motrix)
+36. [mpv](#mpv)
+37. [Neovim](#neovim)
+38. [OBS](#obs)
+39. [PicGo](#picgo)
+40. [Popcorn-Time](#popcorn-time)
+41. [QuickRecorder](#quickrecorder)
+42. [RunCat365](#runcat365)
+43. [RustDesk](#rustdesk)
+44. [ShareX](#sharex)
+45. [Snippai](#snippai)
+46. [Stats](#stats)
+47. [Sublime-Text](#sublime-text)
+48. [Transnomino](#transnomino)
+49. [Typora](#typora)
+50. [Ulauncher](#ulauncher)
+51. [uPic](#upic)
+52. [Utools](#utools)
+53. [VidBee](#vidbee)
+54. [Zen Browser](#zen-browser)
+55. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -525,6 +526,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Fuzzy search<br>- Custom color themes<br>- Shortcuts & extensions<br>- Fast directory browser |
 | **🏷 Tags** | #Launcher #Linux #OpenSource #Free
+
+<a id="boring-notch"></a>
+## Boring Notch
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/boring-notch-logo.png" alt="Boring Notch Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://theboring.name/) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | An open-source application that transforms your MacBook's notch into a functional area, similar to the Dynamic Island on iPhones. It adds music controls, visualizations, a file shelf for drag-and-drop and sharing, and more |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/TheBoredTeam/boring.notch) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Transforms notch into functional area<br>- Music controls and visualizations<br>- Battery indicators<br>- Calendar reminders<br>- File shelf for drag-and-drop<br>- Replaces macOS HUDs |
+| **🏷 Tags** | #macOS #Open Source #Freeware
 
 
 <a id="development-&-programming"></a>

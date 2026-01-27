@@ -2311,6 +2311,47 @@
         "Shortcut support"
       ],
       "logo": "./images/easydict-logo.png"
+    },
+    {
+      "name": "Boring Notch",
+      "description": "开源应用程序，将 MacBook 的 notch 转化为功能区域，类似于 iPhone 的 Dynamic Island。添加音乐控制、可视化、文件架用于拖拽和共享等",
+      "description_en": "An open-source application that transforms your MacBook's notch into a functional area, similar to the Dynamic Island on iPhones. It adds music controls, visualizations, a file shelf for drag-and-drop and sharing, and more",
+      "website": "https://theboring.name/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "系统工具与优化",
+      "open_source": true,
+      "free": true,
+      "github": "TheBoredTeam/boring.notch",
+      "stars": 6706,
+      "tags": [
+        "macOS",
+        "开源软件",
+        "免费软件"
+      ],
+      "tags_en": [
+        "macOS",
+        "Open Source",
+        "Freeware"
+      ],
+      "highlights": [
+        "将 notch 转化为功能区",
+        "音乐控制与可视化",
+        "电池指示器",
+        "日历提醒",
+        "文件架拖拽",
+        "替换 macOS HUD"
+      ],
+      "highlights_en": [
+        "Transforms notch into functional area",
+        "Music controls and visualizations",
+        "Battery indicators",
+        "Calendar reminders",
+        "File shelf for drag-and-drop",
+        "Replaces macOS HUDs"
+      ],
+      "logo": "./images/boring-notch-logo.png"
     }
   ],
   "categories": [
