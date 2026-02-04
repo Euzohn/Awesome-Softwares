@@ -1,0 +1,239 @@
+/* CSS Layer definitions */
+@layer primer-css-base, primer-react, recipes;
+
+:root {
+  --base-duration-0: 0ms;
+  --base-duration-100: 100ms;
+  --base-duration-1000: 1s;
+  --base-duration-200: 200ms;
+  --base-duration-300: 300ms;
+  --base-duration-400: 400ms;
+  --base-duration-50: 50ms;
+  --base-duration-500: 500ms;
+  --base-duration-600: 600ms;
+  --base-duration-700: 700ms;
+  --base-duration-800: 800ms;
+  --base-duration-900: 900ms;
+  --base-easing-ease: cubic-bezier(0.25, 0.1, 0.25, 1); /** CSS default easing. Use for hover state changes and micro-interactions. */
+  --base-easing-easeIn: cubic-bezier(0.7, 0.1, 0.75, 0.9); /** Accelerating motion. Use for elements exiting the viewport (moving off-screen). */
+  --base-easing-easeInOut: cubic-bezier(0.6, 0, 0.2, 1); /** Smooth acceleration and deceleration. Use for elements moving or morphing within the viewport. */
+  --base-easing-easeOut: cubic-bezier(0.3, 0.8, 0.6, 1); /** Decelerating motion. Use for elements entering the viewport or appearing on screen. */
+  --base-easing-linear: cubic-bezier(0, 0, 1, 1); /** Constant motion with no acceleration. Use for continuous animations like progress bars or loaders. */
+}
+
+:root {
+  --base-size-112: 7rem;
+  --base-size-12: 0.75rem;
+  --base-size-128: 8rem;
+  --base-size-16: 1rem;
+  --base-size-2: 0.125rem;
+  --base-size-20: 1.25rem;
+  --base-size-24: 1.5rem;
+  --base-size-28: 1.75rem;
+  --base-size-32: 2rem;
+  --base-size-36: 2.25rem;
+  --base-size-4: 0.25rem;
+  --base-size-40: 2.5rem;
+  --base-size-44: 2.75rem;
+  --base-size-48: 3rem;
+  --base-size-6: 0.375rem;
+  --base-size-64: 4rem;
+  --base-size-8: 0.5rem;
+  --base-size-80: 5rem;
+  --base-size-96: 6rem;
+}
+
+:root {
+  --base-text-lineHeight-loose: 1.75; /** Use sparingly for very small text or when maximum readability is critical. Best for footnotes, legal text, or content requiring high accessibility. */
+  --base-text-lineHeight-normal: 1.5; /** Default choice for body text and general UI content. Provides optimal readability for paragraphs, descriptions, and most multi-line text. Use when unsure which line-height to pick. */
+  --base-text-lineHeight-relaxed: 1.625; /** Use for longer-form content, smaller text sizes (12-13px), or when increased readability is desired. Good for text that needs extra breathing room. */
+  --base-text-lineHeight-snug: 1.375; /** Use for display text, large headings, or short multi-line text where moderate density is needed. Good for hero sections and marketing headlines. */
+  --base-text-lineHeight-tight: 1.25; /** Use for single-line text in compact UI elements like labels, badges, buttons, or captions where vertical space is limited. Not recommended for multi-line body text due to reduced readability. */
+  --base-text-size-2xl: 2.5rem; /** 40px - Display text for hero sections. */
+  --base-text-size-lg: 1.25rem; /** 20px - Medium titles and subtitles. */
+  --base-text-size-md: 1rem; /** 16px - Large body text and small titles. */
+  --base-text-size-sm: 0.875rem; /** 14px - Default body text size for UI. */
+  --base-text-size-xl: 2rem; /** 32px - Large titles and page headings. */
+  --base-text-size-xs: 0.75rem; /** 12px - Smallest text size for captions and compact UI elements. */
+  --base-text-weight-light: 300;
+  --base-text-weight-medium: 500;
+  --base-text-weight-normal: 400;
+  --base-text-weight-semibold: 600;
+}
+
+:root {
+  --borderWidth-thick: 0.125rem; /** Thick 2px border for emphasis. Use for focus indicators, selected states, or to emphasize important boundaries */
+  --borderWidth-thicker: 0.25rem; /** Extra thick 4px border for maximum emphasis. Use sparingly for high-contrast focus indicators or critical visual separators */
+  --borderWidth-thin: 0.0625rem; /** Standard 1px border width. Use for most borders, dividers, and outlines throughout the interface */
+  --outline-focus-offset: -0.125rem; /** Focus outline offset (-2px). Negative value creates an inset outline for keyboard focus indicators, ensuring the focus ring stays within the element bounds */
+  --outline-focus-width: 0.125rem; /** Focus outline width (2px). Standard width for keyboard focus indicators to meet WCAG 2.4.7 accessibility requirements */
+  --borderWidth-default: var(--borderWidth-thin); /** Default border width for most UI elements. Alias of borderWidth.thin (1px) */
+  --boxShadow-thick: inset 0 0 0 var(--borderWidth-thick); /** Thick shadow (2px) used instead of a border for emphasis without layout shift */
+  --boxShadow-thicker: inset 0 0 0 var(--borderWidth-thicker); /** Thickest shadow (4px) used for high emphasis borders without layout shift. Use sparingly for maximum visual impact */
+  --boxShadow-thin: inset 0 0 0 var(--borderWidth-thin); /** Thin shadow used instead of a border to prevent layout shift */
+}
+
+:root {
+  --breakpoint-large: 63.25rem;
+  --breakpoint-medium: 48rem;
+  --breakpoint-small: 34rem;
+  --breakpoint-xlarge: 80rem;
+  --breakpoint-xsmall: 20rem;
+  --breakpoint-xxlarge: 87.5rem;
+}
+
+:root {
+  --borderRadius-full: 624.9375rem; /** Use this border radius for pill shaped elements */
+  --borderRadius-large: 0.75rem; /** Large border radius (12px). Use for larger containers, dialogs, or when more visual softness is desired. Always use this for buttons. */
+  --borderRadius-medium: 0.375rem; /** Medium border radius (6px). The default choice for most buttons, cards, and containers */
+  --borderRadius-small: 0.1875rem; /** Small border radius (3px). Use for small variants of components or small UI elements like badges, tags, or anything below 16px in height */
+  --borderRadius-default: var(--borderRadius-medium); /** Default border radius for most UI elements. Alias of borderRadius.medium (6px). Use when in doubt */
+}
+
+@media (pointer: coarse) {
+  :root {
+    --control-minTarget-auto: 2.75rem; /** Minimum touch target size for coarse pointer devices (touch screens) */
+    --controlStack-medium-gap-auto: 0.75rem; /** Gap between stacked controls in medium density layouts for touch devices */
+    --controlStack-small-gap-auto: 1rem; /** Gap between stacked controls in small density layouts for touch devices */
+  }
+}
+
+@media (pointer: fine) {
+  :root {
+    --control-minTarget-auto: 1rem; /** Minimum target size for fine pointer devices (mouse) */
+    --controlStack-medium-gap-auto: 0.5rem; /** Gap between stacked controls in medium density layouts for mouse interfaces */
+    --controlStack-small-gap-auto: 0.5rem; /** Gap between stacked controls in small density layouts for mouse interfaces */
+  }
+}
+
+:root {
+  --control-large-paddingBlock: 0.625rem;
+  --control-medium-paddingBlock: 0.375rem;
+  --control-xlarge-paddingBlock: 0.875rem;
+  --control-xsmall-paddingBlock: 0.125rem;
+  --overlay-height-large: 27rem;
+  --overlay-height-medium: 20rem;
+  --overlay-height-small: 16rem;
+  --overlay-height-xlarge: 37.5rem;
+  --overlay-offset: 0.25rem;
+  --overlay-width-large: 40rem;
+  --overlay-width-medium: 30rem;
+  --overlay-width-small: 20rem;
+  --overlay-width-xlarge: 60rem;
+  --overlay-width-xsmall: 12rem;
+  --spinner-strokeWidth-default: 0.125rem;
+  --control-large-gap: 0.5rem;
+  --control-large-lineBoxHeight: 1.25rem;
+  --control-large-paddingInline-normal: 0.75rem;
+  --control-large-paddingInline-spacious: 1rem;
+  --control-large-size: 2.5rem;
+  --control-medium-gap: 0.5rem;
+  --control-medium-lineBoxHeight: 1.25rem;
+  --control-medium-paddingInline-condensed: 0.5rem;
+  --control-medium-paddingInline-normal: 0.75rem;
+  --control-medium-paddingInline-spacious: 1rem;
+  --control-medium-size: 2rem;
+  --control-minTarget-coarse: 2.75rem;
+  --control-minTarget-fine: 1rem;
+  --control-small-gap: 0.25rem;
+  --control-small-lineBoxHeight: 1.25rem;
+  --control-small-paddingBlock: 0.25rem;
+  --control-small-paddingInline-condensed: 0.5rem;
+  --control-small-paddingInline-normal: 0.75rem;
+  --control-small-size: 1.75rem;
+  --control-xlarge-gap: 0.5rem;
+  --control-xlarge-lineBoxHeight: 1.25rem;
+  --control-xlarge-paddingInline-normal: 0.75rem;
+  --control-xlarge-paddingInline-spacious: 1rem;
+  --control-xlarge-size: 3rem;
+  --control-xsmall-gap: 0.25rem;
+  --control-xsmall-lineBoxHeight: 1.25rem;
+  --control-xsmall-paddingInline-condensed: 0.25rem;
+  --control-xsmall-paddingInline-normal: 0.5rem;
+  --control-xsmall-paddingInline-spacious: 0.75rem;
+  --control-xsmall-size: 1.5rem;
+  --controlStack-large-gap-auto: 0.5rem;
+  --controlStack-large-gap-condensed: 0.5rem;
+  --controlStack-large-gap-spacious: 0.75rem;
+  --controlStack-medium-gap-condensed: 0.5rem;
+  --controlStack-medium-gap-spacious: 0.75rem;
+  --controlStack-small-gap-condensed: 0.5rem;
+  --controlStack-small-gap-spacious: 1rem;
+  --overlay-borderRadius: 0.375rem;
+  --overlay-padding-condensed: 0.5rem;
+  --overlay-padding-normal: 1rem;
+  --overlay-paddingBlock-condensed: 0.25rem;
+  --overlay-paddingBlock-normal: 0.75rem;
+  --spinner-size-large: 4rem;
+  --spinner-size-medium: 2rem;
+  --spinner-size-small: 1rem;
+  --stack-gap-condensed: 0.5rem;
+  --stack-gap-normal: 1rem;
+  --stack-gap-spacious: 1.5rem;
+  --stack-padding-condensed: 0.5rem;
+  --stack-padding-normal: 1rem;
+  --stack-padding-spacious: 1.5rem;
+}
+
+:root {
+  --fontStack-monospace: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; /** Monospace font stack for code, technical content, and tabular data. */
+  --fontStack-sansSerif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; /** Sans-serif font stack for body text and general UI elements. */
+  --fontStack-sansSerifDisplay: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; /** Display font stack for headings and titles. Same as sansSerif but semantically distinct. */
+  --fontStack-system: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; /** System font stack optimized for cross-platform rendering. Primary font for all UI text. */
+  --text-codeBlock-size: 0.8125rem;
+  --text-codeInline-size: 0.9285em;
+  --text-body-lineHeight-large: var(--base-text-lineHeight-normal);
+  --text-body-lineHeight-medium: var(--base-text-lineHeight-normal);
+  --text-body-lineHeight-small: var(--base-text-lineHeight-relaxed);
+  --text-body-size-large: var(--base-text-size-md);
+  --text-body-size-medium: var(--base-text-size-sm);
+  --text-body-size-small: var(--base-text-size-xs);
+  --text-body-weight: var(--base-text-weight-normal);
+  --text-caption-lineHeight: var(--base-text-lineHeight-tight);
+  --text-caption-size: var(--base-text-size-xs);
+  --text-caption-weight: var(--base-text-weight-normal);
+  --text-codeBlock-lineHeight: var(--base-text-lineHeight-normal);
+  --text-codeBlock-weight: var(--base-text-weight-normal);
+  --text-codeInline-weight: var(--base-text-weight-normal);
+  --text-display-lineBoxHeight: var(--base-text-lineHeight-snug);
+  --text-display-lineHeight: var(--base-text-lineHeight-snug);
+  --text-display-size: var(--base-text-size-2xl);
+  --text-display-weight: var(--base-text-weight-medium);
+  --text-subtitle-lineHeight: var(--base-text-lineHeight-relaxed);
+  --text-subtitle-size: var(--base-text-size-lg);
+  --text-subtitle-weight: var(--base-text-weight-normal);
+  --text-title-lineHeight-large: var(--base-text-lineHeight-normal);
+  --text-title-lineHeight-medium: var(--base-text-lineHeight-relaxed);
+  --text-title-lineHeight-small: var(--base-text-lineHeight-normal);
+  --text-title-size-large: var(--base-text-size-xl);
+  --text-title-size-medium: var(--base-text-size-lg);
+  --text-title-size-small: var(--base-text-size-md);
+  --text-title-weight-large: var(--base-text-weight-semibold);
+  --text-title-weight-medium: var(--base-text-weight-semibold);
+  --text-title-weight-small: var(--base-text-weight-semibold);
+  --text-body-shorthand-large: var(--text-body-weight) var(--text-body-size-large) / var(--text-body-lineHeight-large) var(--fontStack-sansSerif); /** User-generated content, markdown rendering. */
+  --text-body-shorthand-medium: var(--text-body-weight) var(--text-body-size-medium) / var(--text-body-lineHeight-medium) var(--fontStack-sansSerif); /** Default UI font. Most commonly used for body text. */
+  --text-body-shorthand-small: var(--text-body-weight) var(--text-body-size-small) / var(--text-body-lineHeight-small) var(--fontStack-sansSerif); /** Small body text for discrete UI applications, such as helper, footnote text. Should be used sparingly across pages. Line-height matches Body (medium) at 20px. */
+  --text-caption-shorthand: var(--text-caption-weight) var(--text-caption-size) / var(--text-caption-lineHeight) var(--fontStack-sansSerif); /** Compact small font with a smaller line height of 16px. Use it for single-line scenarios, as the small sizing doesn’t pass accessibility requirements. */
+  --text-codeBlock-shorthand: var(--text-codeBlock-weight) var(--text-codeBlock-size) / var(--text-codeBlock-lineHeight) var(--fontStack-monospace); /** Default style for rendering code blocks. */
+  --text-codeInline-shorthand: var(--text-codeInline-weight) var(--text-codeInline-size) var(--fontStack-monospace); /** Inline code blocks using em units to inherit size from its parent. */
+  --text-display-shorthand: var(--text-display-weight) var(--text-display-size) / var(--text-display-lineHeight) var(--fontStack-sansSerifDisplay); /** Hero-style text for brand to product transition pages. Utilize Title (large) styles on narrow viewports. */
+  --text-subtitle-shorthand: var(--text-subtitle-weight) var(--text-subtitle-size) / var(--text-subtitle-lineHeight) var(--fontStack-sansSerifDisplay); /** Page sections/sub headings, or less important object names in page titles (automated action titles, for example). Same line-height as title (medium). */
+  --text-title-shorthand-large: var(--text-title-weight-large) var(--text-title-size-large) / var(--text-title-lineHeight-large) var(--fontStack-sansSerifDisplay); /** Page headings for user-created objects, such as issues or pull requests. Utilize title (medium) styles on narrow viewports. */
+  --text-title-shorthand-medium: var(--text-title-weight-medium) var(--text-title-size-medium) / var(--text-title-lineHeight-medium) var(--fontStack-sansSerifDisplay); /** Default page title. The 32px-equivalent line-height matches with button and other medium control heights. Great for page header composition. */
+  --text-title-shorthand-small: var(--text-title-weight-small) var(--text-title-size-small) / var(--text-title-lineHeight-small) var(--fontStack-sansSerif); /** Uses the same size as body (large) with a heavier weight of semibold (600). */
+}
+
+
+
+@custom-media --viewportRange-landscape (orientation: landscape);
+@custom-media --viewportRange-narrow (max-width: calc(48rem - 0.02px));
+@custom-media --viewportRange-narrowLandscape ((max-width: calc(63.25rem - 0.02px)) and (max-height: calc(34rem - 0.02px)) and (orientation: landscape));
+@custom-media --viewportRange-portrait (orientation: portrait);
+@custom-media --viewportRange-regular (min-width: 48rem);
+@custom-media --viewportRange-wide (min-width: 87.5rem);
+
+
+/*# sourceMappingURL=index.scss.map */
+
+/*# sourceMappingURL=primer-primitives-63ffdefeb4c9.css.map*/

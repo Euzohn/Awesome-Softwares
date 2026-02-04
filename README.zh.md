@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-01-27
+> 📅 最后更新: 2026-02-04
 
 ## 📖 目录
 
@@ -41,59 +41,62 @@
 
 1. [Alfred](#alfred)
 2. [Animeko](#animeko)
-3. [Audacity](#audacity)
-4. [Better Shot](#better-shot)
-5. [BongoCat](#bongocat)
-6. [Boring Notch](#boring-notch)
-7. [Calibre](#calibre)
-8. [Chatbox](#chatbox)
-9. [Cherry Studio](#cherry-studio)
-10. [Chrome](#chrome)
-11. [Clash Nyanpasu](#clash-nyanpasu)
-12. [Clash Verge Rev](#clash-verge-rev)
-13. [CodeEdit](#codeedit)
-14. [Darktable](#darktable)
-15. [DynamicLake-Pro](#dynamiclake-pro)
-16. [Easydict](#easydict)
-17. [File-Converter](#file-converter)
-18. [FlameShot](#flameshot)
-19. [HandBrake](#handbrake)
-20. [Ice](#ice)
-21. [IINA](#iina)
-22. [ImageOptim](#imageoptim)
-23. [iTerm2](#iterm2)
-24. [Joplin](#joplin)
-25. [Karing](#karing)
-26. [Keka](#keka)
-27. [KOReader](#koreader)
-28. [Launchy](#launchy)
-29. [LocalSend](#localsend)
-30. [Logseq](#logseq)
-31. [Mac Mouse Fix](#mac-mouse-fix)
-32. [MarkText](#marktext)
-33. [Marp](#marp)
-34. [Modern-CSV](#modern-csv)
-35. [Motrix](#motrix)
-36. [mpv](#mpv)
-37. [Neovim](#neovim)
-38. [OBS](#obs)
-39. [PicGo](#picgo)
-40. [Popcorn-Time](#popcorn-time)
-41. [QuickRecorder](#quickrecorder)
-42. [RunCat365](#runcat365)
-43. [RustDesk](#rustdesk)
-44. [ShareX](#sharex)
-45. [Snippai](#snippai)
-46. [Stats](#stats)
-47. [Sublime-Text](#sublime-text)
-48. [Transnomino](#transnomino)
-49. [Typora](#typora)
-50. [Ulauncher](#ulauncher)
-51. [uPic](#upic)
-52. [Utools](#utools)
-53. [VidBee](#vidbee)
-54. [Zen Browser](#zen-browser)
-55. [Zettlr](#zettlr)
+3. [Applite](#applite)
+4. [Audacity](#audacity)
+5. [Better Shot](#better-shot)
+6. [BongoCat](#bongocat)
+7. [Boring Notch](#boring-notch)
+8. [Calibre](#calibre)
+9. [Chatbox](#chatbox)
+10. [ChatMCP](#chatmcp)
+11. [Cherry Studio](#cherry-studio)
+12. [Chrome](#chrome)
+13. [Clash Nyanpasu](#clash-nyanpasu)
+14. [Clash Verge Rev](#clash-verge-rev)
+15. [CodeEdit](#codeedit)
+16. [Darktable](#darktable)
+17. [DynamicLake-Pro](#dynamiclake-pro)
+18. [Easydict](#easydict)
+19. [File-Converter](#file-converter)
+20. [FlameShot](#flameshot)
+21. [HandBrake](#handbrake)
+22. [Ice](#ice)
+23. [IINA](#iina)
+24. [ImageOptim](#imageoptim)
+25. [iTerm2](#iterm2)
+26. [Joplin](#joplin)
+27. [Karing](#karing)
+28. [Keka](#keka)
+29. [KOReader](#koreader)
+30. [Launchy](#launchy)
+31. [LocalSend](#localsend)
+32. [Logseq](#logseq)
+33. [Mac Mouse Fix](#mac-mouse-fix)
+34. [MarkText](#marktext)
+35. [Marp](#marp)
+36. [Modern-CSV](#modern-csv)
+37. [Motrix](#motrix)
+38. [mpv](#mpv)
+39. [Neovim](#neovim)
+40. [OBS](#obs)
+41. [Onlook](#onlook)
+42. [PicGo](#picgo)
+43. [Popcorn-Time](#popcorn-time)
+44. [QuickRecorder](#quickrecorder)
+45. [RunCat365](#runcat365)
+46. [RustDesk](#rustdesk)
+47. [ShareX](#sharex)
+48. [Snippai](#snippai)
+49. [Stats](#stats)
+50. [Sublime-Text](#sublime-text)
+51. [Transnomino](#transnomino)
+52. [Typora](#typora)
+53. [Ulauncher](#ulauncher)
+54. [uPic](#upic)
+55. [Utools](#utools)
+56. [VidBee](#vidbee)
+57. [Zen Browser](#zen-browser)
+58. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -543,6 +546,22 @@
 | **✨ 亮点** | - 将 notch 转化为功能区<br>- 音乐控制与可视化<br>- 电池指示器<br>- 日历提醒<br>- 文件架拖拽<br>- 替换 macOS HUD |
 | **🏷 分类** | #macOS #开源软件 #免费软件
 
+<a id="applite"></a>
+## Applite
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/applite-logo.png" alt="Applite Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://aerolite.dev/applite) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | 友好的 macOS 图形界面应用程序，用于管理 Homebrew Casks |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/milanvarady/Applite) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/milanvarady/Applite?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 一键安装、更新和卸载应用程序<br>- 为非技术用户设计的简洁 UI<br>- 免费且开源<br>- 与现有 brew 安装兼容<br>- 支持系统代理<br>- 精心挑选的精彩应用程序库 |
+| **🏷 分类** | #macOS #开源软件 #免费软件
+
 
 <a id="开发与编程"></a>
 ## 💻 开发与编程
@@ -911,6 +930,22 @@
 | **✨ 亮点** | - 支持60+托管服务<br>- 插件系统<br>- 剪贴板上传<br>- 批量上传<br>- 编辑器集成 |
 | **🏷 分类** | #图片上传 #图床 #Markdown #开源软件 #跨平台
 
+<a id="onlook"></a>
+## Onlook
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/onlook-logo.svg" alt="Onlook Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://www.onlook.com/) |
+| **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 功能用途** | Cursor for Designers • 开源 AI-First 设计工具 • 可视化构建、样式化和编辑 React 应用 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/onlook-dev/onlook) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - AI 驱动的设计工具<br>- 可视化构建 React 应用<br>- 支持 Next.js 和 TailwindCSS<br>- 实时预览和编辑<br>- 开源免费 |
+| **🏷 分类** | #开源软件 #免费软件 #人工智能 #设计工具 #跨平台
+
 
 <a id="远程协作与通讯"></a>
 ## 🖥️ 远程协作与通讯
@@ -1018,6 +1053,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 支持文档和图像聊天<br>- 代码生成和预览<br>- 实时网络搜索<br>- 数据可视化<br>- 多平台支持 |
 | **🏷 分类** | #AI客户端 #多模型 #聊天助手 #开源软件 #跨平台
+
+<a id="chatmcp"></a>
+## ChatMCP
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chatmcp-logo.png" alt="ChatMCP Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://daodao97.github.io/chatmcp/) |
+| **🖥 适用系统** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | ChatMCP 是实现 Model Context Protocol (MCP) 的 AI 聊天客户端 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/daodao97/chatmcp) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/daodao97/chatmcp?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - 实现 Model Context Protocol (MCP)<br>- 支持多种 AI 模型<br>- 跨平台客户端<br>- MCP 服务器市场<br>- 本地数据存储 |
+| **🏷 分类** | #开源软件 #免费软件 #人工智能 #聊天客户端 #跨平台
 
 
 <a id="安全与隐私"></a>

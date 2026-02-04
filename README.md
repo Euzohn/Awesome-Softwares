@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-01-27
+> 📅 Last Updated: 2026-02-04
 
 ## 📖 Table of Contents
 
@@ -41,59 +41,62 @@
 
 1. [Alfred](#alfred)
 2. [Animeko](#animeko)
-3. [Audacity](#audacity)
-4. [Better Shot](#better-shot)
-5. [BongoCat](#bongocat)
-6. [Boring Notch](#boring-notch)
-7. [Calibre](#calibre)
-8. [Chatbox](#chatbox)
-9. [Cherry Studio](#cherry-studio)
-10. [Chrome](#chrome)
-11. [Clash Nyanpasu](#clash-nyanpasu)
-12. [Clash Verge Rev](#clash-verge-rev)
-13. [CodeEdit](#codeedit)
-14. [Darktable](#darktable)
-15. [DynamicLake-Pro](#dynamiclake-pro)
-16. [Easydict](#easydict)
-17. [File-Converter](#file-converter)
-18. [FlameShot](#flameshot)
-19. [HandBrake](#handbrake)
-20. [Ice](#ice)
-21. [IINA](#iina)
-22. [ImageOptim](#imageoptim)
-23. [iTerm2](#iterm2)
-24. [Joplin](#joplin)
-25. [Karing](#karing)
-26. [Keka](#keka)
-27. [KOReader](#koreader)
-28. [Launchy](#launchy)
-29. [LocalSend](#localsend)
-30. [Logseq](#logseq)
-31. [Mac Mouse Fix](#mac-mouse-fix)
-32. [MarkText](#marktext)
-33. [Marp](#marp)
-34. [Modern-CSV](#modern-csv)
-35. [Motrix](#motrix)
-36. [mpv](#mpv)
-37. [Neovim](#neovim)
-38. [OBS](#obs)
-39. [PicGo](#picgo)
-40. [Popcorn-Time](#popcorn-time)
-41. [QuickRecorder](#quickrecorder)
-42. [RunCat365](#runcat365)
-43. [RustDesk](#rustdesk)
-44. [ShareX](#sharex)
-45. [Snippai](#snippai)
-46. [Stats](#stats)
-47. [Sublime-Text](#sublime-text)
-48. [Transnomino](#transnomino)
-49. [Typora](#typora)
-50. [Ulauncher](#ulauncher)
-51. [uPic](#upic)
-52. [Utools](#utools)
-53. [VidBee](#vidbee)
-54. [Zen Browser](#zen-browser)
-55. [Zettlr](#zettlr)
+3. [Applite](#applite)
+4. [Audacity](#audacity)
+5. [Better Shot](#better-shot)
+6. [BongoCat](#bongocat)
+7. [Boring Notch](#boring-notch)
+8. [Calibre](#calibre)
+9. [Chatbox](#chatbox)
+10. [ChatMCP](#chatmcp)
+11. [Cherry Studio](#cherry-studio)
+12. [Chrome](#chrome)
+13. [Clash Nyanpasu](#clash-nyanpasu)
+14. [Clash Verge Rev](#clash-verge-rev)
+15. [CodeEdit](#codeedit)
+16. [Darktable](#darktable)
+17. [DynamicLake-Pro](#dynamiclake-pro)
+18. [Easydict](#easydict)
+19. [File-Converter](#file-converter)
+20. [FlameShot](#flameshot)
+21. [HandBrake](#handbrake)
+22. [Ice](#ice)
+23. [IINA](#iina)
+24. [ImageOptim](#imageoptim)
+25. [iTerm2](#iterm2)
+26. [Joplin](#joplin)
+27. [Karing](#karing)
+28. [Keka](#keka)
+29. [KOReader](#koreader)
+30. [Launchy](#launchy)
+31. [LocalSend](#localsend)
+32. [Logseq](#logseq)
+33. [Mac Mouse Fix](#mac-mouse-fix)
+34. [MarkText](#marktext)
+35. [Marp](#marp)
+36. [Modern-CSV](#modern-csv)
+37. [Motrix](#motrix)
+38. [mpv](#mpv)
+39. [Neovim](#neovim)
+40. [OBS](#obs)
+41. [Onlook](#onlook)
+42. [PicGo](#picgo)
+43. [Popcorn-Time](#popcorn-time)
+44. [QuickRecorder](#quickrecorder)
+45. [RunCat365](#runcat365)
+46. [RustDesk](#rustdesk)
+47. [ShareX](#sharex)
+48. [Snippai](#snippai)
+49. [Stats](#stats)
+50. [Sublime-Text](#sublime-text)
+51. [Transnomino](#transnomino)
+52. [Typora](#typora)
+53. [Ulauncher](#ulauncher)
+54. [uPic](#upic)
+55. [Utools](#utools)
+56. [VidBee](#vidbee)
+57. [Zen Browser](#zen-browser)
+58. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -543,6 +546,22 @@
 | **✨ Highlights** | - Transforms notch into functional area<br>- Music controls and visualizations<br>- Battery indicators<br>- Calendar reminders<br>- File shelf for drag-and-drop<br>- Replaces macOS HUDs |
 | **🏷 Tags** | #macOS #Open Source #Freeware
 
+<a id="applite"></a>
+## Applite
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/applite-logo.png" alt="Applite Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://aerolite.dev/applite) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | User-friendly GUI macOS application for Homebrew Casks |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/milanvarady/Applite) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/milanvarady/Applite?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Install, update, and uninstall apps with a single click<br>- Clean and simple UI designed for non-technical users<br>- Free and open source<br>- Works with existing brew installation<br>- Supports system proxy<br>- Handpicked gallery of awesome apps |
+| **🏷 Tags** | #macOS #Open Source #Freeware
+
 
 <a id="development-&-programming"></a>
 ## 💻 Development & Programming
@@ -911,6 +930,22 @@
 | **✨ Highlights** | - Supports 60+ hosting services<br>- Plugin system<br>- Clipboard upload<br>- Batch upload<br>- Editor integration |
 | **🏷 Tags** | #Image Upload #Image Hosting #Markdown #Open Source #Cross-platform
 
+<a id="onlook"></a>
+## Onlook
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/onlook-logo.svg" alt="Onlook Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://www.onlook.com/) |
+| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) |
+| **🛠 Description** | Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/onlook-dev/onlook) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - AI-powered design tool<br>- Visual React app building<br>- Supports Next.js and TailwindCSS<br>- Real-time preview and editing<br>- Open source and free |
+| **🏷 Tags** | #Open Source #Freeware #AI #Design Tool #Cross-platform
+
 
 <a id="remote-&-communication"></a>
 ## 🖥️ Remote & Communication
@@ -1018,6 +1053,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Chat with documents & images<br>- Code generation & preview<br>- Real-time web search<br>- Data visualization<br>- Multi-platform support |
 | **🏷 Tags** | #AI Client #Multi-model #Chat Assistant #Open Source #Cross-platform
+
+<a id="chatmcp"></a>
+## ChatMCP
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="./images/chatmcp-logo.png" alt="ChatMCP Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://daodao97.github.io/chatmcp/) |
+| **🖥 Platforms** | ![Web](https://img.shields.io/badge/Web-4285F4?logo=chrome&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | ChatMCP is an AI chat client implementing the Model Context Protocol (MCP) |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/daodao97/chatmcp) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/daodao97/chatmcp?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Implements Model Context Protocol (MCP)<br>- Supports multiple AI models<br>- Cross-platform client<br>- MCP server marketplace<br>- Local data storage |
+| **🏷 Tags** | #Open Source #Freeware #AI #Chat Client #Cross-platform
 
 
 <a id="security-&-privacy"></a>
