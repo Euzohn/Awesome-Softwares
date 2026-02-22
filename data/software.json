@@ -12,7 +12,7 @@
       "open_source": true,
       "free": true,
       "github": "iina/iina",
-      "stars": 43488,
+      "stars": 43870,
       "tags": [
         "播放器",
         "macOS",
@@ -49,7 +49,7 @@
       "open_source": true,
       "free": true,
       "github": "popcorntime/popcorntime",
-      "stars": 10477,
+      "stars": 10500,
       "tags": [
         "播放器",
         "跨平台",
@@ -94,7 +94,7 @@
       "open_source": true,
       "free": true,
       "github": "mpv-player/mpv",
-      "stars": 33719,
+      "stars": 34144,
       "tags": [
         "播放器",
         "跨平台",
@@ -146,7 +146,7 @@
       "open_source": true,
       "free": true,
       "github": "localsend/localsend",
-      "stars": 73793,
+      "stars": 75328,
       "tags": [
         "文件传输",
         "跨平台",
@@ -187,7 +187,7 @@
       "open_source": true,
       "free": true,
       "github": "agalwood/Motrix",
-      "stars": 50603,
+      "stars": 50867,
       "tags": [
         "下载管理器",
         "BT",
@@ -231,7 +231,7 @@
       "open_source": true,
       "free": true,
       "github": "aonez/Keka",
-      "stars": 6305,
+      "stars": 6406,
       "tags": [
         "文件管理",
         "压缩",
@@ -343,7 +343,7 @@
       "open_source": true,
       "free": true,
       "github": "gnachman/iTerm2",
-      "stars": 16840,
+      "stars": 17000,
       "tags": [
         "开发工具",
         "终端",
@@ -465,7 +465,7 @@
       "open_source": true,
       "free": true,
       "github": "rustdesk/rustdesk",
-      "stars": 106229,
+      "stars": 107861,
       "tags": [
         "远程桌面",
         "跨平台",
@@ -510,7 +510,7 @@
       "open_source": true,
       "free": true,
       "github": "obsproject/obs-studio",
-      "stars": 69916,
+      "stars": 70485,
       "tags": [
         "音视频处理",
         "直播",
@@ -551,7 +551,7 @@
       "open_source": true,
       "free": true,
       "github": "lihaoyun6/QuickRecorder",
-      "stars": 7868,
+      "stars": 7970,
       "tags": [
         "音视频处理",
         "macOS"
@@ -590,7 +590,7 @@
       "open_source": true,
       "free": true,
       "github": "audacity/audacity",
-      "stars": 16362,
+      "stars": 16514,
       "tags": [
         "音频编辑",
         "录音",
@@ -716,7 +716,7 @@
       "open_source": true,
       "free": true,
       "github": "laurent22/joplin",
-      "stars": 53060,
+      "stars": 53533,
       "tags": [
         "Markdown",
         "笔记",
@@ -768,7 +768,7 @@
       "open_source": true,
       "free": true,
       "github": "logseq/logseq",
-      "stars": 40519,
+      "stars": 41148,
       "tags": [
         "Markdown",
         "知识管理",
@@ -817,7 +817,7 @@
       "open_source": true,
       "free": true,
       "github": "marktext/marktext",
-      "stars": 53427,
+      "stars": 53996,
       "tags": [
         "Markdown",
         "编辑器",
@@ -858,7 +858,7 @@
       "open_source": true,
       "free": true,
       "github": "jordanbaird/Ice",
-      "stars": 25544,
+      "stars": 26078,
       "tags": [
         "系统工具",
         "macOS"
@@ -895,7 +895,7 @@
       "open_source": true,
       "free": true,
       "github": "exelban/stats",
-      "stars": 35994,
+      "stars": 36556,
       "tags": [
         "系统工具",
         "macOS"
@@ -967,7 +967,7 @@
       "open_source": true,
       "free": true,
       "github": "ImageOptim/ImageOptim",
-      "stars": 9710,
+      "stars": 9733,
       "tags": [
         "图像处理",
         "macOS"
@@ -1002,7 +1002,7 @@
       "open_source": true,
       "free": true,
       "github": "xyTom/snippai",
-      "stars": 1449,
+      "stars": 1474,
       "tags": [
         "截图工具",
         "跨平台",
@@ -1090,7 +1090,7 @@
       "open_source": true,
       "free": true,
       "github": "zen-browser/desktop",
-      "stars": 39694,
+      "stars": 40224,
       "tags": [
         "浏览器",
         "生产力工具",
@@ -1135,7 +1135,7 @@
       "open_source": true,
       "free": true,
       "github": "ayangweb/BongoCat",
-      "stars": 17343,
+      "stars": 18576,
       "tags": [
         "趣味工具",
         "跨平台",
@@ -1172,7 +1172,7 @@
       "open_source": true,
       "free": true,
       "github": "Kyome22/RunCat365",
-      "stars": 9789,
+      "stars": 9870,
       "tags": [
         "趣味工具",
         "Windows"
@@ -1203,7 +1203,7 @@
       "open_source": true,
       "free": true,
       "github": "Tichau/FileConverter",
-      "stars": 13405,
+      "stars": 13647,
       "tags": [
         "文件管理",
         "Windows",
@@ -1246,7 +1246,7 @@
       "open_source": true,
       "free": true,
       "github": "KartikLabhshetwar/better-shot",
-      "stars": 1247,
+      "stars": 1456,
       "tags": [
         "截图工具",
         "macOS",
@@ -1291,7 +1291,7 @@
       "open_source": true,
       "free": true,
       "github": "ShareX/ShareX",
-      "stars": 35331,
+      "stars": 35675,
       "tags": [
         "截图工具",
         "Windows",
@@ -1332,7 +1332,7 @@
       "open_source": true,
       "free": true,
       "github": "flameshot-org/flameshot",
-      "stars": 28704,
+      "stars": 29337,
       "tags": [
         "截图工具",
         "Linux",
@@ -1377,7 +1377,7 @@
       "open_source": true,
       "free": true,
       "github": "kovidgoyal/calibre",
-      "stars": 23452,
+      "stars": 24157,
       "tags": [
         "电子书",
         "Windows",
@@ -1420,7 +1420,7 @@
       "open_source": true,
       "free": true,
       "github": "Punshnut/macos-launchy",
-      "stars": 66,
+      "stars": 90,
       "tags": [
         "启动器",
         "macOS",
@@ -1462,7 +1462,7 @@
       "free": false,
       "price": "$2.99",
       "github": "noah-nuebling/mac-mouse-fix",
-      "stars": 9063,
+      "stars": 9230,
       "tags": [
         "鼠标增强",
         "系统工具",
@@ -1503,7 +1503,7 @@
       "open_source": true,
       "free": true,
       "github": "Ulauncher/Ulauncher",
-      "stars": 4334,
+      "stars": 4367,
       "tags": [
         "启动器",
         "Linux",
@@ -1547,7 +1547,7 @@
       "free": true,
       "cost": "free",
       "github": "koreader/koreader",
-      "stars": 25102,
+      "stars": 25488,
       "tags": [
         "电子书",
         "阅读器",
@@ -1589,7 +1589,7 @@
       "free": true,
       "cost": "free",
       "github": "neovim/neovim",
-      "stars": 95929,
+      "stars": 96665,
       "tags": [
         "文本编辑器",
         "Vim",
@@ -1633,7 +1633,7 @@
       "free": true,
       "cost": "free",
       "github": "CodeEditApp/CodeEdit",
-      "stars": 22635,
+      "stars": 22677,
       "tags": [
         "代码编辑器",
         "macOS",
@@ -1679,7 +1679,7 @@
       "free": true,
       "cost": "free",
       "github": "Zettlr/Zettlr",
-      "stars": 12444,
+      "stars": 12543,
       "tags": [
         "Markdown",
         "学术写作",
@@ -1725,7 +1725,7 @@
       "free": true,
       "cost": "free",
       "github": "marp-team/marp",
-      "stars": 10279,
+      "stars": 10453,
       "tags": [
         "Markdown",
         "演示",
@@ -1771,7 +1771,7 @@
       "free": true,
       "cost": "free",
       "github": "darktable-org/darktable",
-      "stars": 11920,
+      "stars": 12045,
       "tags": [
         "摄影",
         "RAW处理",
@@ -1817,7 +1817,7 @@
       "free": true,
       "cost": "free",
       "github": "CherryHQ/cherry-studio",
-      "stars": 38299,
+      "stars": 40001,
       "tags": [
         "AI助手",
         "多模型",
@@ -1866,7 +1866,7 @@
       "free": true,
       "cost": "free",
       "github": "chatboxai/chatbox",
-      "stars": 38249,
+      "stars": 38560,
       "tags": [
         "AI客户端",
         "多模型",
@@ -1914,7 +1914,7 @@
       "free": true,
       "cost": "free",
       "github": "KaringX/karing",
-      "stars": 9248,
+      "stars": 9772,
       "tags": [
         "代理工具",
         "网络工具",
@@ -1960,7 +1960,7 @@
       "free": true,
       "cost": "free",
       "github": "clash-verge-rev/clash-verge-rev",
-      "stars": 93894,
+      "stars": 97938,
       "tags": [
         "代理工具",
         "Clash",
@@ -2006,7 +2006,7 @@
       "free": true,
       "cost": "free",
       "github": "HandBrake/HandBrake",
-      "stars": 22194,
+      "stars": 22421,
       "tags": [
         "视频转码",
         "编解码器",
@@ -2051,7 +2051,7 @@
       "open_source": true,
       "free": true,
       "github": "nexmoe/VidBee",
-      "stars": 0,
+      "stars": 6534,
       "tags": [
         "视频下载",
         "下载器",
@@ -2097,7 +2097,7 @@
       "free": true,
       "cost": "free",
       "github": "libnyanpasu/clash-nyanpasu",
-      "stars": 12683,
+      "stars": 12789,
       "tags": [
         "代理工具",
         "Clash",
@@ -2145,7 +2145,7 @@
       "free": true,
       "cost": "free",
       "github": "open-ani/animeko",
-      "stars": 14576,
+      "stars": 15403,
       "tags": [
         "动漫",
         "追番",
@@ -2191,7 +2191,7 @@
       "free": true,
       "cost": "free",
       "github": "gee1k/uPic",
-      "stars": 3691,
+      "stars": 3696,
       "tags": [
         "图片上传",
         "文件上传",
@@ -2237,7 +2237,7 @@
       "free": true,
       "cost": "free",
       "github": "Molunerfinn/PicGo",
-      "stars": 26243,
+      "stars": 26340,
       "tags": [
         "图片上传",
         "图床",
@@ -2281,7 +2281,7 @@
       "free": true,
       "cost": "free",
       "github": "tisfeng/Easydict",
-      "stars": 11944,
+      "stars": 12279,
       "tags": [
         "翻译",
         "词典",
@@ -2324,7 +2324,7 @@
       "open_source": true,
       "free": true,
       "github": "TheBoredTeam/boring.notch",
-      "stars": 6706,
+      "stars": 7209,
       "tags": [
         "macOS",
         "开源软件",
@@ -2365,7 +2365,7 @@
       "open_source": true,
       "free": true,
       "github": "milanvarady/Applite",
-      "stars": 6300,
+      "stars": 6442,
       "tags": [
         "macOS",
         "开源软件",
@@ -2409,7 +2409,7 @@
       "open_source": true,
       "free": true,
       "github": "onlook-dev/onlook",
-      "stars": 24600,
+      "stars": 24727,
       "tags": [
         "开源软件",
         "免费软件",
@@ -2457,7 +2457,7 @@
       "open_source": true,
       "free": true,
       "github": "daodao97/chatmcp",
-      "stars": 2200,
+      "stars": 2170,
       "tags": [
         "开源软件",
         "免费软件",
