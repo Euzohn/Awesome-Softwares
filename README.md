@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-02-04
+> 📅 Last Updated: 2026-02-22
 
 ## 📖 Table of Contents
 
