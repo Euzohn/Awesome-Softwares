@@ -4,7 +4,7 @@
 
 > 本仓库整理并收录常用软件的信息，包括官网地址、支持平台、主要用途、开源与否、GitHub 仓库链接、功能亮点及分类标签等，旨在作为一个清晰、可查阅的软件清单索引。
 
-> 📅 最后更新: 2026-02-22
+> 📅 最后更新: 2026-10-20
 
 ## 📖 目录
 
@@ -59,44 +59,45 @@
 18. [Easydict](#easydict)
 19. [File-Converter](#file-converter)
 20. [FlameShot](#flameshot)
-21. [HandBrake](#handbrake)
-22. [Ice](#ice)
-23. [IINA](#iina)
-24. [ImageOptim](#imageoptim)
-25. [iTerm2](#iterm2)
-26. [Joplin](#joplin)
-27. [Karing](#karing)
-28. [Keka](#keka)
-29. [KOReader](#koreader)
-30. [Launchy](#launchy)
-31. [LocalSend](#localsend)
-32. [Logseq](#logseq)
-33. [Mac Mouse Fix](#mac-mouse-fix)
-34. [MarkText](#marktext)
-35. [Marp](#marp)
-36. [Modern-CSV](#modern-csv)
-37. [Motrix](#motrix)
-38. [mpv](#mpv)
-39. [Neovim](#neovim)
-40. [OBS](#obs)
-41. [Onlook](#onlook)
-42. [PicGo](#picgo)
-43. [Popcorn-Time](#popcorn-time)
-44. [QuickRecorder](#quickrecorder)
-45. [RunCat365](#runcat365)
-46. [RustDesk](#rustdesk)
-47. [ShareX](#sharex)
-48. [Snippai](#snippai)
-49. [Stats](#stats)
-50. [Sublime-Text](#sublime-text)
-51. [Transnomino](#transnomino)
-52. [Typora](#typora)
-53. [Ulauncher](#ulauncher)
-54. [uPic](#upic)
-55. [Utools](#utools)
-56. [VidBee](#vidbee)
-57. [Zen Browser](#zen-browser)
-58. [Zettlr](#zettlr)
+21. [Glim](#glim)
+22. [HandBrake](#handbrake)
+23. [Ice](#ice)
+24. [IINA](#iina)
+25. [ImageOptim](#imageoptim)
+26. [iTerm2](#iterm2)
+27. [Joplin](#joplin)
+28. [Karing](#karing)
+29. [Keka](#keka)
+30. [KOReader](#koreader)
+31. [Launchy](#launchy)
+32. [LocalSend](#localsend)
+33. [Logseq](#logseq)
+34. [Mac Mouse Fix](#mac-mouse-fix)
+35. [MarkText](#marktext)
+36. [Marp](#marp)
+37. [Modern-CSV](#modern-csv)
+38. [Motrix](#motrix)
+39. [mpv](#mpv)
+40. [Neovim](#neovim)
+41. [OBS](#obs)
+42. [Onlook](#onlook)
+43. [PicGo](#picgo)
+44. [Popcorn-Time](#popcorn-time)
+45. [QuickRecorder](#quickrecorder)
+46. [RunCat365](#runcat365)
+47. [RustDesk](#rustdesk)
+48. [ShareX](#sharex)
+49. [Snippai](#snippai)
+50. [Stats](#stats)
+51. [Sublime-Text](#sublime-text)
+52. [Transnomino](#transnomino)
+53. [Typora](#typora)
+54. [Ulauncher](#ulauncher)
+55. [uPic](#upic)
+56. [Utools](#utools)
+57. [VidBee](#vidbee)
+58. [Zen Browser](#zen-browser)
+59. [Zettlr](#zettlr)
 
 
 <a id="多媒体与音视频"></a>
@@ -345,6 +346,22 @@
 | **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ 亮点** | - 支持多种电子书格式<br>- 开源免费<br>- 跨平台兼容<br>- 专注阅读体验 |
 | **🏷 分类** | #电子书 #阅读器 #开源软件 #跨平台
+
+<a id="glim"></a>
+## Glim
+
+| 信息项 | 详情 |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/branding/glim.png" alt="Glim Logo" width="120"/> |
+| **🌐 官网** | [点击访问](https://github.com/NeoPanic/Glim) |
+| **🖥 适用系统** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 功能用途** | macOS 多格式文件查看器，支持基础文本编辑和只读电子书阅读 |
+| **🔓 是否开源** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub 源代码** | [GitHub Link](https://github.com/NeoPanic/Glim) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/NeoPanic/Glim?style=social) |
+| **💰 是否免费** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ 亮点** | - Markdown 图表、源代码、Git 差异和结构化数据预览<br>- EPUB、FB2 和 CBZ 只读阅读，支持目录导航和阅读位置保存<br>- 提供 Apple Silicon 和 Intel 版本；PDF 和 Office 预览保持只读 |
+| **🏷 分类** | #文件查看器 #Markdown #Git #电子书
 
 
 <a id="网络工具与浏览器"></a>
