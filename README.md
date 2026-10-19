@@ -4,7 +4,7 @@
 
 > A curated list of awesome software tools with their websites, platforms, descriptions, open source status, GitHub links, features, and tags.
 
-> 📅 Last Updated: 2026-02-22
+> 📅 Last Updated: 2026-10-20
 
 ## 📖 Table of Contents
 
@@ -59,44 +59,45 @@
 18. [Easydict](#easydict)
 19. [File-Converter](#file-converter)
 20. [FlameShot](#flameshot)
-21. [HandBrake](#handbrake)
-22. [Ice](#ice)
-23. [IINA](#iina)
-24. [ImageOptim](#imageoptim)
-25. [iTerm2](#iterm2)
-26. [Joplin](#joplin)
-27. [Karing](#karing)
-28. [Keka](#keka)
-29. [KOReader](#koreader)
-30. [Launchy](#launchy)
-31. [LocalSend](#localsend)
-32. [Logseq](#logseq)
-33. [Mac Mouse Fix](#mac-mouse-fix)
-34. [MarkText](#marktext)
-35. [Marp](#marp)
-36. [Modern-CSV](#modern-csv)
-37. [Motrix](#motrix)
-38. [mpv](#mpv)
-39. [Neovim](#neovim)
-40. [OBS](#obs)
-41. [Onlook](#onlook)
-42. [PicGo](#picgo)
-43. [Popcorn-Time](#popcorn-time)
-44. [QuickRecorder](#quickrecorder)
-45. [RunCat365](#runcat365)
-46. [RustDesk](#rustdesk)
-47. [ShareX](#sharex)
-48. [Snippai](#snippai)
-49. [Stats](#stats)
-50. [Sublime-Text](#sublime-text)
-51. [Transnomino](#transnomino)
-52. [Typora](#typora)
-53. [Ulauncher](#ulauncher)
-54. [uPic](#upic)
-55. [Utools](#utools)
-56. [VidBee](#vidbee)
-57. [Zen Browser](#zen-browser)
-58. [Zettlr](#zettlr)
+21. [Glim](#glim)
+22. [HandBrake](#handbrake)
+23. [Ice](#ice)
+24. [IINA](#iina)
+25. [ImageOptim](#imageoptim)
+26. [iTerm2](#iterm2)
+27. [Joplin](#joplin)
+28. [Karing](#karing)
+29. [Keka](#keka)
+30. [KOReader](#koreader)
+31. [Launchy](#launchy)
+32. [LocalSend](#localsend)
+33. [Logseq](#logseq)
+34. [Mac Mouse Fix](#mac-mouse-fix)
+35. [MarkText](#marktext)
+36. [Marp](#marp)
+37. [Modern-CSV](#modern-csv)
+38. [Motrix](#motrix)
+39. [mpv](#mpv)
+40. [Neovim](#neovim)
+41. [OBS](#obs)
+42. [Onlook](#onlook)
+43. [PicGo](#picgo)
+44. [Popcorn-Time](#popcorn-time)
+45. [QuickRecorder](#quickrecorder)
+46. [RunCat365](#runcat365)
+47. [RustDesk](#rustdesk)
+48. [ShareX](#sharex)
+49. [Snippai](#snippai)
+50. [Stats](#stats)
+51. [Sublime-Text](#sublime-text)
+52. [Transnomino](#transnomino)
+53. [Typora](#typora)
+54. [Ulauncher](#ulauncher)
+55. [uPic](#upic)
+56. [Utools](#utools)
+57. [VidBee](#vidbee)
+58. [Zen Browser](#zen-browser)
+59. [Zettlr](#zettlr)
 
 
 <a id="multimedia-&-av"></a>
@@ -345,6 +346,22 @@
 | **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
 | **✨ Highlights** | - Supports many ebook formats<br>- Free and open source<br>- Cross-platform compatibility<br>- Focused on reading experience |
 | **🏷 Tags** | #Ebook #Reader #Open Source #Cross-platform
+
+<a id="glim"></a>
+## Glim
+
+| Item | Details |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖼 Logo** | <img src="https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/branding/glim.png" alt="Glim Logo" width="120"/> |
+| **🌐 Website** | [Visit](https://github.com/NeoPanic/Glim) |
+| **🖥 Platforms** | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge) |
+| **🛠 Description** | macOS file viewer with basic text editing and read-only ebook reading |
+| **🔓 Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) |
+| **📦 GitHub Repository** | [GitHub Link](https://github.com/NeoPanic/Glim) |
+| **⭐ GitHub Stars** | ![Stars](https://img.shields.io/github/stars/NeoPanic/Glim?style=social) |
+| **💰 Cost** | ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) |
+| **✨ Highlights** | - Preview Markdown diagrams, source code, Git diffs and structured data<br>- Read-only EPUB, FB2 and CBZ reading with contents navigation and saved position<br>- Apple Silicon and Intel builds; PDF and Office previews remain read-only |
+| **🏷 Tags** | #File Viewer #Markdown #Git #Ebooks
 
 
 <a id="internet-&-browsers"></a>
