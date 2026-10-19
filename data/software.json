@@ -1575,6 +1575,44 @@
       "logo": "https://raw.githubusercontent.com/koreader/koreader/master/resources/koreader.svg"
     },
     {
+      "name": "Glim",
+      "description": "macOS 多格式文件查看器，支持基础文本编辑和只读电子书阅读",
+      "description_en": "macOS file viewer with basic text editing and read-only ebook reading",
+      "website": "https://github.com/NeoPanic/Glim",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "文件管理与传输",
+      "open_source": true,
+      "free": true,
+      "cost": "free",
+      "github": "NeoPanic/Glim",
+      "stars": 18,
+      "tags": [
+        "文件查看器",
+        "Markdown",
+        "Git",
+        "电子书"
+      ],
+      "tags_en": [
+        "File Viewer",
+        "Markdown",
+        "Git",
+        "Ebooks"
+      ],
+      "highlights": [
+        "Markdown 图表、源代码、Git 差异和结构化数据预览",
+        "EPUB、FB2 和 CBZ 只读阅读，支持目录导航和阅读位置保存",
+        "提供 Apple Silicon 和 Intel 版本；PDF 和 Office 预览保持只读"
+      ],
+      "highlights_en": [
+        "Preview Markdown diagrams, source code, Git diffs and structured data",
+        "Read-only EPUB, FB2 and CBZ reading with contents navigation and saved position",
+        "Apple Silicon and Intel builds; PDF and Office previews remain read-only"
+      ],
+      "logo": "https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/branding/glim.png"
+    },
+    {
       "name": "Neovim",
       "description": "超可扩展的基于Vim的文本编辑器",
       "description_en": "hyperextensible Vim-based text editor",
